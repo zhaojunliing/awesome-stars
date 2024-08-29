@@ -626,7 +626,7 @@
 - [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 - [admitted/git-recipes](https://github.com/admitted/git-recipes) - :octocat: Git recipes in Chinese. 高质量的Git中文教程.
 - [lscho/am-page](https://github.com/lscho/am-page) - Amazeui page plugin
-- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - Zero Trust NHP Protocol Open Source Implementation
+- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - Zero Trust Network Hiding Protocol (NHP) Open Source Implementation
 
 ## PowerShell 
 
