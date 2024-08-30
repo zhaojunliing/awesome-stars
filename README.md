@@ -85,6 +85,7 @@
 
 ## C++ 
 
+- [ForeverSc/web-demuxer](https://github.com/ForeverSc/web-demuxer) - Demux media files in the browser using WebAssembly, designed for WebCodecs 在浏览器中实现媒体文件的解封装，专为WebCodecs设计
 - [PaddlePaddle/Serving](https://github.com/PaddlePaddle/Serving) - A flexible, high-performance carrier for machine learning models（『飞桨』服务化部署框架）
 - [ttttupup/wxhelper](https://github.com/ttttupup/wxhelper) - Hook  WeChat  / 微信逆向
 - [win32ss/supermium](https://github.com/win32ss/supermium) - Chromium fork for Windows XP/2003 and up
@@ -130,6 +131,9 @@
 
 ## Go 
 
+- [dreamCodeMan/agentVideo](https://github.com/dreamCodeMan/agentVideo) - 将高码率视频转换为低码视频在浏览器上通过H5播放
+- [suifengqjn/videoWater](https://github.com/suifengqjn/videoWater) - 视频批量处理, 码率设置, 格式转换, 添加字幕, 添加水印, 文字跑马灯, 去除水印, 修改分辨率, 视频剪裁, 倍速播放, 视频分段, 视频合成, 视频镜像, 背景音乐, 插入背景图片, 视频高斯模糊, 模糊拓边, 画中画,字幕,翻译,影视解说,影视混剪,抖音带货,视频全自动剪辑,视频批量剪辑
+- [williamsjokvist/cfn-tracker](https://github.com/williamsjokvist/cfn-tracker) - Track the live ranked match data of any Street Fighter 6 player
 - [jlaffaye/ftp](https://github.com/jlaffaye/ftp) - FTP client package for Go
 - [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
 - [MatrixTM/FTPDumper](https://github.com/MatrixTM/FTPDumper) - ⚡ Scan World FTP Servers and Steal Their Data 🌍
@@ -314,6 +318,8 @@
 
 ## HTML 
 
+- [guorui1983129/vlc-video](https://github.com/guorui1983129/vlc-video) - vlc+video实现全浏览器兼容的视频播放和倍速播放
+- [lininn/video](https://github.com/lininn/video) - 浏览器获取视频流发送到nginx搭建的rtmp上，前端获取直播播放
 - [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
 - [openpilot-hub/devpilot-intellij](https://github.com/openpilot-hub/devpilot-intellij) - Your new coding buddy, designed exclusively for IntelliJ IDEA.
 - [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一个与时俱进的Go编程知识库
@@ -333,6 +339,8 @@
 
 ## Java 
 
+- [CoderLeixiaoshuai/java-eight-part](https://github.com/CoderLeixiaoshuai/java-eight-part) - 『Java八股文』Java面试套路，Java进阶学习，打破内卷拿大厂Offer，升职加薪！
+- [JeffLi1993/springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example) - spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
 - [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
 - [dromara/x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到 本地、FTP、SFTP、WebDAV、谷歌云存储、阿里云OSS、华为云OBS、七牛云Kodo、腾讯云COS、百度云 BOS、又拍云USS、MinIO、 AWS S3、FastDFS、 Azure Blob Storage、金山云 KS3、美团云 MSS、京东云 OSS、天翼云 OOS、移动云 EOS、沃云 OSS、 网易数帆 NOS、Ucloud US3、青云 QingSto
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
@@ -536,7 +544,7 @@
 
 ## Jinja 
 
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free & Better RDS Alternative —— Pigsty
 
 ## Jupyter Notebook 
 
@@ -561,6 +569,7 @@
 
 ## Others 
 
+- [0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming) - 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。
 - [wailsapp/awesome-wails](https://github.com/wailsapp/awesome-wails) - ⭐ A carefully selected list of Wails applications
 - [tencentyun/qcloud-iotexplorer-appdev-miniprogram-sdk-demo](https://github.com/tencentyun/qcloud-iotexplorer-appdev-miniprogram-sdk-demo) - 
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
