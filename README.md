@@ -15,6 +15,7 @@
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [Groovy](#groovy)
+- [HLSL](#hlsl)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -29,6 +30,7 @@
 - [QML](#qml)
 - [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
+- [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Swift](#swift)
@@ -105,7 +107,7 @@
 - [MooNkirA/code-learning-note](https://github.com/MooNkirA/code-learning-note) - My Programming Learning Notes
 - [drawcall/clock-shop](https://github.com/drawcall/clock-shop) - 🕙⏰🕰 Clock Shop is a website that collects beautiful clock codes
 - [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
-- [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
+- [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard that enables you to monitor and track the status of your server.
 - [xtyxtyx/sorry](https://github.com/xtyxtyx/sorry) - 在线制作`sorry 为所欲为`的gif
 - [drgullin/icheck](https://github.com/drgullin/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
 - [MOxFIVE/hexo-theme-yelee](https://github.com/MOxFIVE/hexo-theme-yelee) - 简而不减 Hexo 双栏博客主题; Another simple and elegant theme for Hexo.
@@ -317,6 +319,10 @@
 
 - [Camork/file-expander-plugin](https://github.com/Camork/file-expander-plugin) - A IntelliJ plugin that can explore archive-based file in project view
 
+## HLSL 
+
+- [Blinue/Magpie](https://github.com/Blinue/Magpie) - An all-purpose window upscaler for Windows 10/11.
+
 ## HTML 
 
 - [guorui1983129/vlc-video](https://github.com/guorui1983129/vlc-video) - vlc+video实现全浏览器兼容的视频播放和倍速播放
@@ -384,7 +390,7 @@
 - [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ 点击关注更新，基于 Spring Cloud 2023 、Spring Boot 3.3、 OAuth2 的 RBAC 权限管理系统
 - [jamesluozhiwei/seetafaceJNI](https://github.com/jamesluozhiwei/seetafaceJNI) - 基于中科院seetaface2进行封装的JAVA人脸识别库，支持人脸识别、1:1比对、1:N比对。
 - [pingfangushi/screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器
-- [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源数据可视化分析工具，帆软、Tableau 等商业 BI 工具的开源替代。
+- [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，Tableau 和 帆软的开源替代。
 - [junixapp/XPopup](https://github.com/junixapp/XPopup) - 🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for A
 - [OpherV/gitflow4idea](https://github.com/OpherV/gitflow4idea) - Git Flow Integration plugin for IntelliJ
 - [smart-cloud/smart-cloud](https://github.com/smart-cloud/smart-cloud) - 基于springboot && springcloud的脚手架，支持服务合并部署与拆分部署、接口加解密签名、日志数据 脱敏、接口数据mock、接口文档自动生成、请求幂等校验、接口日志&&sql日志切面打印、分表分库分布式事务、国际化语言、接口监控及服务监控等
@@ -730,12 +736,17 @@
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
 
+## Rust 
+
+- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
+
 ## SCSS 
 
 - [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM!
 
 ## Shell 
 
+- [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥 一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
 - [ToyoDAdoubi/doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
 - [Leif160519/centos-script](https://github.com/Leif160519/centos-script) - 🎉centos下工具安装脚本，包含基础环境配置，Gitlab、Docker、LDAP、MongoDB、MySQL、RabbitMQ、Supervisor、Node、Python、zsh、rar、zabbix、k8s、prometheus、grafana等🎉
 - [taoxiongfeng/learnNotes](https://github.com/taoxiongfeng/learnNotes) - 日常工作积累，用于平时工作参考资料。一、linux   1.java1.8的安装与卸载 2.tomcat8服务的安装与配置 3.mysql5.6服务的安装 4.nginx1.8.0服务的安装 5.redis与redis集群服务的安装 6.kafka服务的安装 7.keepalived服务的安装 8.Linux常用命令 9.zabbix监控系统安装步骤 10.Elasticsearch集群服务的安装
