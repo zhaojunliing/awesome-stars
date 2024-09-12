@@ -424,7 +424,7 @@
 
 ## deployment 
 
-- [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) - Low-code development tool based on PaddlePaddle（飞桨低代码开发工具）【安全加固，暂停交互，请耐心等待】
+- [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) - Low-code development tool based on PaddlePaddle（飞桨低代码开发工具）
 
 ## design 
 
