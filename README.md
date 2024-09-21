@@ -134,6 +134,7 @@
 
 ## Go 
 
+- [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [chenkaigithub/cloudencode](https://github.com/chenkaigithub/cloudencode) - 一个分布式并发转码的服务
 - [dreamCodeMan/agentVideo](https://github.com/dreamCodeMan/agentVideo) - 将高码率视频转换为低码视频在浏览器上通过H5播放
 - [suifengqjn/videoWater](https://github.com/suifengqjn/videoWater) - 视频批量处理, 码率设置, 格式转换, 添加字幕, 添加水印, 文字跑马灯, 去除水印, 修改分辨率, 视频剪裁, 倍速播放, 视频分段, 视频合成, 视频镜像, 背景音乐, 插入背景图片, 视频高斯模糊, 模糊拓边, 画中画,字幕,翻译,影视解说,影视混剪,抖音带货,视频全自动剪辑,视频批量剪辑
@@ -650,6 +651,7 @@
 
 ## Python 
 
+- [bulianglin/demo](https://github.com/bulianglin/demo) - 阿巴阿巴阿巴阿巴阿巴阿巴阿巴阿巴
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [JaveleyQAQ/WeChatOpenDevTools-Python](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python) - WeChatOpenDevTool 微信小程序强制开启开发者工具
 - [topak47/CameraNVR](https://github.com/topak47/CameraNVR) - 
@@ -692,7 +694,7 @@
 - [JimmyHHua/opencv_tutorials](https://github.com/JimmyHHua/opencv_tutorials) - Opencv4.0 with python (English&中文)， and will keep the update ! 👊
 - [gouchicao/darknet](https://github.com/gouchicao/darknet) - Docker images for the neural networks framework Darknet
 - [NATSpeech/NATSpeech](https://github.com/NATSpeech/NATSpeech) - A Non-Autoregressive Text-to-Speech (NAR-TTS) framework, including official PyTorch implementation of PortaSpeech (NeurIPS 2021) and DiffSpeech (AAAI 2022)
-- [labelmeai/labelme](https://github.com/labelmeai/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 - [Abeautifulsnow/navicat-premium-crack](https://github.com/Abeautifulsnow/navicat-premium-crack) - This script is used to crack navicat premium application for another 14 days trial.(14天再次重置)
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [makelove/OpenCV-Python-Tutorial](https://github.com/makelove/OpenCV-Python-Tutorial) - OpenCV问答群不再维护。有问题，自己去搜索。Google能找到大部分答案。
