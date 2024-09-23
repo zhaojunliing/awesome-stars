@@ -337,6 +337,7 @@
 ## computer-science 
 
 - [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
+- [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource) - 学习计算机科学的一些pdf资源，欢迎赞赏
 
 ## computer-vision 
 
@@ -1415,7 +1416,6 @@
 - [dyq086/wepy-mall](https://github.com/dyq086/wepy-mall) - 微信小程序--基于wepy 商城(微店)微信小程序 欢迎学习交流
 - [drgullin/icheck](https://github.com/drgullin/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
 - [MOxFIVE/hexo-theme-yelee](https://github.com/MOxFIVE/hexo-theme-yelee) - 简而不减 Hexo 双栏博客主题; Another simple and elegant theme for Hexo.
-- [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource) - 学习计算机科学的一些pdf资源
 - [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [vsch/idea-multimarkdown](https://github.com/vsch/idea-multimarkdown) - Markdown language support for IntelliJ IDEA.
@@ -1481,6 +1481,7 @@
 
 - [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+- [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource) - 学习计算机科学的一些pdf资源，欢迎赞赏
 
 ## python 
 
