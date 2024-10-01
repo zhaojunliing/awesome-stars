@@ -429,7 +429,7 @@
 
 ## deployment 
 
-- [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) - Low-code development tool based on PaddlePaddle（飞桨低代码开发工具）
+- [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) - All-in-One Development Tool based on PaddlePaddle（飞桨一站式全流程开发工具）
 
 ## design 
 
@@ -1150,6 +1150,7 @@
 
 ## others 
 
+- [energye/liblcl](https://github.com/energye/liblcl) - 
 - [dreamCodeMan/AES-HLS](https://github.com/dreamCodeMan/AES-HLS) - 采用aes-128-cbc加密m3u8视频播放流
 - [bulianglin/demo](https://github.com/bulianglin/demo) - 阿巴阿巴阿巴阿巴阿巴阿巴阿巴阿巴
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
