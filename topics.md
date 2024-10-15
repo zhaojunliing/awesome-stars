@@ -376,7 +376,7 @@
 ## cybersecurity 
 
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - Zero Trust Network Hiding Protocol (NHP) Open Source Implementation. OpenNHP Docs: https://opennhp.org/
+- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - NHP: A lightweight cryptography-driven zero trust networking protocol at the OSI 5th layer to hide your server and data from attackers.
 
 ## dart 
 
@@ -431,7 +431,7 @@
 
 ## deployment 
 
-- [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) - All-in-One Development Tool based on PaddlePaddle（飞桨低代码全流程开发工具）
+- [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) - All-in-One Development Tool based on PaddlePaddle（飞桨低代码开发工具）
 
 ## design 
 
