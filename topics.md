@@ -117,6 +117,7 @@
 - [open-source](#open-source)
 - [openai](#openai)
 - [opencv](#opencv)
+- [operating-system](#operating-system)
 - [others](#others)
 - [p2p](#p2p)
 - [php](#php)
@@ -567,6 +568,7 @@
 
 ## go 
 
+- [sevlyar/go-daemon](https://github.com/sevlyar/go-daemon) - A library for writing system daemons in golang.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [dengsgo/fileboy](https://github.com/dengsgo/fileboy) - fileboy，文件变更监听通知工具，使用 Go 编写。Fileboy, File Change Monitoring Notification Tool, written with Go.
 - [jlaffaye/ftp](https://github.com/jlaffaye/ftp) - FTP client package for Go
@@ -655,6 +657,7 @@
 
 ## golang 
 
+- [sevlyar/go-daemon](https://github.com/sevlyar/go-daemon) - A library for writing system daemons in golang.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.
 - [shimberger/gohls](https://github.com/shimberger/gohls) - A server that exposes a directory for video streaming via web interface
@@ -922,6 +925,7 @@
 
 ## javascript 
 
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 - [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
@@ -985,6 +989,7 @@
 
 ## library 
 
+- [sevlyar/go-daemon](https://github.com/sevlyar/go-daemon) - A library for writing system daemons in golang.
 - [webui-dev/go-webui](https://github.com/webui-dev/go-webui) - Use any web browser as GUI, with Go in the backend and modern web technologies in the frontend.
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [apache/shiro](https://github.com/apache/shiro) - Apache Shiro
@@ -1139,6 +1144,7 @@
 
 ## open-source 
 
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 
 ## openai 
@@ -1154,8 +1160,13 @@
 - [1357310795/QrCodeScanner](https://github.com/1357310795/QrCodeScanner) - 通过截图或摄像头扫描二维码（支持ZXing、Zbar、OpenCV-WechatQrCode库） | Scan codes from screenshots and cameras
 - [amusi/AI-Job-Notes](https://github.com/amusi/AI-Job-Notes) - AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）
 
+## operating-system 
+
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+
 ## others 
 
+- [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 - [Ponderfly/GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck) - 
 - [energye/liblcl](https://github.com/energye/liblcl) - 
 - [dreamCodeMan/AES-HLS](https://github.com/dreamCodeMan/AES-HLS) - 采用aes-128-cbc加密m3u8视频播放流
