@@ -831,7 +831,7 @@
 
 ## icon-font 
 
-- [refscn/rplibs](https://github.com/refscn/rplibs) - Refs.cn 原型设计元件库，基于Axure RP 10/9，支持 Android、Apple、Windows、微信，移动、桌面平台的应用和网站原型设计。
+- [refscn/rplibs](https://github.com/refscn/rplibs) - Refs.cn 原型设计元件库，基于Axure RP 11/10/9，支持 Android、Apple、Windows、微信，移动、桌面平台的应用和网站原型设计。
 
 ## image-processing 
 
