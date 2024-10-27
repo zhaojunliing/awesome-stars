@@ -480,7 +480,7 @@
 - [zhengyunfei/springboot-hadmin](https://github.com/zhengyunfei/springboot-hadmin) - springboot项目demo，采用springboot作为底层架构，hadmin后台模板，集成freemarker模板，表格采用boostraptable，弹窗采用layer，表单验证框架采用jqueyr validate，安全框架采用shiro系统管理后台基本框架 1.springboot 2.springdata jpa 3.shiro 4.freemarker 功能列表 1.用户管理 1
 - [mybatis/redis-cache](https://github.com/mybatis/redis-cache) - MyBatis Redis Cache adapter
 - [Exrick/xmall](https://github.com/Exrick/xmall) - 基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
 - [Activiti/Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process eng
 - [abel533/Mapper](https://github.com/abel533/Mapper) - Mybatis Common Mapper - Easy to use
