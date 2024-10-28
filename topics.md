@@ -538,7 +538,7 @@
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [dotnetcore/Util](https://github.com/dotnetcore/Util) - Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。
 - [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
 
 ## frontend 
@@ -912,7 +912,7 @@
 - [mybatis/redis-cache](https://github.com/mybatis/redis-cache) - MyBatis Redis Cache adapter
 - [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IntelliJ IDEA 简体中文专题教程
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 - [Activiti/Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process eng
 - [apache/shiro](https://github.com/apache/shiro) - Apache Shiro
 - [brianway/java-learning](https://github.com/brianway/java-learning) - 旨在打造在线最佳的 Java 学习笔记，含博客讲解和源码实例，包括 Java SE 和 Java Web
@@ -1173,7 +1173,7 @@
 - [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff) - Library and tools for parsing and writing MP4 files including video, audio and subtitles. The focus is on fragmented files. Includes mp4ff-info, mp4ff-encrypt, mp4ff-decrypt and other tools.
 - [mszlu521/msqp](https://github.com/mszlu521/msqp) - msqp source code
 - [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
-- [Ponderfly/GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck) - 
+- [Ponderfly/GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck) - 扫描国内可用的谷歌翻译IP
 - [energye/liblcl](https://github.com/energye/liblcl) - 
 - [dreamCodeMan/AES-HLS](https://github.com/dreamCodeMan/AES-HLS) - 采用aes-128-cbc加密m3u8视频播放流
 - [bulianglin/demo](https://github.com/bulianglin/demo) - 阿巴阿巴阿巴阿巴阿巴阿巴阿巴阿巴
@@ -1700,7 +1700,7 @@
 - [liyifeng1994/ssm](https://github.com/liyifeng1994/ssm) - 手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis
 - [jeecgboot/jeecg](https://github.com/jeecgboot/jeecg) - JEECG是一款基于代码生成器的J2EE快速开发平台，开源界“小普元”超越传统商业企业级开发平台。引领新的开发模式(Online Coding模式(自定义表单) - &gt; 代码生成器模式 - &gt; 手工MERGE智能开发)， 可以帮助解决Java项目90%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省人力成本，同时又不失灵活性。具备：表单配置能力（无需编码）、移动配
 - [nnngu/nguSeckill](https://github.com/nnngu/nguSeckill) - ✨ 整合IDEA+Maven+SSM框架的高并发的商品秒杀项目
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
 - [Activiti/Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process eng
 - [zhanglei-workspace/shopping-management-system](https://github.com/zhanglei-workspace/shopping-management-system) - 该项目为多个小项目的集合（持续更新中...）。内容类似淘宝、京东等网购管理系统以及图书管理、超市管理等系统。目的在于便于Java初级爱好者在学习完某一部分Java知识后有一个合适的项目锻炼、运用所学知识，完善知识体系。适用人群：Java基础到入门的爱好者。
@@ -1728,7 +1728,7 @@
 - [hs-web/hsweb3-demo](https://github.com/hs-web/hsweb3-demo) - hsweb 3.0版本演示,ui基于miniui,集成hsweb全家桶的web端演示,集成代码生成器
 - [stylefeng/Guns](https://github.com/stylefeng/Guns) - Guns基于SpringBoot 2，致力于做更简洁的后台管理系统，完美整合springmvc + shiro + mybatis-plus + beetl!Guns项目代码简洁，注释丰富，上手容易，同时Guns包含许多基础模块(用户管理，角色管理，部门管理，字典管理等10个模块)，可以直接作为一个后台管理系统的脚手架!
 - [xuxueli/xxl-sso](https://github.com/xuxueli/xxl-sso) - A distributed single-sign-on framework.（分布式单点登录框架XXL-SSO）
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 
 ## springboot 
 
