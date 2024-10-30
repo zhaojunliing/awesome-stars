@@ -136,6 +136,7 @@
 
 ## Go 
 
+- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff) - Library and tools for parsing and writing MP4 files including video, audio and subtitles. The focus is on fragmented files. Includes mp4ff-info, mp4ff-encrypt, mp4ff-decrypt and other tools.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [mszlu521/msqp](https://github.com/mszlu521/msqp) - msqp source code
