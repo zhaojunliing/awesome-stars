@@ -571,6 +571,7 @@
 
 ## go 
 
+- [XZB-1248/Spark](https://github.com/XZB-1248/Spark) - ✨Spark is a web-based, cross-platform and full-featured Remote Administration Tool (RAT) written in Go that allows you control all your devices anywhere. Spark是一个Go编写的，网页UI、跨平台以及多功能的远程控制和监控工具，你可以随时随地监
 - [hraban/opus](https://github.com/hraban/opus) - Go wrapper for libopus (golang)
 - [sevlyar/go-daemon](https://github.com/sevlyar/go-daemon) - A library for writing system daemons in golang.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
@@ -661,6 +662,7 @@
 
 ## golang 
 
+- [XZB-1248/Spark](https://github.com/XZB-1248/Spark) - ✨Spark is a web-based, cross-platform and full-featured Remote Administration Tool (RAT) written in Go that allows you control all your devices anywhere. Spark是一个Go编写的，网页UI、跨平台以及多功能的远程控制和监控工具，你可以随时随地监
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [sevlyar/go-daemon](https://github.com/sevlyar/go-daemon) - A library for writing system daemons in golang.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
@@ -1274,7 +1276,7 @@
 - [mzz2017/gg](https://github.com/mzz2017/gg) - 一个支持节点与订阅链接的 Linux 命令行代理工具 | A command-line tool for one-click proxy in your research and development without installing v2ray or anything else (only for linux)
 - [eiannone/keyboard](https://github.com/eiannone/keyboard) - Simple library to listen for keystrokes from the keyboard
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
-- [golang-module/dongle](https://github.com/golang-module/dongle) - A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption
+- [dromara/dongle](https://github.com/dromara/dongle) - A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption
 - [ssrlive/proxypool](https://github.com/ssrlive/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表
 - [bjdgyc/anylink](https://github.com/bjdgyc/anylink) - AnyLink是一个企业级远程办公 ssl vpn 软件，可以支持多人同时在线使用。基于 openconnect 协议开发，并且借鉴了 ocserv 的开发思路，可以完全兼容 AnyConnect 客户端。
 - [gocarina/gocsv](https://github.com/gocarina/gocsv) - The GoCSV package aims to provide easy CSV serialization and deserialization to the golang programming language
@@ -1671,6 +1673,7 @@
 
 ## shell 
 
+- [XZB-1248/Spark](https://github.com/XZB-1248/Spark) - ✨Spark is a web-based, cross-platform and full-featured Remote Administration Tool (RAT) written in Go that allows you control all your devices anywhere. Spark是一个Go编写的，网页UI、跨平台以及多功能的远程控制和监控工具，你可以随时随地监
 - [bugfan/i996](https://github.com/bugfan/i996) - 免费 免搭建 免安装 内网穿透 ssl证书签发 远程办公 居家办公工具 方便调试微信小程序(客户端无需安装任何程序拿来即用) 类似于natapp ngrok
 - [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
 - [lwch/natpass](https://github.com/lwch/natpass) - 🔥居家办公，远程开发神器
