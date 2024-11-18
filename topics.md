@@ -449,7 +449,7 @@
 
 ## docker 
 
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 #1 Rated Web-based Linux Server Management Tool. / 现代化、开源的 Linux 服务器运维管理面板。
 - [PaddlePaddle/Serving](https://github.com/PaddlePaddle/Serving) - A flexible, high-performance carrier for machine learning models（『飞桨』服务化部署框架）
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
 - [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
@@ -1004,7 +1004,7 @@
 ## linux 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 #1 Rated Web-based Linux Server Management Tool. / 现代化、开源的 Linux 服务器运维管理面板。
 - [energye/energy](https://github.com/energye/energy) - Energy is a framework developed by Go language based on CEF (Chromium Embedded Framework) for developing cross-platform desktop applications for Windows, Mac OS X, and Linux
 - [webui-dev/go-webui](https://github.com/webui-dev/go-webui) - Use any web browser as GUI, with Go in the backend and modern web technologies in the frontend.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -1175,9 +1175,11 @@
 
 ## others 
 
+- [JAgentSphere/bytebuddy-agent-demo](https://github.com/JAgentSphere/bytebuddy-agent-demo) - learn bytebuddy and gradle
+- [dxeledx/SleepMonitor-EVParking](https://github.com/dxeledx/SleepMonitor-EVParking) - 利用YOLOv8完成睡觉行为与电动车违停识别
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
 - [CloverHackyColor/CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) - Bootloader for macOS, Windows and Linux in UEFI and in legacy mode
-- [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff) - Library and tools for parsing and writing MP4 files including video, audio and subtitles. The focus is on fragmented files. Includes mp4ff-info, mp4ff-encrypt, mp4ff-decrypt and other tools.
+- [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff) - Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. The focus is on fragmented files. Includes mp4ff-info, mp4ff-encrypt, mp4ff-decrypt and other tools.
 - [mszlu521/msqp](https://github.com/mszlu521/msqp) - msqp source code
 - [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 - [Ponderfly/GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck) - 扫描国内可用的谷歌翻译IP
