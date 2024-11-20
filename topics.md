@@ -1229,7 +1229,7 @@
 - [yu-xiaoyao/jrebel-license-active-server](https://github.com/yu-xiaoyao/jrebel-license-active-server) - jrebel and xrebel active server
 - [keygen-sh/keygen-go](https://github.com/keygen-sh/keygen-go) - Keygen reference SDK for Go. Integrate license activation, automatic updates and offline licensing for Go binaries.
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
-- [dromara/carbon](https://github.com/dromara/carbon) - A simple, semantic and developer-friendly golang package for time
+- [dromara/carbon](https://github.com/dromara/carbon) - A simple, semantic and developer-friendly golang package for time.一个轻量级、语义化、对开发者友好的时间处理库
 - [xlab/c-for-go](https://github.com/xlab/c-for-go) - Automatic C-Go Bindings Generator for Go Programming Language
 - [jpillora/overseer](https://github.com/jpillora/overseer) - Monitorable, gracefully restarting, self-upgrading binaries in Go (golang)
 - [vckai/novel](https://github.com/vckai/novel) - Golang小说采集展示站
