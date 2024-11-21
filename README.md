@@ -75,7 +75,7 @@
 - [CHKZL/DDTV](https://github.com/CHKZL/DDTV) - 可对阿B进行直播多窗口观看、开播提醒、自动录制、合并、转码的跨平台工具
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [dotnetcore/Util](https://github.com/dotnetcore/Util) - Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and v2fly core and others
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and others
 - [SkyStonePan/ArcSoftIDCardFace_CSharp](https://github.com/SkyStonePan/ArcSoftIDCardFace_CSharp) - 人证2.0 的 C# Demo
 - [laochiangx/Common.Utility](https://github.com/laochiangx/Common.Utility) - Various helper class
 - [1357310795/QrCodeScanner](https://github.com/1357310795/QrCodeScanner) - 通过截图或摄像头扫描二维码（支持ZXing、Zbar、OpenCV-WechatQrCode库） | Scan codes from screenshots and cameras
@@ -123,7 +123,6 @@
 
 ## Dart 
 
-- [ilgnefz/once_power](https://github.com/ilgnefz/once_power) - 🛠 A tool based on Flutter for bulk renaming files and the ability to remove useless nested folders
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 - [fregie/pho](https://github.com/fregie/pho) - A serverless application for viewing and synchronizing photos to cloud storage
@@ -136,6 +135,9 @@
 
 ## Go 
 
+- [dh1tw/remoteAudio](https://github.com/dh1tw/remoteAudio) - Audio streaming application for Amateur Radio purposes
+- [luoChunhui-1024/video-subtitle](https://github.com/luoChunhui-1024/video-subtitle) - 这是一个视频通信近实时字幕生成工具，前端通过浏览器打开摄像头，生成用户画面并把视频流传到后端，后端提取视频流中语音对应的文字信息，前端将生成的字幕展示在画面下方。
+- [aoweichen/GoRealTimeChatWithVUE](https://github.com/aoweichen/GoRealTimeChatWithVUE) - 这是一个我用于学习go语言的仓库，该仓库包含了一个使用Go语言编写的实时聊天项目，其功能包含私聊、群聊、表情包消息（群聊不可用）、文件语音消息（暂时有点问题）等基本的IM功能。
 - [XZB-1248/Spark](https://github.com/XZB-1248/Spark) - ✨Spark is a web-based, cross-platform and full-featured Remote Administration Tool (RAT) written in Go that allows you control all your devices anywhere. Spark是一个Go编写的，网页UI、跨平台以及多功能的远程控制和监控工具，你可以随时随地监
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
 - [hraban/opus](https://github.com/hraban/opus) - Go wrapper for libopus (golang)
@@ -228,7 +230,7 @@
 - [eiannone/keyboard](https://github.com/eiannone/keyboard) - Simple library to listen for keystrokes from the keyboard
 - [yqchilde/wxbot](https://github.com/yqchilde/wxbot) - ☝🏻 一个好玩的个人微信机器人程序(DaenDLL、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
-- [dromara/dongle](https://github.com/dromara/dongle) - A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption
+- [dromara/dongle](https://github.com/dromara/dongle) - A simple, semantic and developer-friendly golang package for cryptography
 - [ssrlive/proxypool](https://github.com/ssrlive/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表
 - [bjdgyc/anylink](https://github.com/bjdgyc/anylink) - AnyLink是一个企业级远程办公 ssl vpn 软件，可以支持多人同时在线使用。基于 openconnect 协议开发，并且借鉴了 ocserv 的开发思路，可以完全兼容 AnyConnect 客户端。
 - [gocarina/gocsv](https://github.com/gocarina/gocsv) - The GoCSV package aims to provide easy CSV serialization and deserialization to the golang programming language
@@ -359,6 +361,7 @@
 - [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 - [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource) - 学习计算机科学的一些pdf资源，欢迎赞赏
 - [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [bopoda/ace](https://github.com/bopoda/ace) - Twitter bootstrap 3 admin template
 - [admitted/datatables-cn](https://github.com/admitted/datatables-cn) - Datatables—— jquery 插件中文网
 
@@ -657,7 +660,6 @@
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [dcloudio/nml](https://github.com/dcloudio/nml) - 
 - [jitpack/jitpack.io](https://github.com/jitpack/jitpack.io) - Documentation and issues of https://jitpack.io
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IntelliJ IDEA 简体中文专题教程
 - [zhaojunliing/ss](https://github.com/zhaojunliing/ss) - ss账号收集分享
 - [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
