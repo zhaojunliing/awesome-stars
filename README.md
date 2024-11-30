@@ -369,6 +369,7 @@
 
 ## Java 
 
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [JAgentSphere/bytebuddy-agent-demo](https://github.com/JAgentSphere/bytebuddy-agent-demo) - learn bytebuddy and gradle
 - [CoderLeixiaoshuai/java-eight-part](https://github.com/CoderLeixiaoshuai/java-eight-part) - 『Java八股文』Java面试套路，Java进阶学习，打破内卷拿大厂Offer，升职加薪！
 - [JeffLi1993/springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example) - spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
@@ -811,7 +812,7 @@
 - [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
 - [bilibili/web-demuxer](https://github.com/bilibili/web-demuxer) - Demux media files in the browser using WebAssembly, designed for WebCodecs 在浏览器中实现媒体文件的解封装，专为WebCodecs设计
 - [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
-- [RylanBot/awesome-hands-control](https://github.com/RylanBot/awesome-hands-control) - 手势识别进行自定义操控电脑程序 |  an application based on gesture recognition for controlling desktop softwares, developed by MediaPipe + Electron + React
+- [RylanBot/awesome-hands-control](https://github.com/RylanBot/awesome-hands-control) - an application based on gesture recognition for controlling desktop softwares | 手势识别进行自定义操控电脑程序
 - [easy-temps/vue3-vant-mobile](https://github.com/easy-temps/vue3-vant-mobile) - An mobile web apps template based on the Vue 3 ecosystem。一个基于 Vue 3 生态系统的移动 web 应用模板，帮助你快速完成业务开发。
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
