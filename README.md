@@ -679,6 +679,7 @@
 
 ## Python 
 
+- [beeware/briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [freddyaboulton/gradio-webrtc](https://github.com/freddyaboulton/gradio-webrtc) - 
 - [dromara/domain-admin](https://github.com/dromara/domain-admin) - 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.
@@ -775,6 +776,7 @@
 
 ## Rust 
 
+- [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
