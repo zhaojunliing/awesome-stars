@@ -182,6 +182,7 @@
 
 ## algorithm 
 
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [EndlessCheng/codeforces-go](https://github.com/EndlessCheng/codeforces-go) - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 
@@ -338,6 +339,7 @@
 
 ## cli 
 
+- [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 
@@ -409,6 +411,7 @@
 
 ## data-structures 
 
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [EndlessCheng/codeforces-go](https://github.com/EndlessCheng/codeforces-go) - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
 
 ## data-visualization 
@@ -497,6 +500,7 @@
 
 ## education 
 
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [isl-org/OpenBot](https://github.com/isl-org/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -1196,6 +1200,7 @@
 
 ## others 
 
+- [beeware/briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
 - [littleclaw/AutoDing](https://github.com/littleclaw/AutoDing) - 钉钉打卡，包括定时打卡和远程推送打卡
 - [freddyaboulton/gradio-webrtc](https://github.com/freddyaboulton/gradio-webrtc) - 
 - [luoChunhui-1024/video-subtitle](https://github.com/luoChunhui-1024/video-subtitle) - 这是一个视频通信近实时字幕生成工具，前端通过浏览器打开摄像头，生成用户画面并把视频流传到后端，后端提取视频流中语音对应的文字信息，前端将生成的字幕展示在画面下方。
@@ -1247,7 +1252,7 @@
 - [qy527145/gitlabee_crack](https://github.com/qy527145/gitlabee_crack) - 基于最新的gitlabee docker镜像，自动生成认证文件并部署
 - [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费SSL证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
 - [tencentyun/qcloud-iotexplorer-appdev-miniprogram-sdk-demo](https://github.com/tencentyun/qcloud-iotexplorer-appdev-miniprogram-sdk-demo) - 
-- [RylanBot/awesome-hands-control](https://github.com/RylanBot/awesome-hands-control) - 手势识别进行自定义操控电脑程序 |  an application based on gesture recognition for controlling desktop softwares, developed by MediaPipe + Electron + React
+- [RylanBot/awesome-hands-control](https://github.com/RylanBot/awesome-hands-control) - an application based on gesture recognition for controlling desktop softwares | 手势识别进行自定义操控电脑程序
 - [xuhongv/ESP32WiFiBleControlProject](https://github.com/xuhongv/ESP32WiFiBleControlProject) - 微信小程序蓝牙+WiFi控制安信可ESP32-S/C3S模块应用示范
 - [go-well/license](https://github.com/go-well/license) - Golang 激活码方案
 - [super-l/machine-code](https://github.com/super-l/machine-code) - machine-code，是忘忧草安全团队出品的一款使用GO语言实现的跨平台机器码(硬件信息)获取程序。  能获取的信息包括系统UUID、主板序列号、CPU序列号、MAC网卡信息、硬盘序列号等。主要用于设备特征识别、商业软件授权CDKEY生成等等。  同时支持windows、Linux、mac等系统！
@@ -1545,12 +1550,14 @@
 
 ## programming 
 
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource) - 学习计算机科学的一些pdf资源，欢迎赞赏
 
 ## python 
 
+- [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [larymak/Python-project-Scripts](https://github.com/larymak/Python-project-Scripts) - This repositories contains a list of python scripts projects from beginner level advancing slowly. More code snippets to be added soon. feel free to clone this repo
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
@@ -1656,6 +1663,7 @@
 
 ## rust 
 
+- [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
