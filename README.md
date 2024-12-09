@@ -580,6 +580,7 @@
 
 ## Jupyter Notebook 
 
+- [MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking) - YOLOv8 Object Tracking using PyTorch, OpenCV and DeepSORT
 - [larymak/Python-project-Scripts](https://github.com/larymak/Python-project-Scripts) - This repositories contains a list of python scripts projects from beginner level advancing slowly. More code snippets to be added soon. feel free to clone this repo
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [AIZOOTech/FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection) - 开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.
