@@ -165,6 +165,7 @@
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
 - [vim](#vim)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -588,6 +589,7 @@
 
 ## go 
 
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 - [opsre/go-ldap-admin](https://github.com/opsre/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 - [XZB-1248/Spark](https://github.com/XZB-1248/Spark) - ✨Spark is a web-based, cross-platform and full-featured Remote Administration Tool (RAT) written in Go that allows you control all your devices anywhere. Spark是一个Go编写的，网页UI、跨平台以及多功能的远程控制和监控工具，你可以随时随地监
 - [hraban/opus](https://github.com/hraban/opus) - Go wrapper for libopus (golang)
@@ -680,6 +682,7 @@
 
 ## golang 
 
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 - [opsre/go-ldap-admin](https://github.com/opsre/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 - [dh1tw/remoteAudio](https://github.com/dh1tw/remoteAudio) - Audio streaming application for Amateur Radio purposes
 - [XZB-1248/Spark](https://github.com/XZB-1248/Spark) - ✨Spark is a web-based, cross-platform and full-featured Remote Administration Tool (RAT) written in Go that allows you control all your devices anywhere. Spark是一个Go编写的，网页UI、跨平台以及多功能的远程控制和监控工具，你可以随时随地监
@@ -1200,6 +1203,8 @@
 
 ## others 
 
+- [MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking) - YOLOv8 Object Tracking using PyTorch, OpenCV and DeepSORT
+- [Saadbs7/YOLOv8-Sleep-Detector-with-Text-to-Speech-Alert](https://github.com/Saadbs7/YOLOv8-Sleep-Detector-with-Text-to-Speech-Alert) - This repository contains code for a real-time sleep detection system using YOLOv8 object detection and a webcam feed. The detector can identify whether a person's eyes are open or closed and determine
 - [beeware/briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
 - [littleclaw/AutoDing](https://github.com/littleclaw/AutoDing) - 钉钉打卡，包括定时打卡和远程推送打卡
 - [freddyaboulton/gradio-webrtc](https://github.com/freddyaboulton/gradio-webrtc) - 
@@ -1259,7 +1264,7 @@
 - [yu-xiaoyao/jrebel-license-active-server](https://github.com/yu-xiaoyao/jrebel-license-active-server) - jrebel and xrebel active server
 - [keygen-sh/keygen-go](https://github.com/keygen-sh/keygen-go) - Keygen reference SDK for Go. Integrate license activation, automatic updates and offline licensing for Go binaries.
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
-- [dromara/carbon](https://github.com/dromara/carbon) - A simple, semantic and developer-friendly golang package for time.
+- [dromara/carbon](https://github.com/dromara/carbon) - A simple, semantic and developer-friendly  time  package for golang
 - [xlab/c-for-go](https://github.com/xlab/c-for-go) - Automatic C-Go Bindings Generator for Go Programming Language
 - [jpillora/overseer](https://github.com/jpillora/overseer) - Monitorable, gracefully restarting, self-upgrading binaries in Go (golang)
 - [vckai/novel](https://github.com/vckai/novel) - Golang小说采集展示站
@@ -1311,7 +1316,6 @@
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 - [dromara/dongle](https://github.com/dromara/dongle) - A simple, semantic and developer-friendly golang crypto package
 - [ssrlive/proxypool](https://github.com/ssrlive/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表
-- [bjdgyc/anylink](https://github.com/bjdgyc/anylink) - AnyLink是一个企业级远程办公 ssl vpn 软件，可以支持多人同时在线使用。基于 openconnect 协议开发，并且借鉴了 ocserv 的开发思路，可以完全兼容 AnyConnect 客户端。
 - [gocarina/gocsv](https://github.com/gocarina/gocsv) - The GoCSV package aims to provide easy CSV serialization and deserialization to the golang programming language
 - [smallfish/ftp](https://github.com/smallfish/ftp) - FTP Client For Go(lang)
 - [limoruirui/misaka](https://github.com/limoruirui/misaka) - 开源的一些乱七八糟的东西
@@ -1342,7 +1346,6 @@
 - [cnotch/ipchub](https://github.com/cnotch/ipchub) - 一个即拷即用、支持摄像头集中管理、多级路由及h5播放的流媒体服务器。
 - [sea-team/gofound](https://github.com/sea-team/gofound) - GoFound GoLang Full text search go语言全文检索引擎，毫秒级查询。 使用http接口调用，集成Admin管理界面，任何系统都可以使用。
 - [serjs/socks5-server](https://github.com/serjs/socks5-server) - 
-- [txthinking/tun2brook](https://github.com/txthinking/tun2brook) - Proxy all traffic just one line command. tun2socks, tun2brook. IPv4 and IPv6, TCP and UDP.
 - [stilleshan/frps](https://github.com/stilleshan/frps) - 基于原版 frp 内网穿透服务端 frps 的一键安装卸载脚本和 docker 镜像.支持 Linux 服务器和 docker 等多种环境安装部署.
 - [deepch/vdk](https://github.com/deepch/vdk) - A set of libraries for building streaming services. RTSP RTMP MP4 WS TS DASH WEBRTC MP4f
 - [panjf2000/goproxy](https://github.com/panjf2000/goproxy) - 🦁 goproxy is a proxy server which can forward http or https requests to remote servers./  goproxy 是一个反向代理服务器，支持转发 http/https 请求。
@@ -1384,8 +1387,6 @@
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
-- [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2024中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐，访问Chatgpt。
 - [zhaojunliing/markDownDoc](https://github.com/zhaojunliing/markDownDoc) - 存储文章内的图片，及写一些markDown文章
 - [dfaker/WebmGenerator](https://github.com/dfaker/WebmGenerator) - UI and Automation to cut, filter and join high quality webms, mp4s or gifs.
 - [SkyStonePan/ArcSoftIDCardFace_CSharp](https://github.com/SkyStonePan/ArcSoftIDCardFace_CSharp) - 人证2.0 的 C# Demo
@@ -1498,7 +1499,6 @@
 - [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
 - [tianshb/SpringMVC-MyBatis-Learning](https://github.com/tianshb/SpringMVC-MyBatis-Learning) - 本仓库代码是笔者在学习SpringMVC+MyBatis框架过程中完成的小Demo，学习的初衷是为了在没有JavaWeb开发基础的情况下尽快完成实验室系主页的搭建，因此本笔记旨在快速上手框架，对底层细节未进行过多探索，适合初学者入门，代码具体内容的描述可参考博客系列文章。
 - [zhengyunfei/springboot-hadmin](https://github.com/zhengyunfei/springboot-hadmin) - springboot项目demo，采用springboot作为底层架构，hadmin后台模板，集成freemarker模板，表格采用boostraptable，弹窗采用layer，表单验证框架采用jqueyr validate，安全框架采用shiro系统管理后台基本框架 1.springboot 2.springdata jpa 3.shiro 4.freemarker 功能列表 1.用户管理 1
-- [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 - [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 - [ilanyu/ReverseProxy](https://github.com/ilanyu/ReverseProxy) - ReverseProxy in golang
 - [zhaojunliing/ss](https://github.com/zhaojunliing/ss) - ss账号收集分享
@@ -1859,8 +1859,20 @@
 
 - [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
 
+## vpn 
+
+- [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
+- [MerlinKodo/clash-rev](https://github.com/MerlinKodo/clash-rev) - Continuation of Clash core project
+- [bjdgyc/anylink](https://github.com/bjdgyc/anylink) - AnyLink是一个企业级远程办公 ssl vpn 软件，可以支持多人同时在线使用。基于 openconnect 协议开发，并且借鉴了 ocserv 的开发思路，可以完全兼容 AnyConnect 客户端。
+- [txthinking/tun2brook](https://github.com/txthinking/tun2brook) - Proxy all traffic just one line command. tun2socks, tun2brook. IPv4 and IPv6, TCP and UDP.
+- [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 免费机场  / 免费VPN -&gt; 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙
+- [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
+- [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2024中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐，访问Chatgpt。
+- [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
+
 ## vue 
 
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 - [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [mqttsnet/thinglinks](https://github.com/mqttsnet/thinglinks) - a high-performance, high-throughput, and highly scalable IoT platform! A single instance can support millions of connections. It offers powerful custom extension capabilities. Built with Netty as the 
