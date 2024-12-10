@@ -336,7 +336,7 @@
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [ilanyu/ReverseProxy](https://github.com/ilanyu/ReverseProxy) - ReverseProxy in golang
-- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - NHP: A lightweight cryptography-driven Zero Trust networking protocol at the OSI 5th layer to hide your server and data from attackers.
+- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - A lightweight cryptography-driven Zero Trust protocol to safeguard servers and data from attackers by leveraging resource-hiding and encryption algorithms.
 
 ## Groovy 
 
@@ -411,7 +411,7 @@
 - [starcwang/easy_javadoc](https://github.com/starcwang/easy_javadoc) - IntelliJ IDEA 插件，自动生成javadoc文档注释
 - [dromara/liteflow](https://github.com/dromara/liteflow) - Lightweight, fast, stable, and programmable component-based rule engine/process engine. Component reuse, synchronous/asynchronous orchestration, dynamic orchestration, multi-language scripting support
 - [Meituan-Dianping/Zebra](https://github.com/Meituan-Dianping/Zebra) - 美团点评集团统一使用的MySQL数据库访问层的中间件。主要提供对业务开发透明、读写分库、分库分表能力，并提供了端到端SQL监控的集成方案。
-- [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ 点击关注更新，基于 Spring Cloud 2023 、Spring Boot 3.3、 OAuth2 的 RBAC 权限管理系统
+- [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ 点击关注更新，基于 Spring Cloud 2024 、Spring Boot 3.4、 OAuth2 的 RBAC 权限管理系统
 - [jamesluozhiwei/seetafaceJNI](https://github.com/jamesluozhiwei/seetafaceJNI) - 基于中科院seetaface2进行封装的JAVA人脸识别库，支持人脸识别、1:1比对、1:N比对。
 - [pingfangushi/screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器
 - [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。
@@ -778,7 +778,6 @@
 
 ## Rust 
 
-- [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
