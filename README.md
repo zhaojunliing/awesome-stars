@@ -278,7 +278,7 @@
 - [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go) - golang binding for ffmpeg
 - [springrain/zorm](https://github.com/springrain/zorm) - Go轻量ORM,支持达梦(dm),金仓(kingbase),神通(shentong),南大通用(gbase),TDengine,mysql,postgresql,oracle,mssql,sqlite,db2,clickhouse...
 - [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
-- [txthinking/tun2brook](https://github.com/txthinking/tun2brook) - Proxy all traffic just one line command. tun2socks, tun2brook. IPv4 and IPv6, TCP and UDP.
+- [txthinking/ipio](https://github.com/txthinking/ipio) - Proxy all traffic just one line command.
 - [deepch/vdk](https://github.com/deepch/vdk) - A set of libraries for building streaming services. RTSP RTMP MP4 WS TS DASH WEBRTC MP4f
 - [panjf2000/goproxy](https://github.com/panjf2000/goproxy) - 🦁 goproxy is a proxy server which can forward http or https requests to remote servers./  goproxy 是一个反向代理服务器，支持转发 http/https 请求。
 - [EndlessCheng/mahjong-helper](https://github.com/EndlessCheng/mahjong-helper) - 日本麻将助手：牌效+防守+记牌（支持雀魂、天凤）
