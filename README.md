@@ -93,7 +93,7 @@
 - [win32ss/supermium](https://github.com/win32ss/supermium) - Chromium fork for Windows XP/2003 and up
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [mpromonet/webrtc-streamer](https://github.com/mpromonet/webrtc-streamer) - WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [TonyChen56/160-Crackme](https://github.com/TonyChen56/160-Crackme) - 对160个Crackme的详细分析记录
@@ -727,7 +727,7 @@
 - [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 - [Tedyst/HikLoad](https://github.com/Tedyst/HikLoad) - Download videos from a HikVision DVR/NVR
-- [wd210010/only_for_happly](https://github.com/wd210010/only_for_happly) - 微博超话签到★百度贴吧签到★小米运动刷步数★恩山签到★雨云签到白嫖服务器★小茅预约★丽宝乐园小程序签到★天翼云盘签到★腾讯视频签到（会员领成长值）★阿里云盘签到★富贵论坛签到★一点万向签到打卡★什么值得买达人和关键词取消关注★STLXZ签到★PT站签到★帆软签到+摇摇乐★千图网签到★星空代理签到★什么值得买签到★值得买每日抽奖★小米社区签到★逑美在线app签到和抽卡★ddnsto自动续费七天★爱奇
+- [wd210010/only_for_happly](https://github.com/wd210010/only_for_happly) - 农夫抽水★百度贴吧签到★小米运动刷步数★恩山签到★雨云签到白嫖服务器★小茅预约★丽宝乐园小程序签到★天翼云盘签到★腾讯视频签到（会员领成长值）★阿里云盘签到★富贵论坛签到★一点万向签到打卡★什么值得买达人和关键词取消关注★STLXZ签到★PT站签到★帆软签到+摇摇乐★千图网签到★星空代理签到★什么值得买签到★值得买每日抽奖★小米社区签到★逑美在线app签到和抽卡★ddnsto自动续费七天★爱奇艺签
 - [bighammer-link/Common-scripts](https://github.com/bighammer-link/Common-scripts) - ⚡签到脚本定时任务  斗鱼鱼吧|小米运动|天气预报|汽车之家|微博超话|MT论坛|阿里云盘签到
 - [vzhd1701/gridplayer](https://github.com/vzhd1701/gridplayer) - Play videos side-by-side
 - [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) - All-in-One Development Tool based on PaddlePaddle（飞桨低代码开发工具）
