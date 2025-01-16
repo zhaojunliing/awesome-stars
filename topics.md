@@ -1257,7 +1257,7 @@
 
 ## others 
 
-- [lucasjinreal/Kokoros](https://github.com/lucasjinreal/Kokoros) - Kokoro in Rust. https://huggingface.co/hexgrad/Kokoro-82M
+- [lucasjinreal/Kokoros](https://github.com/lucasjinreal/Kokoros) - 🔥🔥 Kokoro in Rust. https://huggingface.co/hexgrad/Kokoro-82M Insanely fast, realtime TTS with high quality you ever have.
 - [jiangjiangjun/Script](https://github.com/jiangjiangjun/Script) - 分享一些自己写的或者搜集的脚本以及小工具！
 - [zhaojunliing/awesome-stars](https://github.com/zhaojunliing/awesome-stars) - 
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
