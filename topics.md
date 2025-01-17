@@ -580,6 +580,7 @@
 
 ## framework 
 
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [cefsharp/CefSharp](https://github.com/cefsharp/CefSharp) - .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
 - [iohao/ioGame](https://github.com/iohao/ioGame) - 无锁异步化、事件驱动架构设计的 java netty 网络编程框架；   轻量级，无需依赖任何第三方中间件或数据库就能支持集群、分布式；  适用于网络游戏服务器、物联网、内部系统及各种需要长连接的场景；  通过 ioGame 你可以很容易的搭建出一个集群无中心节点、集群自动化、分布式的网络服务器；FXGL、Unity、UE、Cocos Creator、Godot、Netty、Protobuf、we
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
@@ -617,6 +618,7 @@
 
 ## go 
 
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [honmaple/maple-file](https://github.com/honmaple/maple-file) - upload and manage multi cloud storage with serverless / 无服务端的云盘上传和管理APP
@@ -713,6 +715,7 @@
 
 ## golang 
 
+- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
@@ -1776,6 +1779,7 @@
 
 ## server 
 
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 - [simonvetter/modbus](https://github.com/simonvetter/modbus) - Go modbus stack (client and server)
