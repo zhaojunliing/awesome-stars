@@ -1266,6 +1266,7 @@
 
 ## others 
 
+- [239144498/Serv00-Auto-Register](https://github.com/239144498/Serv00-Auto-Register) - 
 - [lucasjinreal/Kokoros](https://github.com/lucasjinreal/Kokoros) - 🔥🔥 Kokoro in Rust. https://huggingface.co/hexgrad/Kokoro-82M Insanely fast, realtime TTS with high quality you ever have.
 - [jiangjiangjun/Script](https://github.com/jiangjiangjun/Script) - 分享一些自己写的或者搜集的脚本以及小工具！
 - [zhaojunliing/awesome-stars](https://github.com/zhaojunliing/awesome-stars) - 
