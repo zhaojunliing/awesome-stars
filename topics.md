@@ -1350,6 +1350,7 @@
 - [eibol/ffmpeg_batch](https://github.com/eibol/ffmpeg_batch) - FFmpeg Batch AV Converter
 - [ohperhaps/xiaoetong](https://github.com/ohperhaps/xiaoetong) - Download tools for xiaoe-tech/小鹅通下载工具
 - [nemoTyrant/goose](https://github.com/nemoTyrant/goose) - 下载小鹅通视频
+- [jiji262/xiaoetong-video-downloader](https://github.com/jiji262/xiaoetong-video-downloader) - 小鹅通资源下载工具
 - [ToyoDAdoubi/doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
 - [loov/lensm](https://github.com/loov/lensm) - Go assembly and source viewer
 - [chao325/MaoTai_GUIT](https://github.com/chao325/MaoTai_GUIT) - JD京东抢购、京东抢茅台Windows端、开箱即用无需配置环境。开发在即（开源协议采用Apache License）抢茅台外挂，茅台脚本
