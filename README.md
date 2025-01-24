@@ -726,6 +726,7 @@
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [ohperhaps/xiaoetong](https://github.com/ohperhaps/xiaoetong) - Download tools for xiaoe-tech/小鹅通下载工具
+- [jiji262/xiaoetong-video-downloader](https://github.com/jiji262/xiaoetong-video-downloader) - 小鹅通资源下载工具
 - [chao325/MaoTai_GUIT](https://github.com/chao325/MaoTai_GUIT) - JD京东抢购、京东抢茅台Windows端、开箱即用无需配置环境。开发在即（开源协议采用Apache License）抢茅台外挂，茅台脚本
 - [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile) - 跟我一起写Makefile重制版
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
