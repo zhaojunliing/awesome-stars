@@ -602,6 +602,7 @@
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [AIZOOTech/FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection) - 开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.
 - [rainyear/python3-in-one-pic](https://github.com/rainyear/python3-in-one-pic) - Learn python3 in one picture.
+- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 
 ## Kotlin 
 
@@ -780,7 +781,6 @@
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [xsren/wx_taobao_fanli](https://github.com/xsren/wx_taobao_fanli) - 微信 淘宝 返利
 - [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
-- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [liubin/docker101](https://github.com/liubin/docker101) - “Docker入门与实践”课程讲义及参考
 - [Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
 - [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
@@ -843,7 +843,7 @@
 - [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
 - [bilibili/web-demuxer](https://github.com/bilibili/web-demuxer) - Demux media files in the browser using WebAssembly, designed for WebCodecs 在浏览器中实现媒体文件的解封装，专为WebCodecs设计
 - [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
-- [RylanBot/awesome-hands-control](https://github.com/RylanBot/awesome-hands-control) - an application based on gesture recognition for controlling desktop softwares | 手势识别进行自定义操控电脑程序
+- [RylanBot/awesome-hands-control](https://github.com/RylanBot/awesome-hands-control) - an application based on gesture recognition for controlling desktop softwares「手势识别操控程序」
 - [easy-temps/vue3-vant-mobile](https://github.com/easy-temps/vue3-vant-mobile) - An mobile web apps template based on the Vue 3 ecosystem。一个基于 Vue 3 生态系统的移动 web 应用模板，帮助你快速完成业务开发。
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
