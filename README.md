@@ -699,6 +699,7 @@
 
 ## Python 
 
+- [blueveryday/WeChatOCR](https://github.com/blueveryday/WeChatOCR) - 这是一个采用Python调用微信OCR功能，进行批处理图片OCR的代码。
 - [239144498/Serv00-Auto-Register](https://github.com/239144498/Serv00-Auto-Register) - 
 - [TachibanaYoshino/AnimeGANv3](https://github.com/TachibanaYoshino/AnimeGANv3) - Use AnimeGANv3 to make your own animation works, including turning photos or videos into anime.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
@@ -838,7 +839,7 @@
 
 - [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video into a tiny size.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-- [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 好用的 Canvas 引擎，革新的开发体验，可用于高效绘图 、UI 交互、图形编辑。An easy-to-use Canvas engine.
+- [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 好用的 Canvas 引擎，革新的开发体验，可用于高效绘图 、UI 交互、图形编辑。An Easy-to-Use Canvas Engine.
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
 - [bilibili/WebAV](https://github.com/bilibili/WebAV) - WebAV is an SDK built on WebCodecs, designed for creating and editing video files on the web platform. WebAV 是基于 WebCodecs 构建的 SDK，用于在 Web 平台上创建/编辑视频文件。
 - [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
