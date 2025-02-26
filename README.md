@@ -15,7 +15,6 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
-- [Groovy](#groovy)
 - [HLSL](#hlsl)
 - [HTML](#html)
 - [Java](#java)
@@ -142,6 +141,7 @@
 
 ## Go 
 
+- [tnb-labs/panel](https://github.com/tnb-labs/panel) - 新一代服务器运维管理面板。简单轻量，高效运维。
 - [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一键导出PC微信聊天记录工具
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 - [selinuxG/Golin](https://github.com/selinuxG/Golin) - 弱口令检测、 漏洞扫描、端口扫描（协议识别，组件识别）、web目录扫描、等保模拟定级、自动化运维、等保工具（网络安全等级保护现场测评工具）内置3级等保核查命令、基线核查工具、键盘记录器
@@ -354,10 +354,6 @@
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [ilanyu/ReverseProxy](https://github.com/ilanyu/ReverseProxy) - ReverseProxy in golang
 - [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - A lightweight, cryptography-powered, open-source toolkit built to enforce Zero Trust security for infrastructure, applications, and data in the AI-driven world.
-
-## Groovy 
-
-- [Camork/file-expander-plugin](https://github.com/Camork/file-expander-plugin) - A IntelliJ plugin that can explore archive-based file in project view
 
 ## HLSL 
 
@@ -609,6 +605,7 @@
 
 - [littleclaw/AutoDing](https://github.com/littleclaw/AutoDing) - 钉钉打卡，包括定时打卡和远程推送打卡
 - [AndroidCoderPeng/DailyTask](https://github.com/AndroidCoderPeng/DailyTask) - 钉钉自动打卡
+- [Camork/file-expander-plugin](https://github.com/Camork/file-expander-plugin) - A IntelliJ plugin that can explore archive-based file in project view
 - [ingokegel/jclasslib](https://github.com/ingokegel/jclasslib) - jclasslib bytecode editor is a tool that visualizes all aspects of compiled Java class files and the contained bytecode.
 - [vsch/idea-multimarkdown](https://github.com/vsch/idea-multimarkdown) - Markdown language support for IntelliJ IDEA.
 - [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) - 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio/Fleet
@@ -700,6 +697,7 @@
 
 ## Python 
 
+- [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
 - [blueveryday/WeChatOCR](https://github.com/blueveryday/WeChatOCR) - 这是一个采用Python调用微信OCR功能，进行批处理图片OCR的代码。
 - [239144498/Serv00-Auto-Register](https://github.com/239144498/Serv00-Auto-Register) - 
 - [TachibanaYoshino/AnimeGANv3](https://github.com/TachibanaYoshino/AnimeGANv3) - Use AnimeGANv3 to make your own animation works, including turning photos or videos into anime.
