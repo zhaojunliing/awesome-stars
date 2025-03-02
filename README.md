@@ -697,6 +697,7 @@
 
 ## Python 
 
+- [271374667/VideoFusion](https://github.com/271374667/VideoFusion) - 一站式短视频拼接软件  无依赖,点击即用,自动去黑边,自动帧同步,自动调整分辨率,批量变更视频为横屏/竖屏
 - [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
 - [blueveryday/WeChatOCR](https://github.com/blueveryday/WeChatOCR) - 这是一个采用Python调用微信OCR功能，进行批处理图片OCR的代码。
 - [239144498/Serv00-Auto-Register](https://github.com/239144498/Serv00-Auto-Register) - 
