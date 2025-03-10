@@ -450,7 +450,7 @@
 ## database 
 
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source in-memory reactive database with query subscriptions.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [jincheng9/go-tutorial](https://github.com/jincheng9/go-tutorial) - Go learning materials，涵盖基础、中级和高级教程
 - [springrain/zorm](https://github.com/springrain/zorm) - Go轻量ORM,支持达梦(dm),金仓(kingbase),神通(shentong),南大通用(gbase),TDengine,mysql,postgresql,oracle,mssql,sqlite,db2,clickhouse...
@@ -750,7 +750,7 @@
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [sevlyar/go-daemon](https://github.com/sevlyar/go-daemon) - A library for writing system daemons in golang.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source in-memory reactive database with query subscriptions.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [shimberger/gohls](https://github.com/shimberger/gohls) - A server that exposes a directory for video streaming via web interface
 - [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
@@ -869,7 +869,7 @@
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [larymak/Python-project-Scripts](https://github.com/larymak/Python-project-Scripts) - This repositories contains a list of python scripts projects from beginner level advancing slowly. More code snippets to be added soon. feel free to clone this repo
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source in-memory reactive database with query subscriptions.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [shimberger/gohls](https://github.com/shimberger/gohls) - A server that exposes a directory for video streaming via web interface
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
