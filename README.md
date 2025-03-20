@@ -142,6 +142,7 @@
 
 ## Go 
 
+- [ebitengine/oto](https://github.com/ebitengine/oto) - ♪ A low-level library to play sound on multiple platforms ♪
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [tnb-labs/panel](https://github.com/tnb-labs/panel) - 新一代服务器运维管理面板。简单轻量，高效运维。
 - [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一键导出PC微信聊天记录工具
@@ -531,6 +532,7 @@
 - [14790897/auto-read-liunxdo](https://github.com/14790897/auto-read-liunxdo) - Auto-scrubbing of  articles and auto-likes in discourse
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron.
+- [freddyaboulton/fastrtc](https://github.com/freddyaboulton/fastrtc) - The python library for real-time communication
 - [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [dromara/electron-egg](https://github.com/dromara/electron-egg) - A simple, cross platform, enterprise desktop software development framework
@@ -664,7 +666,6 @@
 - [jobbole/awesome-go-cn](https://github.com/jobbole/awesome-go-cn) - Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。由「开源前哨」和「Go开发大全」微信团队维护。
 - [CamioCam/rtsp](https://github.com/CamioCam/rtsp) - RTSP Url paths for cameras and NVRs
 - [amusi/AI-Job-Notes](https://github.com/amusi/AI-Job-Notes) - AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）
-- [Tinywan/RTMP-TS-DASH-WEBRTC](https://github.com/Tinywan/RTMP-TS-DASH-WEBRTC) - :space_invader:  音视频解决方案 Audio and video solutions（AV1）
 - [javadevbooks/books](https://github.com/javadevbooks/books) - 编程电子书目录带下载地址
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [zqjzqj/mtSecKill](https://github.com/zqjzqj/mtSecKill) - 京东茅台抢购
@@ -713,7 +714,6 @@
 - [Saadbs7/YOLOv8-Sleep-Detector-with-Text-to-Speech-Alert](https://github.com/Saadbs7/YOLOv8-Sleep-Detector-with-Text-to-Speech-Alert) - This repository contains code for a real-time sleep detection system using YOLOv8 object detection and a webcam feed. The detector can identify whether a person's eyes are open or closed and determine
 - [beeware/briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
-- [freddyaboulton/fastrtc](https://github.com/freddyaboulton/fastrtc) - The python library for real-time communication
 - [dromara/domain-admin](https://github.com/dromara/domain-admin) - 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.
 - [dxeledx/SleepMonitor-EVParking](https://github.com/dxeledx/SleepMonitor-EVParking) - 利用YOLOv8完成睡觉行为与电动车违停识别
 - [bulianglin/demo](https://github.com/bulianglin/demo) - 阿巴阿巴阿巴阿巴阿巴阿巴阿巴阿巴
