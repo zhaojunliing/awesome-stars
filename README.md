@@ -701,6 +701,7 @@
 
 ## Python 
 
+- [canopyai/Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - TTS Towards Human-Sounding Speech
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 - [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 - 订阅全网大全
 - [byjlw/video-analyzer](https://github.com/byjlw/video-analyzer) - Analyze videos using LLMs, Computer Vision and Automatic Speech Recognition
