@@ -822,7 +822,7 @@
 
 ## Shell 
 
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Free RDS for PostgreSQL —— Pigsty
+- [pgsty/pigsty](https://github.com/pgsty/pigsty) - Free RDS for PostgreSQL —— Pigsty
 - [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费SSL证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
 - [ToyoDAdoubi/doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
 - [Leif160519/centos-script](https://github.com/Leif160519/centos-script) - 🎉centos下工具安装脚本，包含基础环境配置，Gitlab、Docker、LDAP、MongoDB、MySQL、RabbitMQ、Supervisor、Node、Python、zsh、rar、zabbix、k8s、prometheus、grafana等🎉
