@@ -1316,6 +1316,7 @@
 
 ## others 
 
+- [itboyst/ArcSoftFaceDemoUI](https://github.com/itboyst/ArcSoftFaceDemoUI) - 人脸识别Demo前端代码
 - [iofeqkurrc42/jetbra-server-go](https://github.com/iofeqkurrc42/jetbra-server-go) - 
 - [moment/moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
 - [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 - 订阅全网大全
@@ -1386,7 +1387,7 @@
 - [qy527145/gitlabee_crack](https://github.com/qy527145/gitlabee_crack) - 基于最新的gitlabee docker镜像，自动生成认证文件并部署
 - [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费SSL证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
 - [tencentyun/qcloud-iotexplorer-appdev-miniprogram-sdk-demo](https://github.com/tencentyun/qcloud-iotexplorer-appdev-miniprogram-sdk-demo) - 
-- [RylanBot/awesome-hands-control](https://github.com/RylanBot/awesome-hands-control) - 👋 Gesture recognition for software control「手势操控软件」
+- [RylanBot/awesome-hands-control](https://github.com/RylanBot/awesome-hands-control) - 👋 Gesture recognition for software control「手势识别操控程序」
 - [xuhongv/ESP32WiFiBleControlProject](https://github.com/xuhongv/ESP32WiFiBleControlProject) - 微信小程序蓝牙+WiFi控制安信可ESP32-S/C3S模块应用示范
 - [go-well/license](https://github.com/go-well/license) - Golang 激活码方案
 - [super-l/machine-code](https://github.com/super-l/machine-code) - machine-code，是忘忧草安全团队出品的一款使用GO语言实现的跨平台机器码(硬件信息)获取程序。  能获取的信息包括系统UUID、主板序列号、CPU序列号、MAC网卡信息、硬盘序列号等。主要用于设备特征识别、商业软件授权CDKEY生成等等。  同时支持windows、Linux、mac等系统！
