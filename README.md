@@ -143,6 +143,7 @@
 
 ## Go 
 
+- [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [ebitengine/oto](https://github.com/ebitengine/oto) - ♪ A low-level library to play sound on multiple platforms ♪
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
