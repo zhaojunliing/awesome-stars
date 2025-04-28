@@ -709,6 +709,7 @@
 
 ## Python 
 
+- [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 - [cyb3rdoc/onenvr](https://github.com/cyb3rdoc/onenvr) - OneNVR - One Network Video Recorder for All Your Cameras
 - [qy527145/crack](https://github.com/qy527145/crack) - 
 - [canopyai/Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human-Sounding Speech
