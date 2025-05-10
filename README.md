@@ -278,7 +278,7 @@
 - [minio/selfupdate](https://github.com/minio/selfupdate) - Build self-updating Go programs
 - [fclairamb/ftpserver](https://github.com/fclairamb/ftpserver) - Golang based autonomous FTP server with SFTP, S3, Dropbox, and Google Drive connectors.
 - [jiujuan/go-collection](https://github.com/jiujuan/go-collection) - :tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习 Go 基础语法和高级特性，到实战项目，再到架构微服务，最后到跑路。
-- [yisier/nps](https://github.com/yisier/nps) - 基于NPS 0.26.10 版本二开而来，NPS接力项目。公益云NPS：https://natnps.com
+- [yisier/nps](https://github.com/yisier/nps) - 基于NPS 0.26.10 版本二开而来，NPS接力项目。免费NPS节点：https://natnps.com
 - [chenjia404/p2ptunnel](https://github.com/chenjia404/p2ptunnel) - A p2p-based tcp, udp intranet penetration tunneling tool
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
@@ -712,6 +712,7 @@
 
 ## Python 
 
+- [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 - [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 - [cyb3rdoc/onenvr](https://github.com/cyb3rdoc/onenvr) - OneNVR - One Network Video Recorder for All Your Cameras
 - [qy527145/crack](https://github.com/qy527145/crack) - 
@@ -899,6 +900,7 @@
 
 ## Vue 
 
+- [sagoo-cloud/sagooiot-ui](https://github.com/sagoo-cloud/sagooiot-ui) - SagooIOT前端工程
 - [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [itboyst/ArcSoftFaceDemoUI](https://github.com/itboyst/ArcSoftFaceDemoUI) - 人脸识别Demo前端代码
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
