@@ -1336,6 +1336,7 @@
 
 ## others 
 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [sagoo-cloud/sagooiot-ui](https://github.com/sagoo-cloud/sagooiot-ui) - SagooIOT前端工程
 - [AnyLifeZLB/UniPlugin-FaceAISDK](https://github.com/AnyLifeZLB/UniPlugin-FaceAISDK) - FaceAI SDK 封装成UniPlugin
 - [WJQSERVER-STUDIO/ghproxy](https://github.com/WJQSERVER-STUDIO/ghproxy) - 基于Go的高性能,多功能,可扩展的Github代理加速项目
