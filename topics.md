@@ -1354,6 +1354,7 @@
 
 ## others 
 
+- [zaunist/xugou](https://github.com/zaunist/xugou) - XUGOU-基于CloudFlare的轻量化监控平台
 - [saxpjexck/lsix](https://github.com/saxpjexck/lsix) - 
 - [SuPoTing/YOLOv8-GUI-PySide6](https://github.com/SuPoTing/YOLOv8-GUI-PySide6) - 
 - [ThinkDevelop/Free-SS-SSR](https://github.com/ThinkDevelop/Free-SS-SSR) - 每日分享免费的ss、vmess、vless、trojan、hysteria2等各类节点
