@@ -213,7 +213,7 @@
 
 ## analytics 
 
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - Meet OceanBase, the MySQL compatible distributed database for your cloud native apps. High Performance, High Available, Low Cost, Multi-Cloud. Welcome to our community: https://discord.gg/74cF8vbNEs
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads. Welcome to our community: https://discord.gg/74cF8vbNEs
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
@@ -412,7 +412,7 @@
 
 ## cpp 
 
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - Meet OceanBase, the MySQL compatible distributed database for your cloud native apps. High Performance, High Available, Low Cost, Multi-Cloud. Welcome to our community: https://discord.gg/74cF8vbNEs
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads. Welcome to our community: https://discord.gg/74cF8vbNEs
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -473,7 +473,7 @@
 
 ## database 
 
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - Meet OceanBase, the MySQL compatible distributed database for your cloud native apps. High Performance, High Available, Low Cost, Multi-Cloud. Welcome to our community: https://discord.gg/74cF8vbNEs
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads. Welcome to our community: https://discord.gg/74cF8vbNEs
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [jincheng9/go-tutorial](https://github.com/jincheng9/go-tutorial) - Go learning materials，涵盖基础、中级和高级教程
@@ -902,7 +902,7 @@
 ## hacktoberfest 
 
 - [binarywang/WxJava](https://github.com/binarywang/WxJava) - 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - Meet OceanBase, the MySQL compatible distributed database for your cloud native apps. High Performance, High Available, Low Cost, Multi-Cloud. Welcome to our community: https://discord.gg/74cF8vbNEs
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads. Welcome to our community: https://discord.gg/74cF8vbNEs
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
@@ -1271,7 +1271,7 @@
 ## mysql 
 
 - [tnb-labs/panel](https://github.com/tnb-labs/panel) - 耗子面板 (RatPanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - Meet OceanBase, the MySQL compatible distributed database for your cloud native apps. High Performance, High Available, Low Cost, Multi-Cloud. Welcome to our community: https://discord.gg/74cF8vbNEs
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads. Welcome to our community: https://discord.gg/74cF8vbNEs
 - [CoderLeixiaoshuai/java-eight-part](https://github.com/CoderLeixiaoshuai/java-eight-part) - 『Java八股文』Java面试套路，Java进阶学习，打破内卷拿大厂Offer，升职加薪！
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [chengxy-nds/Springboot-Notebook](https://github.com/chengxy-nds/Springboot-Notebook) - Springboot-Notebook 一个以 springboot 为基础开发框架， 整合 Redis 、Mysql 、 Rabbitmq 、ES 、MongoDB、sharding-jdbc 分库分表、zookeeper 、web人脸识别 、实时消息推送 、SQL优化、注册中心 、数据脱敏 等互联网主流技术， 文章图解理论配合实战案例，实现开发中常见功能点的综合项目。 本着拿来即用的原则，助力
@@ -2030,7 +2030,7 @@
 
 ## sql 
 
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - Meet OceanBase, the MySQL compatible distributed database for your cloud native apps. High Performance, High Available, Low Cost, Multi-Cloud. Welcome to our community: https://discord.gg/74cF8vbNEs
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads. Welcome to our community: https://discord.gg/74cF8vbNEs
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [godror/godror](https://github.com/godror/godror) - GO DRiver for ORacle DB
 - [ds19991999/SecBox](https://github.com/ds19991999/SecBox) - 🖤 网络安全与渗透测试工具导航
