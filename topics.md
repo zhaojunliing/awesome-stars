@@ -46,7 +46,6 @@
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deep-learning](#deep-learning)
-- [deno](#deno)
 - [deployment](#deployment)
 - [design](#design)
 - [devops](#devops)
@@ -81,7 +80,6 @@
 - [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
-- [homebrew](#homebrew)
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
@@ -194,7 +192,6 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
-- [zig](#zig)
 
 ## ai 
 
@@ -204,7 +201,7 @@
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用!前后端分离架构 SpringBoot，SpringCloud，Ant Design4、Vue3，Mybatis！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高开发效率，又不失灵活性~
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot，SpringCloud、Mybatis，Ant Design4、 Vue3.0、TS+vite！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高效率
 
 ## algorithm 
 
@@ -256,7 +253,6 @@
 ## archlinux 
 
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 ## arduino 
 
@@ -350,7 +346,7 @@
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [lss233/kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
 - [yqchilde/wxbot](https://github.com/yqchilde/wxbot) - ☝🏻 一个好玩的个人微信机器人程序(DaenDLL、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用!前后端分离架构 SpringBoot，SpringCloud，Ant Design4、Vue3，Mybatis！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高开发效率，又不失灵活性~
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot，SpringCloud、Mybatis，Ant Design4、 Vue3.0、TS+vite！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高效率
 - [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 - [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 
@@ -500,10 +496,6 @@
 - [aleju/imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.
 - [yeyupiaoling/PaddlePaddle-DeepSpeech](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) - 基于PaddlePaddle实现的语音识别，中文语音识别。项目完善，识别效果好。支持Windows，Linux下训练和预测，支持Nvidia Jetson开发板预测。
 
-## deno 
-
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
-
 ## deployment 
 
 - [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) - All-in-One Development Tool based on PaddlePaddle
@@ -556,7 +548,6 @@
 - [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image
 - [wader/static-ffmpeg](https://github.com/wader/static-ffmpeg) - Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
 - [TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi) - 强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [yeyupiaoling/PaddlePaddle-DeepSpeech](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) - 基于PaddlePaddle实现的语音识别，中文语音识别。项目完善，识别效果好。支持Windows，Linux下训练和预测，支持Nvidia Jetson开发板预测。
 - [macrozheng/mall-learning](https://github.com/macrozheng/mall-learning) - mall学习教程，架构、业务、技术要点全方位解析。mall项目（60k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot、MyBatis、Elasticsearch、RabbitMQ、Redis、MongoDB、MySQL等技术，采用Docker容器化部署。
@@ -758,7 +749,6 @@
 - [lazybootsafe/Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack) - Go-Learning-With-Hacker--go语言HackTools开发教程从入门到入狱
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [koho/frpmgr](https://github.com/koho/frpmgr) - A user-friendly desktop GUI client for FRP on Windows.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [jobbole/awesome-go-cn](https://github.com/jobbole/awesome-go-cn) - Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。由「开源前哨」和「Go开发大全」微信团队维护。
 - [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
@@ -865,7 +855,6 @@
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [taoshihan1991/go-fly](https://github.com/taoshihan1991/go-fly) - 开源在线客服系统GO语言开发GO-FLY,免费在线客服系统/open source self-hosted private cloud customer support live chat software by golang
 - [hwholiday/learning_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go DDD 项目落地、Go-kit 、Go-Micro 、Go 推送平台、微服务实践
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [jobbole/awesome-go-cn](https://github.com/jobbole/awesome-go-cn) - Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。由「开源前哨」和「Go开发大全」微信团队维护。
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 - [wanghaoxi3000/gin-rtsp](https://github.com/wanghaoxi3000/gin-rtsp) - 基于Gin + WebSocket + JSMpeg，在HTML页面上直接播放RTSP视频流。
@@ -938,10 +927,6 @@
 
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
-
-## homebrew 
-
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 ## html 
 
@@ -1049,7 +1034,7 @@
 - [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
 - [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用!前后端分离架构 SpringBoot，SpringCloud，Ant Design4、Vue3，Mybatis！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高开发效率，又不失灵活性~
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot，SpringCloud、Mybatis，Ant Design4、 Vue3.0、TS+vite！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高效率
 - [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) - Universal File Online Preview Project based on Spring-Boot
 - [flowable/flowable-engine](https://github.com/flowable/flowable-engine) - A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
@@ -1199,7 +1184,7 @@
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用!前后端分离架构 SpringBoot，SpringCloud，Ant Design4、Vue3，Mybatis！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高开发效率，又不失灵活性~
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot，SpringCloud、Mybatis，Ant Design4、 Vue3.0、TS+vite！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高效率
 
 ## lua 
 
@@ -1388,11 +1373,11 @@
 - [Javen205/IJPay](https://github.com/Javen205/IJPay) - IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付、PayPal 支付等常用的支付方式以及各种常用的接口。不依赖任何第三方 mvc 框架，仅仅作为工具使用简单快速完成支付模块的开发，可轻松嵌入到任何系统里。右上角点下小星星✨
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [sagoo-cloud/sagooiot-ui](https://github.com/sagoo-cloud/sagooiot-ui) - SagooIOT前端工程
-- [AnyLifeZLB/UniPlugin-FaceAISDK](https://github.com/AnyLifeZLB/UniPlugin-FaceAISDK) - FaceAI SDK 封装成UniPlugin
+- [FaceAISDK/UniPlugin-FaceAISDK](https://github.com/FaceAISDK/UniPlugin-FaceAISDK) - FaceAI SDK 封装成UniPlugin
 - [xiaoxinpro/WolGoWeb](https://github.com/xiaoxinpro/WolGoWeb) - 基于Golang的远程唤醒WebAPI
 - [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 - [cyb3rdoc/onenvr](https://github.com/cyb3rdoc/onenvr) - OneNVR - One Network Video Recorder for All Your Cameras
-- [AnyLifeZLB/FaceVerificationSDK](https://github.com/AnyLifeZLB/FaceVerificationSDK) - Android on_device 1:1 Face Recognition 、 Liveness detection and 1:N & M:N Face Search SDK 🧒 离线版设备端Android1:1人脸识别 动作活体、静默活体、近红外双目活体检测 以及1:N M:N 人脸搜索算法SDK 封装。全程可开飞行模式不用联网
+- [FaceAISDK/FaceAISDK_Android](https://github.com/FaceAISDK/FaceAISDK_Android) - Android on_device 1:1 Face Recognition 、 Liveness detection and 1:N & M:N Face Search SDK 🧒 离线版设备端Android1:1人脸识别 动作活体、静默活体、近红外双目活体检测 以及1:N M:N 人脸搜索算法SDK 封装。全程可开飞行模式不用联网
 - [wkeyuan/DWSurvey](https://github.com/wkeyuan/DWSurvey) - Survey System. 最好用的开源问卷调查系统、表单系统。
 - [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [qy527145/crack](https://github.com/qy527145/crack) - 
@@ -1897,7 +1882,6 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 
 ## sass 
@@ -2009,7 +1993,7 @@
 - [yudaocode/SpringBoot-Labs](https://github.com/yudaocode/SpringBoot-Labs) - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
 - [Yin-Hongwei/music-website](https://github.com/Yin-Hongwei/music-website) - 🎧 Vue + SpringBoot + MyBatis 音乐网站
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用!前后端分离架构 SpringBoot，SpringCloud，Ant Design4、Vue3，Mybatis！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高开发效率，又不失灵活性~
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot，SpringCloud、Mybatis，Ant Design4、 Vue3.0、TS+vite！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高效率
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [ityouknow/spring-boot-leaning](https://github.com/ityouknow/spring-boot-leaning) - Spring Boot 2.X 最全课程代码
 - [vector4wang/spring-boot-quick](https://github.com/vector4wang/spring-boot-quick) - :herb: 基于springboot的快速学习示例,整合自己遇到的开源框架,如：rabbitmq(延迟队列)、Kafka、jpa、redies、oauth2、swagger、jsp、docker、k3s、k3d、k8s、mybatis加解密插件、异常处理、日志输出、多模块开发、多环境打包、缓存cache、爬虫、jwt、GraphQL、dubbo、zookeeper和Async等等:pushpin
@@ -2036,7 +2020,7 @@
 - [fuce1314/Springboot_v2](https://github.com/fuce1314/Springboot_v2) - SpringBoot_v2项目是努力打造springboot框架的极致细腻的脚手架。包括一套漂亮的前台。无其他杂七杂八的功能，原生纯净。
 - [ZongXR/SuperMarket](https://github.com/ZongXR/SuperMarket) - 设计精良的网上商城系统，包括前端、后端、数据库、负载均衡、数据库缓存、分库分表、读写分离、全文检索、消息队列等，使用SpringCloud框架，基于Java开发。该项目可部署到服务器上，不断完善中……
 - [macrozheng/mall-learning](https://github.com/macrozheng/mall-learning) - mall学习教程，架构、业务、技术要点全方位解析。mall项目（60k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot、MyBatis、Elasticsearch、RabbitMQ、Redis、MongoDB、MySQL等技术，采用Docker容器化部署。
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用!前后端分离架构 SpringBoot，SpringCloud，Ant Design4、Vue3，Mybatis！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高开发效率，又不失灵活性~
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot，SpringCloud、Mybatis，Ant Design4、 Vue3.0、TS+vite！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高效率
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [ityouknow/spring-boot-leaning](https://github.com/ityouknow/spring-boot-leaning) - Spring Boot 2.X 最全课程代码
 - [vector4wang/spring-boot-quick](https://github.com/vector4wang/spring-boot-quick) - :herb: 基于springboot的快速学习示例,整合自己遇到的开源框架,如：rabbitmq(延迟队列)、Kafka、jpa、redies、oauth2、swagger、jsp、docker、k3s、k3d、k8s、mybatis加解密插件、异常处理、日志输出、多模块开发、多环境打包、缓存cache、爬虫、jwt、GraphQL、dubbo、zookeeper和Async等等:pushpin
@@ -2161,7 +2145,7 @@
 - [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
 - [Nayacco/workflow-bpmn-modeler](https://github.com/Nayacco/workflow-bpmn-modeler) - 🔥 flowable workflow designer based on vue and bpmn.io@7.0
 - [Yin-Hongwei/music-website](https://github.com/Yin-Hongwei/music-website) - 🎧 Vue + SpringBoot + MyBatis 音乐网站
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用!前后端分离架构 SpringBoot，SpringCloud，Ant Design4、Vue3，Mybatis！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高开发效率，又不失灵活性~
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot，SpringCloud、Mybatis，Ant Design4、 Vue3.0、TS+vite！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高效率
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [jeecgboot/jeecg](https://github.com/jeecgboot/jeecg) - JEECG是一款基于代码生成器的J2EE快速开发平台，开源界“小普元”超越传统商业企业级开发平台。引领新的开发模式(Online Coding模式(自定义表单) - &gt; 代码生成器模式 - &gt; 手工MERGE智能开发)， 可以帮助解决Java项目90%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省人力成本，同时又不失灵活性。具备：表单配置能力（无需编码）、移动配
 - [Exrick/xmall](https://github.com/Exrick/xmall) - 基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等
@@ -2223,10 +2207,6 @@
 ## xml 
 
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-
-## zig 
-
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 
 ## License
