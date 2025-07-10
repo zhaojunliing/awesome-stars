@@ -883,6 +883,7 @@
 
 ## TypeScript 
 
+- [linux-do/cdk](https://github.com/linux-do/cdk) - LINUX DO CD key
 - [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor) - rich text editor by canvas/svg
 - [zaunist/xugou](https://github.com/zaunist/xugou) - XUGOU-基于CloudFlare的轻量化监控平台
 - [voideditor/void](https://github.com/voideditor/void) - 
