@@ -61,6 +61,7 @@
 
 ## C# # 
 
+- [jindongjie/SoftwareCopyrightSourceCodeCollector](https://github.com/jindongjie/SoftwareCopyrightSourceCodeCollector) - 跨平台中国软件著作权源代码收集器 （GUI图形界面/ 软著自动收集 / 60页源码 / 自动生成 World文档）
 - [Ponderfly/GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck) - 扫描国内可用的谷歌翻译IP
 - [fountyuan/Fountain.WinForm.AutoUpdater](https://github.com/fountyuan/Fountain.WinForm.AutoUpdater) - C# 实现在线更新
 - [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.
@@ -900,7 +901,7 @@
 - [bilibili/web-demuxer](https://github.com/bilibili/web-demuxer) - Demux media files in the browser using WebAssembly, designed for WebCodecs 在浏览器中实现媒体文件的解封装，专为WebCodecs设计
 - [nannanStrawberry314/license](https://github.com/nannanStrawberry314/license) - 
 - [RylanBot/awesome-hands-control](https://github.com/RylanBot/awesome-hands-control) - 👋 Gesture recognition for software control「手势识别操控程序」
-- [easy-temps/vue3-vant-mobile](https://github.com/easy-temps/vue3-vant-mobile) - An mobile web apps template based on the Vue 3 ecosystem。一个基于 Vue 3 生态系统的移动 web 应用模板，帮助你快速完成业务开发。
+- [vue-zone/vue3-vant-mobile](https://github.com/vue-zone/vue3-vant-mobile) - An mobile web apps template based on the Vue 3 ecosystem。一个基于 Vue 3 生态系统的移动 web 应用模板，帮助你快速完成业务开发。
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
