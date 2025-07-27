@@ -1386,6 +1386,7 @@
 
 ## others 
 
+- [iGaoWei/BigDataView](https://github.com/iGaoWei/BigDataView) - 100+套大数据可视化炫酷大屏Html5模板；包含行业：社区、物业、政务、交通、金融银行等，全网最新、最多，最全、最酷、最炫大数据可视化模板。陆续更新中
 - [kell888/BroadcastService](https://github.com/kell888/BroadcastService) - Remoting技术实现的消息广播框架（通过配置文件可以指定广播的客户端IP）
 - [Sjj1024/PakePlus-Android](https://github.com/Sjj1024/PakePlus-Android) - Turn any webpage/Vue/React and so on into desktop and mobile app with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app/
 - [Sjj1024/PakePlus-iOS](https://github.com/Sjj1024/PakePlus-iOS) - Turn any webpage/Vue/React and so on into desktop and mobile app with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app/
@@ -1460,7 +1461,7 @@
 - [MatrixTM/FTPDumper](https://github.com/MatrixTM/FTPDumper) - ⚡ Scan World FTP Servers and Steal Their Data 🌍
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
 - [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
-- [pgsty/pigsty](https://github.com/pgsty/pigsty) - Free RDS for PostgreSQL —— Pigsty
+- [pgsty/pigsty](https://github.com/pgsty/pigsty) - Free RDS for PostgreSQL — Pigsty
 - [JaveleyQAQ/WeChatOpenDevTools-Python](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python) - WeChatOpenDevTool 微信小程序强制开启开发者工具
 - [hongch911/WiresharkPlugin](https://github.com/hongch911/WiresharkPlugin) - The H265 H264 PS PCM AMR SILK plugin for Wireshark Lua
 - [fountyuan/Fountain.WinForm.AutoUpdater](https://github.com/fountyuan/Fountain.WinForm.AutoUpdater) - C# 实现在线更新
