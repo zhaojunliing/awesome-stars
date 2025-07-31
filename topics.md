@@ -174,6 +174,7 @@
 - [statistics](#statistics)
 - [svelte](#svelte)
 - [swift](#swift)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
@@ -438,6 +439,7 @@
 
 ## css 
 
+- [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 - [fear-the-lord/Drowsiness-Detection](https://github.com/fear-the-lord/Drowsiness-Detection) - 
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [jCodeLife/mind-map](https://github.com/jCodeLife/mind-map) - 🖼个人思维导图笔记，已整理JS、TS、Vue、React ... 持续更新中，欢迎 PR 和 Start~
@@ -753,7 +755,6 @@
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [golang/go](https://github.com/golang/go) - The Go programming language
-- [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [mindoc-org/mindoc](https://github.com/mindoc-org/mindoc) - Golang实现的基于beego框架的接口在线文档管理系统
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go) - golang binding for ffmpeg
@@ -1409,7 +1410,7 @@
 - [linux-do/cdk](https://github.com/linux-do/cdk) - LINUX DO CD key
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle and PyTorch.
 - [phpk/godoos](https://github.com/phpk/godoos) - 一款高效的内网办公操作系统，内含word/excel/ppt/pdf/聊天/白板/思维导图等多个办公系统工具，支持AI创作/知识库和原生文件存储。平台界面精仿windows风格，操作简便，同时保持低资源消耗和高性能运行。无需注册即可自动连接内网用户，实现即时通讯和文件共享。灵活高配置的应用商店，可无限扩展。
-- [ezyshu/linuxdo-scripts](https://github.com/ezyshu/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店!
+- [ezyshu/linuxdo-scripts](https://github.com/ezyshu/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 - [egzosn/pay-java-parent](https://github.com/egzosn/pay-java-parent) - 第三方支付对接全能支付Java开发工具包.优雅的轻量级支付模块集成支付对接支付整合（微信,支付宝,银联,友店,富友,跨境支付paypal,payoneer(P卡派安盈)易极付）app,扫码,网页刷脸付刷卡付条码付转账服务商模式,微信分账,微信合单支付、支持多种支付类型多支付账户，支付与业务完全剥离，简单几行代码即可实现支付，简单快速完成支付模块的开发，可轻松嵌入到任何系统里 目前仅是一个开发工具包
 - [zaunist/xugou](https://github.com/zaunist/xugou) - XUGOU-基于CloudFlare的轻量化监控平台
@@ -1539,7 +1540,7 @@
 - [HeiDaotu/WFRobertQL](https://github.com/HeiDaotu/WFRobertQL) - 这是WF·Robert的青龙脚本库，里面包含各种脚本
 - [mujiaPrince/k8s-web](https://github.com/mujiaPrince/k8s-web) - 
 - [goburrow/modbus](https://github.com/goburrow/modbus) - Fault-tolerant implementation of modbus protocol in Go (golang)
-- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
+- [zai-org/CodeGeeX](https://github.com/zai-org/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 - [Tedyst/HikLoad](https://github.com/Tedyst/HikLoad) - Download videos from a HikVision DVR/NVR
 - [GavinYellow/SharpSCADA](https://github.com/GavinYellow/SharpSCADA) - C# SCADA
 - [wd210010/only_for_happly](https://github.com/wd210010/only_for_happly) - manus自动写脚本 注册链接 https://manus.im/invitation/V9OIRPDYST3RAF8 百度贴吧签到★小米运动刷步数★恩山签到★雨云签到白嫖服务器★小茅预约★天翼云盘签到★阿里云盘签到★富贵论坛签到★一点万向签到打卡★什么值得买达人和关键词取消关注★STLXZ签到★PT站签到★帆软签到+摇摇乐★千图网签到★星空代理签到★什么值得买签到★值得买每日抽奖★小米社区签到★
@@ -2104,6 +2105,10 @@
 
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
+## tailwind 
+
+- [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
+
 ## tailwindcss 
 
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
@@ -2150,6 +2155,7 @@
 
 ## ui 
 
+- [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ying32/govcl](https://github.com/ying32/govcl) - Cross-platform Go/Golang GUI library.
 - [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
