@@ -158,7 +158,7 @@
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [ebitengine/oto](https://github.com/ebitengine/oto) - ♪ A low-level library to play sound on multiple platforms ♪
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [tnborg/panel](https://github.com/tnborg/panel) - 耗子面板 (RatPanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
+- [tnborg/panel](https://github.com/tnborg/panel) - 耗子面板 (AcePanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
 - [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一键导出PC微信聊天记录工具
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [selinuxG/Golin](https://github.com/selinuxG/Golin) - 弱口令检测、 漏洞扫描、端口扫描（协议识别，组件识别）、web目录扫描、等保工具（网络安全等级保护现场测评工具）内置3级等保核查命令、基线核查工具、键盘记录器
@@ -659,6 +659,7 @@
 
 ## Others 
 
+- [AlphabugX/Jawd](https://github.com/AlphabugX/Jawd) - 
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 - [zhaojunliing/awesome-stars](https://github.com/zhaojunliing/awesome-stars) - 
@@ -736,6 +737,7 @@
 
 ## Python 
 
+- [BasicProtein/AugmentCode-Free](https://github.com/BasicProtein/AugmentCode-Free) - AugmentCode无限免费续杯方案；新账号可获得600次免费的Claude Sonnet 4调用[AugmentCode unlimited free refill plan; new accounts get 600 free Claude Sonnet 4 calls]
 - [eagleLiu82/diffTableTool](https://github.com/eagleLiu82/diffTableTool) - diff database table. 比对数据库中两个表的差异，支持sqlite3,mysql,postgresql,orcle,mssql
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
