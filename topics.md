@@ -1407,6 +1407,7 @@
 
 ## others 
 
+- [ai-coding-labs/JG-Cursor-cracker](https://github.com/ai-coding-labs/JG-Cursor-cracker) - 极光互联蛙无限Cursor登录器破解器
 - [BasicProtein/AugmentCode-Free](https://github.com/BasicProtein/AugmentCode-Free) - 【8月更新】AugmentCode无限免费续杯方案[【August Update】AugmentCode unlimited free refill plan]
 - [AlphabugX/Jawd](https://github.com/AlphabugX/Jawd) - 
 - [yuboon/java-examples](https://github.com/yuboon/java-examples) - 配合博客或技术文章的一些demo代码
