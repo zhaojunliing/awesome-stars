@@ -147,6 +147,7 @@
 
 ## Go 
 
+- [ai-coding-labs/JG-Cursor-cracker](https://github.com/ai-coding-labs/JG-Cursor-cracker) - 极光互联蛙无限Cursor登录器破解器
 - [muleiwu/dwz-server](https://github.com/muleiwu/dwz-server) - 🚀 木雷坞公司开发的一个功能完善、高性能的企业级短链接服务平台，支持多域名、AB测试、用户管理、实时统计等功能。
 - [Veloera/Veloera](https://github.com/Veloera/Veloera) - 
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
