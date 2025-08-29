@@ -1036,6 +1036,7 @@
 
 ## java 
 
+- [AlphabugX/Jawd](https://github.com/AlphabugX/Jawd) - Jawd——Jar文件编辑并重新打包导出神器。一款能够让你在AWD抢占先机，应急响应第一时间修复bug的神器
 - [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
 - [ccmjga/zhilu-admin](https://github.com/ccmjga/zhilu-admin) - 🔥 通过 AI 驱动的新一代后台管理系统（Java21+Vue3.5）
 - [binarywang/WxJava](https://github.com/binarywang/WxJava) - 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
@@ -1407,9 +1408,10 @@
 
 ## others 
 
+- [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
+- [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一个在线的微信公众号文章批量下载工具，支持下载阅读量与评论数据，支持私有化部署，通过浏览器进行使用，无需进行安装
 - [ai-coding-labs/JG-Cursor-cracker](https://github.com/ai-coding-labs/JG-Cursor-cracker) - 极光互联蛙无限Cursor登录器破解器
 - [BasicProtein/AugmentCode-Free](https://github.com/BasicProtein/AugmentCode-Free) - 【8月更新】AugmentCode无限免费续杯方案[【August Update】AugmentCode unlimited free refill plan]
-- [AlphabugX/Jawd](https://github.com/AlphabugX/Jawd) - 
 - [yuboon/java-examples](https://github.com/yuboon/java-examples) - 配合博客或技术文章的一些demo代码
 - [eagleLiu82/diffTableTool](https://github.com/eagleLiu82/diffTableTool) - diff database table. 比对数据库中两个表的差异，支持sqlite3,mysql,postgresql,orcle,mssql
 - [iGaoWei/BigDataView](https://github.com/iGaoWei/BigDataView) - 100+套大数据可视化炫酷大屏Html5模板；包含行业：社区、物业、政务、交通、金融银行等，全网最新、最多，最全、最酷、最炫大数据可视化模板。陆续更新中
@@ -1458,7 +1460,7 @@
 - [zhaojunliing/awesome-stars](https://github.com/zhaojunliing/awesome-stars) - 
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [WowYiJiu/Linux.do-KeepAlive](https://github.com/WowYiJiu/Linux.do-KeepAlive) - 
-- [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 好用的 Canvas 引擎，轻松实现专业图形编辑。Easy-to-Use Canvas Engine. Effortless Professional Graphic Editing.
+- [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 好用的 Canvas 引擎。Easy-to-Use Canvas Engine.
 - [MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking) - YOLOv8 Object Tracking using PyTorch, OpenCV and DeepSORT
 - [Saadbs7/YOLOv8-Sleep-Detector-with-Text-to-Speech-Alert](https://github.com/Saadbs7/YOLOv8-Sleep-Detector-with-Text-to-Speech-Alert) - This repository contains code for a real-time sleep detection system using YOLOv8 object detection and a webcam feed. The detector can identify whether a person's eyes are open or closed and determine
 - [beeware/briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
