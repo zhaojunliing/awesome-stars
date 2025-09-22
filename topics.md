@@ -143,6 +143,7 @@
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
@@ -1836,6 +1837,10 @@
 - [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource) - 学习计算机科学的一些pdf资源，欢迎赞赏
+
+## programming-language 
+
+- [golang/go](https://github.com/golang/go) - The Go programming language
 
 ## python 
 
