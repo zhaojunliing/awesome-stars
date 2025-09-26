@@ -33,6 +33,7 @@
 - [clash](#clash)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cloud](#cloud)
 - [cms](#cms)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
@@ -402,6 +403,14 @@
 ## clojure 
 
 - [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) - 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio/Fleet
+
+## cloud 
+
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
+- [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
+- [Activiti/Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process eng
 
 ## cms 
 
@@ -1418,6 +1427,7 @@
 
 ## others 
 
+- [SamHoque/ide-eval-resetter](https://github.com/SamHoque/ide-eval-resetter) - A JetBrains IDE plugin that resets evaluation periods to extend trial usage. Built with Kotlin for IntelliJ Platform.
 - [Akarin-Akari/go-mall](https://github.com/Akarin-Akari/go-mall) - 
 - [derror-ai/goworkflow](https://github.com/derror-ai/goworkflow) - 
 - [Chadwuo/HHAutoUpdate.NET](https://github.com/Chadwuo/HHAutoUpdate.NET) - 轻松地将自动更新升级功能添加到经典桌面应用程序（WinForm）项目中。
