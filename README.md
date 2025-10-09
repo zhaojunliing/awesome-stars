@@ -96,6 +96,7 @@
 
 ## C++ 
 
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [sanny32/OpenModScan](https://github.com/sanny32/OpenModScan) - Open ModScan is a Free Modbus Master (Client) Utility
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads. Welcome to our community: https://discord.gg/74cF8vbNEs
 - [PaddlePaddle/Serving](https://github.com/PaddlePaddle/Serving) - A flexible, high-performance carrier for machine learning models（『飞桨』服务化部署框架）
@@ -152,7 +153,7 @@
 - [derror-ai/goworkflow](https://github.com/derror-ai/goworkflow) - 
 - [vibe-coding-labs/JG-Cursor-cracker](https://github.com/vibe-coding-labs/JG-Cursor-cracker) - 极光互联蛙无限Cursor登录器破解器
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
-- [muleiwu/dwz-server](https://github.com/muleiwu/dwz-server) - 🚀 木雷坞公司开发的一个功能完善、高性能的企业级短链接服务平台，支持多域名、AB测试、用户管理、实时统计等功能。
+- [muleiwu/dwz-server](https://github.com/muleiwu/dwz-server) - 🚀 功能完善、轻量且高性能的企业级短链接服务平台，支持多域名、AB测试、用户管理、实时统计等功能。支持SQLite、MySQL、PostgreSQL、Redis
 - [Veloera/Veloera](https://github.com/Veloera/Veloera) - 
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 - [yosebyte/nodepass](https://github.com/yosebyte/nodepass) - A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections.
