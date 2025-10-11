@@ -200,6 +200,7 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
+- [youtube](#youtube)
 
 ## ai 
 
@@ -1432,6 +1433,7 @@
 
 ## others 
 
+- [zbuzhi/diff-excel](https://github.com/zbuzhi/diff-excel) - Excel文件对比工具
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [Akarin-Akari/go-mall](https://github.com/Akarin-Akari/go-mall) - 
 - [derror-ai/goworkflow](https://github.com/derror-ai/goworkflow) - 
@@ -2337,6 +2339,12 @@
 ## xml 
 
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+
+## youtube 
+
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+- [vzhd1701/gridplayer](https://github.com/vzhd1701/gridplayer) - Play videos side-by-side
+- [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
 
 
 ## License
