@@ -1045,6 +1045,7 @@
 
 ## iot 
 
+- [PandaXGO/PandaX](https://github.com/PandaXGO/PandaX) - 🎉🔥PandaX是Go语言开源的企业级物联网平台低代码开发基座，基于go-restful+Vue3.0+TypeScript+vite3+element-Plus的前后端分离开发。支持设备管控，规则链，云组态，可视化大屏，报表设计器，表单设计器，代码生成器等功能。能帮助你快速建立IOT物联网平台等相关业务系统。
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
 - [openGemini/openGemini](https://github.com/openGemini/openGemini) - CNCF sandbox project, an open source distributed time-series database with high concurrency, high performance, and high scalability
 - [zengfr/easymodbus4j](https://github.com/zengfr/easymodbus4j) - easymodbus4j是一个高性能和易用的 Modbus 协议的 Java 实现，基于 Netty 开发，可用于 Modbus协议的Java客户端和服务器开发, A high-performance and ease-of-use implementation of the Modbus protocol written in Java netty support for modbus 4 mo
