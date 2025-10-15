@@ -1434,6 +1434,7 @@
 
 ## others 
 
+- [owo12321/Yolov5_DeepSort_Traffic-counter](https://github.com/owo12321/Yolov5_DeepSort_Traffic-counter) - 基于Yolov5_DeepSort的物体计数器，可以统计车流或人流量等
 - [zbuzhi/diff-excel](https://github.com/zbuzhi/diff-excel) - Excel文件对比工具
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [Akarin-Akari/go-mall](https://github.com/Akarin-Akari/go-mall) - 
