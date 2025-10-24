@@ -569,6 +569,7 @@
 
 ## JavaScript 
 
+- [501351981/vue-office](https://github.com/501351981/vue-office) - 支持word(.docx)、excel(.xlsx,.xls)、pdf、pptx等各类型office文件预览的vue组件集合，提供一站式office文件预览方案，支持vue2和3，也支持React等非Vue框架。Web-based pdf, excel, word, pptx preview library
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 - [mindskip/xzs](https://github.com/mindskip/xzs) - 在线考试系统
@@ -596,7 +597,7 @@
 - [mqttsnet/thinglinks](https://github.com/mqttsnet/thinglinks) - a high-performance, high-throughput, and highly scalable IoT platform! A single instance can support millions of connections. It offers powerful custom extension capabilities. Built with Netty as the 
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
-- [blueagler/DeepL-Helper](https://github.com/blueagler/DeepL-Helper) - Bypass 5,000 characters, Remove edit restriction, Use DeepL Pro Account Cookies/DeepL Api Free Token to translate, Unlock Formal/informal tone, Randomize fingerprint
+- [blueagler/DeepL-Helper](https://github.com/blueagler/DeepL-Helper) - Extend character support to 5,000+, lift editing limits, integrate with DeepL (Pro or API), enable formal/informal tone selection, and provide privacy‑friendly device fingerprint rotation.
 - [georgehuan1994/DingDing-Automatic-Clock-in](https://github.com/georgehuan1994/DingDing-Automatic-Clock-in) - 钉钉全自动打卡脚本，基于auto.js，免root，适用于蓝牙考勤机
 - [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 《Go 程序员宝典》：go 基础语法，go 并发模式，go runtime 实现原理 ，企业级 go 语言项目经验。
 - [fuce1314/Springboot_v2](https://github.com/fuce1314/Springboot_v2) - SpringBoot_v2项目是努力打造springboot框架的极致细腻的脚手架。包括一套漂亮的前台。无其他杂七杂八的功能，原生纯净。
