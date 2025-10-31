@@ -1439,10 +1439,13 @@
 
 ## others 
 
+- [roncoo/roncoo-education-web](https://github.com/roncoo/roncoo-education-web) - 《领课教育》的前端门户系统。领课教育系统（roncoo-education）是基于领课网络多年的在线教育平台开发和运营经验打造出来的产品，致力于打造一个全行业都适用的分布式在线教育系统。
+- [googleweb/docker-jetbrains-license-server](https://github.com/googleweb/docker-jetbrains-license-server) - JetBrains License Server Docker image
 - [ranuts/document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
 - [owo12321/Yolov5_DeepSort_Traffic-counter](https://github.com/owo12321/Yolov5_DeepSort_Traffic-counter) - 基于Yolov5_DeepSort的物体计数器，可以统计车流或人流量等
 - [zbuzhi/diff-excel](https://github.com/zbuzhi/diff-excel) - Excel文件对比工具
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
+- [Akarin-Akari/go-mall](https://github.com/Akarin-Akari/go-mall) - 
 - [derror-ai/goworkflow](https://github.com/derror-ai/goworkflow) - 
 - [Chadwuo/HHAutoUpdate.NET](https://github.com/Chadwuo/HHAutoUpdate.NET) - 轻松地将自动更新升级功能添加到经典桌面应用程序（WinForm）项目中。
 - [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
@@ -2199,6 +2202,7 @@
 
 ## text-to-speech 
 
+- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
