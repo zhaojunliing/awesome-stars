@@ -1682,7 +1682,7 @@
 - [pickedDeng/videoEdit](https://github.com/pickedDeng/videoEdit) - vue前端视频剪辑（视频编辑）、视频拆条，云剪辑、云拆条。demo地址
 - [malaohu/RunAsDate](https://github.com/malaohu/RunAsDate) - 类型于 RunAsDate 软件，C#实现代码
 - [CHKZL/DDTV](https://github.com/CHKZL/DDTV) - 可对阿B进行直播多窗口观看、开播提醒、自动录制、合并、转码的跨平台工具
-- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [A-new/x64dbg_plugin](https://github.com/A-new/x64dbg_plugin) - x64dbg插件合集
 - [lyj8330328/leyou](https://github.com/lyj8330328/leyou) - 乐优商城项目后台
 - [proferosec/log4jScanner](https://github.com/proferosec/log4jScanner) - log4jScanner provides the ability to scan internal subnets for vulnerable log4j web services
