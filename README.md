@@ -53,7 +53,7 @@
 - [hysios/hknetsdk](https://github.com/hysios/hknetsdk) - 
 - [godror/godror](https://github.com/godror/godror) - GO DRiver for ORacle DB
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [guanshuicheng/invoice](https://github.com/guanshuicheng/invoice) - Collaboration with wangxupeng(https://github.com/wangxupeng)
 - [dog-qiuqiu/Yolo-Fastest](https://github.com/dog-qiuqiu/Yolo-Fastest) - :zap: Based on yolo's ultra-lightweight universal target detection algorithm, the calculation amount is only 250mflops, the ncnn model size is only 666kb, the Raspberry Pi 3b can run up to 15fps+, and
 
