@@ -222,7 +222,7 @@
 
 ## analytics 
 
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads. Welcome to our community: https://discord.gg/74cF8vbNEs
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
@@ -443,7 +443,6 @@
 
 ## cpp 
 
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads. Welcome to our community: https://discord.gg/74cF8vbNEs
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -513,7 +512,7 @@
 
 ## database 
 
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads. Welcome to our community: https://discord.gg/74cF8vbNEs
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [jincheng9/go-tutorial](https://github.com/jincheng9/go-tutorial) - Go learning materials，涵盖基础、中级和高级教程
@@ -570,6 +569,7 @@
 
 ## discord 
 
+- [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generat
 - [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 - [lss233/kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
 
@@ -957,7 +957,7 @@
 
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [binarywang/WxJava](https://github.com/binarywang/WxJava) - 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads. Welcome to our community: https://discord.gg/74cF8vbNEs
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
@@ -1346,7 +1346,7 @@
 - [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
 - [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 - [acepanel/panel](https://github.com/acepanel/panel) - ⚡ AcePanel - Enterprise server operation and maintenance management panel
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads. Welcome to our community: https://discord.gg/74cF8vbNEs
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.
 - [CoderLeixiaoshuai/java-eight-part](https://github.com/CoderLeixiaoshuai/java-eight-part) - 『Java八股文』Java面试套路，Java进阶学习，打破内卷拿大厂Offer，升职加薪！
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [chengxy-nds/Springboot-Notebook](https://github.com/chengxy-nds/Springboot-Notebook) - Springboot-Notebook 一个以 springboot 为基础开发框架， 整合 Redis 、Mysql 、 Rabbitmq 、ES 、MongoDB、sharding-jdbc 分库分表、zookeeper 、web人脸识别 、实时消息推送 、SQL优化、注册中心 、数据脱敏 等互联网主流技术， 文章图解理论配合实战案例，实现开发中常见功能点的综合项目。 本着拿来即用的原则，助力
@@ -1420,6 +1420,7 @@
 
 ## openai 
 
+- [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generat
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理中转分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [lss233/kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
@@ -1441,6 +1442,8 @@
 
 ## others 
 
+- [Vulpecula-Studio/88code_reset](https://github.com/Vulpecula-Studio/88code_reset) - 
+- [mucsbr/Screen-Translate](https://github.com/mucsbr/Screen-Translate) - 屏幕、区域实时翻译，支持openai格式
 - [roncoo/roncoo-education-web](https://github.com/roncoo/roncoo-education-web) - 《领课教育》的前端门户系统。领课教育系统（roncoo-education）是基于领课网络多年的在线教育平台开发和运营经验打造出来的产品，致力于打造一个全行业都适用的分布式在线教育系统。
 - [googleweb/docker-jetbrains-license-server](https://github.com/googleweb/docker-jetbrains-license-server) - JetBrains License Server Docker image
 - [ranuts/document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
@@ -1457,7 +1460,7 @@
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [mindskip/xzs](https://github.com/mindskip/xzs) - 在线考试系统
 - [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
-- [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一个在线的微信公众号文章批量下载工具，支持下载阅读量与评论数据，支持私有化部署，通过浏览器进行使用，无需进行安装
+- [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站(https://exporter.wxdown.online) 使用，同时也支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。
 - [vibe-coding-labs/JG-Cursor-cracker](https://github.com/vibe-coding-labs/JG-Cursor-cracker) - 极光互联蛙无限Cursor登录器破解器
 - [BasicProtein/AugmentCode-Free](https://github.com/BasicProtein/AugmentCode-Free) - 【8月更新】AugmentCode无限免费续杯方案[【August Update】AugmentCode unlimited free refill plan]
 - [yuboon/java-examples](https://github.com/yuboon/java-examples) - 配合博客或技术文章的一些demo代码
@@ -2151,7 +2154,6 @@
 
 ## sql 
 
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads. Welcome to our community: https://discord.gg/74cF8vbNEs
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [godror/godror](https://github.com/godror/godror) - GO DRiver for ORacle DB
 - [ds19991999/SecBox](https://github.com/ds19991999/SecBox) - 🖤 网络安全与渗透测试工具导航
@@ -2187,6 +2189,7 @@
 
 ## telegram 
 
+- [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generat
 - [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 - [lss233/kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
 
