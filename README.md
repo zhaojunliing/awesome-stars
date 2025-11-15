@@ -143,6 +143,7 @@
 
 ## Dockerfile 
 
+- [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [googleweb/docker-jetbrains-license-server](https://github.com/googleweb/docker-jetbrains-license-server) - JetBrains License Server Docker image
 - [ThinkDevelop/Free-SS-SSR](https://github.com/ThinkDevelop/Free-SS-SSR) - 每日分享免费的ss、vmess、vless、trojan、hysteria2等各类节点
 - [ecliptik/dockerfiles](https://github.com/ecliptik/dockerfiles) - Repo of Dockerfiles
@@ -981,6 +982,7 @@
 
 ## Vue 
 
+- [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 - [roncoo/roncoo-education-web](https://github.com/roncoo/roncoo-education-web) - 《领课教育》的前端门户系统。领课教育系统（roncoo-education）是基于领课网络多年的在线教育平台开发和运营经验打造出来的产品，致力于打造一个全行业都适用的分布式在线教育系统。
 - [RKQF-JVS/jvs-knowledge-ui](https://github.com/RKQF-JVS/jvs-knowledge-ui) - 【企业级在线文档】，解决企业内部文档编辑、知识沉淀、知识协同等痛点。项目主要采用Java开发，基础框架采用JVS（spring cloud+Vue）。适用场景：适用于个人、团队、企业使用，提供云笔记、个人知识沉淀、在线产品手册、团队内部知识库、在线电子教程、全文内容搜索、CMS内容展示等功能。支持私有化部署场景。
 - [muleiwu/dwz-admin-webui](https://github.com/muleiwu/dwz-admin-webui) - 🚀 一个功能完善、高性能的企业级短链接服务平台，支持多域名、AB测试、用户管理、实时统计等功能。
