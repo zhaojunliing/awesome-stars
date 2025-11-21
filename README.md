@@ -164,7 +164,7 @@
 - [muleiwu/dwz-server](https://github.com/muleiwu/dwz-server) - 🚀 功能完善、轻量且高性能的企业级短链接服务平台，支持多域名、AB测试、用户管理、实时统计等功能。支持SQLite、MySQL、PostgreSQL、Redis
 - [Veloera/Veloera](https://github.com/Veloera/Veloera) - 
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
-- [yosebyte/nodepass](https://github.com/yosebyte/nodepass) - A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections.
+- [yosebyte/nodepass](https://github.com/yosebyte/nodepass) - A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TCP/QUIC connections.
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
 - [WJQSERVER-STUDIO/ghproxy](https://github.com/WJQSERVER-STUDIO/ghproxy) - 基于Go的高性能,多功能,可扩展的Github代理加速项目
 - [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
