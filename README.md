@@ -182,7 +182,7 @@
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
 - [mattn/docx2md](https://github.com/mattn/docx2md) - Convert Microsoft Word Document to Markdown
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [openGemini/openGemini](https://github.com/openGemini/openGemini) - CNCF sandbox project, an open source distributed time-series database with high concurrency, high performance, and high scalability
 - [opsre/go-ldap-admin](https://github.com/opsre/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 - [dh1tw/remoteAudio](https://github.com/dh1tw/remoteAudio) - Audio streaming application for Amateur Radio purposes
