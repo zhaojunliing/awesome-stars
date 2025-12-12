@@ -1590,7 +1590,7 @@
 - [MatrixTM/FTPDumper](https://github.com/MatrixTM/FTPDumper) - ⚡ Scan World FTP Servers and Steal Their Data 🌍
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
 - [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
-- [pgsty/pigsty](https://github.com/pgsty/pigsty) - Free RDS for PostgreSQL — Pigsty
+- [pgsty/pigsty](https://github.com/pgsty/pigsty) - FLOSS PostgreSQL RDS / DBaaS
 - [JaveleyQAQ/WeChatOpenDevTools-Python](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python) - WeChatOpenDevTool 微信小程序强制开启开发者工具
 - [hongch911/WiresharkPlugin](https://github.com/hongch911/WiresharkPlugin) - The H265 H264 PS PCM AMR SILK plugin for Wireshark Lua
 - [fountyuan/Fountain.WinForm.AutoUpdater](https://github.com/fountyuan/Fountain.WinForm.AutoUpdater) - C# 实现在线更新
