@@ -772,6 +772,7 @@
 
 ## Python 
 
+- [gitpetyr/ppllocr](https://github.com/gitpetyr/ppllocr) - 用于识别图形验证码的轻量级 OCR 库。目标上对标 Ddddocr，部分情况性能与准确度碾压 Ddddocr。
 - [y9nhjy/Proxifier-Keygen](https://github.com/y9nhjy/Proxifier-Keygen) - Proxifier注册机
 - [mucsbr/Screen-Translate](https://github.com/mucsbr/Screen-Translate) - 屏幕、区域实时翻译，支持openai格式
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
@@ -900,6 +901,7 @@
 
 ## Rust 
 
+- [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [lucasjinreal/Kokoros](https://github.com/lucasjinreal/Kokoros) - 🔥🔥 Kokoro in Rust. https://huggingface.co/hexgrad/Kokoro-82M Insanely fast, realtime TTS with high quality you ever have.
@@ -945,6 +947,7 @@
 
 ## TypeScript 
 
+- [qczone/switch2idea](https://github.com/qczone/switch2idea) - A Cursor extension enabling smooth switching between Cursor and IDEA, with automatic cursor position sync and convenient shortcuts. Supports multiple JetBrains IDEs and enhances development workflow e
 - [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion) - A modern web application for creating and animating ASCII art
 - [wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher) - Google Antigravity AI模型配额监控插件
 - [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Electron + Flutter搭建的远程桌面控制
