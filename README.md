@@ -176,7 +176,6 @@
 - [ebitengine/oto](https://github.com/ebitengine/oto) - ♪ A low-level library to play sound on multiple platforms ♪
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [acepanel/panel](https://github.com/acepanel/panel) - ⚡ AcePanel - Enterprise server operation and maintenance management panel
-- [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一键导出PC微信聊天记录工具
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [selinuxG/Golin](https://github.com/selinuxG/Golin) - 弱口令检测、 漏洞扫描、端口扫描（协议识别，组件识别）、web目录扫描、等保工具（网络安全等级保护现场测评工具）内置3级等保核查命令、基线核查工具、键盘记录器
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
@@ -434,7 +433,7 @@
 - [egzosn/pay-java-parent](https://github.com/egzosn/pay-java-parent) - 第三方支付对接全能支付Java开发工具包.优雅的轻量级支付模块集成支付对接支付整合（微信,支付宝,银联,友店,富友,跨境支付paypal,payoneer(P卡派安盈)易极付）app,扫码,网页刷脸付刷卡付条码付转账服务商模式,微信分账,微信合单支付、支持多种支付类型多支付账户，支付与业务完全剥离，简单几行代码即可实现支付，简单快速完成支付模块的开发，可轻松嵌入到任何系统里 目前仅是一个开发工具包
 - [ccmjga/zhilu-admin](https://github.com/ccmjga/zhilu-admin) - 🔥 通过 AI 驱动的新一代后台管理系统（Java21+Vue3.5）
 - [Javen205/IJPay](https://github.com/Javen205/IJPay) - IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付、PayPal 支付等常用的支付方式以及各种常用的接口。不依赖任何第三方 mvc 框架，仅仅作为工具使用简单快速完成支付模块的开发，可轻松嵌入到任何系统里。右上角点下小星星✨
-- [FaceAISDK/FaceSearch_uniapp_plugin](https://github.com/FaceAISDK/FaceSearch_uniapp_plugin) - uniApp 可以使用的人脸识别，活体检测。包含 Android原生工程以及对应的插件工程
+- [FaceAISDK/FaceSearch_uniapp_plugin](https://github.com/FaceAISDK/FaceSearch_uniapp_plugin) - 1:N 人脸搜索识别UTS API插件uniapp和uniapp x 都可以用，可以完全离线运行
 - [FaceAISDK/FaceAISDK_Android](https://github.com/FaceAISDK/FaceAISDK_Android) - 离线版设备端人脸识别 动作活体、炫彩活体、近红外双目活体检测 以及1:N M:N 人脸搜索算法SDK 封装；全程可开飞行模式不用联网 🧒 on_device Face Recognition 、 Liveness detection and 1:N & M:N Face Search SDK
 - [wkeyuan/DWSurvey](https://github.com/wkeyuan/DWSurvey) - Survey System. 最好用的开源问卷调查系统、表单系统。
 - [binarywang/WxJava](https://github.com/binarywang/WxJava) - 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
@@ -695,6 +694,7 @@
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
+- [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 
 - [zhaojunliing/awesome-stars](https://github.com/zhaojunliing/awesome-stars) - 
 - [0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming) - 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。
 - [wailsapp/awesome-wails](https://github.com/wailsapp/awesome-wails) - ⭐ A carefully selected list of Wails applications
