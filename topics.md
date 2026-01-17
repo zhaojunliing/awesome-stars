@@ -19,6 +19,7 @@
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [azure](#azure)
 - [backend](#backend)
 - [bash](#bash)
 - [beginner-project](#beginner-project)
@@ -98,6 +99,7 @@
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
+- [ipfs](#ipfs)
 - [java](#java)
 - [javafx](#javafx)
 - [javascript](#javascript)
@@ -336,6 +338,10 @@
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
+
+## azure 
+
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
 
 ## backend 
 
@@ -747,7 +753,7 @@
 
 ## git 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
 - [digao-dalpiaz/DigaoDesk](https://github.com/digao-dalpiaz/DigaoDesk) - Desktop App to Run and Monitor Console Processes
 - [coderit666/GoGuide](https://github.com/coderit666/GoGuide) - 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。
 
@@ -1118,6 +1124,10 @@
 - [mqttsnet/thinglinks](https://github.com/mqttsnet/thinglinks) - a high-performance, high-throughput, and highly scalable IoT platform! A single instance can support millions of connections. It offers powerful custom extension capabilities. Built with Netty as the 
 - [jetlinks/jetlinks](https://github.com/jetlinks/jetlinks) - JetLinks Core
 
+## ipfs 
+
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
+
 ## java 
 
 - [1024-lab/smart-admin](https://github.com/1024-lab/smart-admin) - SmartAdmin国内首个以「高质量代码」为核心，「简洁、高效、安全」快速开发平台；基于SpringBoot2/3 + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4.x (同时支持JavaScript和TypeScript双版本)；满足国家三级等保要求、支持登录限制、接口数据国产加解密、高防SQL注入等一系列安全体系。
@@ -1368,7 +1378,6 @@
 
 ## mcp 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [go-nunu/nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
@@ -1524,7 +1533,7 @@
 
 ## others 
 
-- [dreamlonglll/mini-mqtt-client](https://github.com/dreamlonglll/mini-mqtt-client) - 一个开源的mqtt 客户端工具。支持保存命令、定时循环发送和预处理脚本
+- [dreamlonglll/mini-mqtt-client](https://github.com/dreamlonglll/mini-mqtt-client) - 一个开源的mqtt 桌面客户端工具。支持保存命令、定时循环发送和预处理脚本
 - [iteaj/iot](https://github.com/iteaj/iot) - iot是基于netty, spring boot, redis等开源项目实现的物联网框架, 支持tcp, udp底层协议和http, mqtt, modbus等上层协议.支持心跳处理、短线重连、服务端同步和异步调用设备、应用客户端同步和异步调用设备、协议实现和业务处理解耦分离、基于redis的数据生产和消费。并指定一套统一、易理解和简单的api接口
 - [undsky/RuoYi-SpringBoot3-Pro](https://github.com/undsky/RuoYi-SpringBoot3-Pro) - RuoYi-Vue 增强版本，保留了原有的所有功能，并新增了多项企业级特性
 - [gitpetyr/ppllocr](https://github.com/gitpetyr/ppllocr) - 用于识别图形验证码的轻量级 OCR 库。目标上对标 Ddddocr，部分情况性能与准确度碾压 Ddddocr（反之亦然）。
