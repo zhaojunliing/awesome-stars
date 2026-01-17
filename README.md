@@ -585,7 +585,7 @@
 - [psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot) - 🔥 Real-time NVIDIA GPU dashboard
 - [ranuts/document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
 - [501351981/vue-office](https://github.com/501351981/vue-office) - 支持word(.docx)、excel(.xlsx,.xls)、pdf、pptx等各类型office文件预览的vue组件集合，提供一站式office文件预览方案，支持vue2和3，也支持React等非Vue框架。Web-based pdf, excel, word, pptx preview library
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
 - [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 - [mindskip/xzs](https://github.com/mindskip/xzs) - 在线考试系统
 - [iGaoWei/BigDataView](https://github.com/iGaoWei/BigDataView) - 100+套大数据可视化炫酷大屏Html5模板；包含行业：社区、物业、政务、交通、金融银行等，全网最新、最多，最全、最酷、最炫大数据可视化模板。陆续更新中
@@ -998,7 +998,7 @@
 
 ## Vue 
 
-- [dreamlonglll/mini-mqtt-client](https://github.com/dreamlonglll/mini-mqtt-client) - 一个开源的mqtt 客户端工具。支持保存命令、定时循环发送和预处理脚本
+- [dreamlonglll/mini-mqtt-client](https://github.com/dreamlonglll/mini-mqtt-client) - 一个开源的mqtt 桌面客户端工具。支持保存命令、定时循环发送和预处理脚本
 - [YXJ2018/SpringBoot-Vue-OnlineExam](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam) - 在线考试系统，springboot+vue前后端分离的一个项目.
 - [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 - [roncoo/roncoo-education-web](https://github.com/roncoo/roncoo-education-web) - 《领课教育》的前端门户系统。领课教育系统（roncoo-education）是基于领课网络多年的在线教育平台开发和运营经验打造出来的产品，致力于打造一个全行业都适用的分布式在线教育系统。
