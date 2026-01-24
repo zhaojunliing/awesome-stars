@@ -1533,6 +1533,7 @@
 
 ## others 
 
+- [tibbar213/team-manage](https://github.com/tibbar213/team-manage) - gpt team管理和自动邀请
 - [ssfun/llm-api-key-checker](https://github.com/ssfun/llm-api-key-checker) - LLM API KEY 检测工具
 - [ZeroDeng01/sublinkPro](https://github.com/ZeroDeng01/sublinkPro) - ✨ 现代化代理订阅管理平台 | 🏷️智能标签自动分类 ⚡专业测速 🔗链式代理中转 ✈️机场流量监控 🤖TG远程管理 📜JS脚本扩展 | Go+React 全新UI，移动端友好！
 - [dreamlonglll/mini-mqtt-client](https://github.com/dreamlonglll/mini-mqtt-client) - 一个开源的mqtt 桌面客户端工具。支持保存命令、定时循环发送和预处理脚本
