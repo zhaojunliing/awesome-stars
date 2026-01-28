@@ -61,6 +61,7 @@
 
 ## C# # 
 
+- [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 - [Chadwuo/HHAutoUpdate.NET](https://github.com/Chadwuo/HHAutoUpdate.NET) - 轻松地将自动更新升级功能添加到经典桌面应用程序（WinForm）项目中。
 - [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
 - [kell888/BroadcastService](https://github.com/kell888/BroadcastService) - Remoting技术实现的消息广播框架（通过配置文件可以指定广播的客户端IP）
@@ -239,7 +240,7 @@
 - [keygen-sh/keygen-go](https://github.com/keygen-sh/keygen-go) - Keygen reference SDK for Go. Integrate license activation, automatic updates and offline licensing for Go binaries.
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
-- [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
+- [gorse-io/gorse](https://github.com/gorse-io/gorse) - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
 - [dromara/carbon](https://github.com/dromara/carbon) - A simple, semantic and developer-friendly  time  package for golang
 - [xlab/c-for-go](https://github.com/xlab/c-for-go) - Automatic C-Go Bindings Generator for Go Programming Language
 - [jpillora/overseer](https://github.com/jpillora/overseer) - Monitorable, gracefully restarting, self-upgrading binaries in Go (golang)
@@ -957,6 +958,7 @@
 
 ## TypeScript 
 
+- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [qczone/switch2idea](https://github.com/qczone/switch2idea) - A Cursor extension enabling smooth switching between Cursor and IDEA, with automatic cursor position sync and convenient shortcuts. Supports multiple JetBrains IDEs and enhances development workflow e
 - [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion) - A modern web application for creating and animating ASCII art
 - [wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher) - Google Antigravity AI模型配额监控插件 (Antigravity AI Model Quota Watching)
