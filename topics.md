@@ -396,7 +396,7 @@
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [lss233/kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
 - [yqchilde/wxbot](https://github.com/yqchilde/wxbot) - ☝🏻 一个好玩的个人微信机器人程序(DaenDLL、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
-- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
+- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️國立臺灣大學、新加坡國立大學、早稻田大學、東京大學，中央研究院（臺灣）以及中國重點高校及科研機構，社科、經濟、數學、博弈論、哲學、系統工程類學術論文等知識庫。
 - [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 
 ## chrome 
@@ -1540,6 +1540,7 @@
 
 ## others 
 
+- [Anarkh-Lee/universal-db-mcp](https://github.com/Anarkh-Lee/universal-db-mcp) - 通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然语言查询和分析数据
 - [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 - [Sanjeever/port_sentinel](https://github.com/Sanjeever/port_sentinel) - Flutter Windows Desktop application for monitoring ports and managing processes.
 - [tibbar213/team-manage](https://github.com/tibbar213/team-manage) - gpt team管理和自动邀请
@@ -1701,7 +1702,7 @@
 - [jiji262/xiaoetong-video-downloader](https://github.com/jiji262/xiaoetong-video-downloader) - 小鹅通资源下载工具
 - [ToyoDAdoubi/doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
 - [loov/lensm](https://github.com/loov/lensm) - Go assembly and source viewer
-- [chao325/MaoTai_GUIT](https://github.com/chao325/MaoTai_GUIT) - 
+- [chao325/MaoTai_GUIT](https://github.com/chao325/MaoTai_GUIT) - 天猫 TaoBao i茅台  iMatoTai JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境。开发在即（开源协议采用 Apache License）
 - [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile) - 跟我一起写Makefile重制版
 - [tobe27/SSM-Shiro-JWT](https://github.com/tobe27/SSM-Shiro-JWT) - SSM+Shiro+JWT进行无状态认证
 - [VFrontDe-Org/ESXi-Customizer-PS](https://github.com/VFrontDe-Org/ESXi-Customizer-PS) - PowerCLI script that greatly simplifies and automates the process of creating fully patched and customized VMware ESXi installation images
@@ -2476,6 +2477,7 @@
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard that enables you to monitor and track the status of your server.
 - [devld/go-drive](https://github.com/devld/go-drive) - A simple cloud drive mapping web app supports local, FTP/SFTP, S3, OneDrive, WebDAV, Google Drive.
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
+- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️國立臺灣大學、新加坡國立大學、早稻田大學、東京大學，中央研究院（臺灣）以及中國重點高校及科研機構，社科、經濟、數學、博弈論、哲學、系統工程類學術論文等知識庫。
 
 ## webapp 
 
