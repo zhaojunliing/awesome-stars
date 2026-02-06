@@ -206,7 +206,7 @@
 - [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 - [sevlyar/go-daemon](https://github.com/sevlyar/go-daemon) - A library for writing system daemons in golang.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-- [dicedb/dice](https://github.com/dicedb/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [shimberger/gohls](https://github.com/shimberger/gohls) - A server that exposes a directory for video streaming via web interface
 - [dreamCodeMan/AES-HLS](https://github.com/dreamCodeMan/AES-HLS) - 采用aes-128-cbc加密m3u8视频播放流
 - [dengsgo/fileboy](https://github.com/dengsgo/fileboy) - fileboy，文件变更监听通知工具，使用 Go 编写。Fileboy, File Change Monitoring Notification Tool, written with Go.
@@ -895,7 +895,7 @@
 - [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
 - [liubin/docker101](https://github.com/liubin/docker101) - “Docker入门与实践”课程讲义及参考
 - [Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
-- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️國立臺灣大學、新加坡國立大學、早稻田大學、東京大學，中央研究院（臺灣）以及中國重點高校及科研機構，社科、經濟、數學、博弈論、哲學、系統工程類學術論文等知識庫。
+- [hoochanlon/hamuleite](https://github.com/hoochanlon/hamuleite) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 
