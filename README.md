@@ -41,7 +41,6 @@
 - [VBScript](#vbscript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
-- [YARA](#yara)
 
 ## Batchfile 
 
@@ -363,6 +362,7 @@
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [lazybootsafe/Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack) - Go-Learning-With-Hacker--go语言HackTools开发教程从入门到入狱
 - [Le0nsec/SecCrawler](https://github.com/Le0nsec/SecCrawler) - 一个方便安全研究人员获取每日安全日报的爬虫和推送程序，目前爬取范围包括先知社区、安全客、Seebug Paper、跳跳糖、奇安信攻防社区、棱角社区以及绿盟、腾讯玄武、天融信、360等实验室博客，持续更新中。
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [proferosec/log4jScanner](https://github.com/proferosec/log4jScanner) - log4jScanner provides the ability to scan internal subnets for vulnerable log4j web services
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
@@ -623,6 +623,7 @@
 - [shufflewzc/faker3](https://github.com/shufflewzc/faker3) - 
 - [ccallcn/ovsyunlive](https://github.com/ccallcn/ovsyunlive) - 网页播放rtsp,Web直播rtmp推流,Web直接rtsp/rtmp无插件播放,街机直播,桌面远程控制,游戏远控,视频会议,MCU/SFU视频会议,会议直播,rtsp监控,视频对讲,Ｗeb推流,flv播放器,Web桌面直播,ws流拉流转发,web无插件监控,rtsp-Web监控,网页视频会议,支持http-flv,ws-flv,直播录播,多通道流转发工具,Gb28181监控直播,Webrtc推流
 - [Toulu-debug/enen](https://github.com/Toulu-debug/enen) - 
+- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [zhw2590582/ArtPlayer](https://github.com/zhw2590582/ArtPlayer) - :art: ArtPlayer.js is a modern and full featured HTML5 video player
 - [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs) - Cross-browser QRCode generator for javascript
@@ -731,7 +732,6 @@
 - [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 - [cdle/sillyGirl](https://github.com/cdle/sillyGirl) - 傻妞机器人
 - [A-new/x64dbg_plugin](https://github.com/A-new/x64dbg_plugin) - x64dbg插件合集
-- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
 - [0voice/learning_mind_map](https://github.com/0voice/learning_mind_map) - 2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
@@ -1033,10 +1033,6 @@
 - [Yin-Hongwei/music-website](https://github.com/Yin-Hongwei/music-website) - 🎧 Vue + SpringBoot + MyBatis 音乐网站
 - [stylefeng/Guns](https://github.com/stylefeng/Guns) - Guns是一个现代化的Java应用开发框架，基于主流技术Spring Boot3 + Vue3 + JDK17，Guns的核心理念是提高开发人员开发效率，降低企业信息化系统的开发成本。
 - [thinkgem/jeesite](https://github.com/thinkgem/jeesite) - 👍Java 低代码, 轻量级, Spring Boot, MyBatis, Flowable, TypeScript, Vue, Antdv, 包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流、Spring Cloud 微服务等。
-
-## YARA 
-
-- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 
 ## License
