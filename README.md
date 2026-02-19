@@ -707,7 +707,7 @@
 - [0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming) - 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。
 - [wailsapp/awesome-wails](https://github.com/wailsapp/awesome-wails) - ⭐ A carefully selected list of Wails applications
 - [tencentyun/qcloud-iotexplorer-appdev-miniprogram-sdk-demo](https://github.com/tencentyun/qcloud-iotexplorer-appdev-miniprogram-sdk-demo) - 
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [appemit/appemit](https://github.com/appemit/appemit) - AppEmit is an extensible lightweight middleware for communication between applications (especially chrome browser) and local programs,support Chrome to call DLL,Ocx,RTSP Player,Flash,Swf. you call dll
 - [MerlinKodo/clash-rev](https://github.com/MerlinKodo/clash-rev) - Continuation of Clash core project
 - [lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader) - 超方便的微信视频号下载器
