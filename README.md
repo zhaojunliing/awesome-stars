@@ -62,6 +62,7 @@
 
 ## C# # 
 
+- [a1659734941/FaceRecoTrackService](https://github.com/a1659734941/FaceRecoTrackService) - FaceRecoTrackService 是一个基于 .NET 8.0 开发的高性能人脸识别与追踪服务系统。该系统集成了深度学习模型（YOLOv8 人脸检测 + ArcFace 特征提取）、向量数据库（Qdrant）和关系型数据库（PostgreSQL），实现了完整的人脸注册、识别和轨迹追踪功能。识别阶段默认采用本地余弦相似度比对（不依赖 Qdrant 相似度检索）。
 - [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 - [Chadwuo/HHAutoUpdate.NET](https://github.com/Chadwuo/HHAutoUpdate.NET) - 轻松地将自动更新升级功能添加到经典桌面应用程序（WinForm）项目中。
 - [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
@@ -226,7 +227,7 @@
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [Luxcis/Jetbrains-Helper-Go](https://github.com/Luxcis/Jetbrains-Helper-Go) - 一个有助于提升Jetbrains服务商相关产品易用性的工具(GO语言版) 改写自https://github.com/NotoChen/Jetbrains-Help
 - [p1d3er/RemoteWebScreen](https://github.com/p1d3er/RemoteWebScreen) - 本项目是一个远程控制应用，使用 Golang 开发，允许用户通过 Web 界面远程控制和屏幕监控其他计算机。主要功能包括屏幕共享、鼠标和键盘控制以及键盘记录。
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for a Linux server / VPS, making it easy to manage OpenClaw agents, local LLMs, websites, databases, containers, files, and scheduled tasks.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw and websites in one click.
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
 - [lixxix/go_monitor](https://github.com/lixxix/go_monitor) - 监控配置的程序是否运行正常，并自动启动程序
 - [yincongcyincong/windows-autostart](https://github.com/yincongcyincong/windows-autostart) - windows版自启动你的app程序
@@ -783,6 +784,7 @@
 
 ## Python 
 
+- [wwwonekey/stonedtaiv](https://github.com/wwwonekey/stonedtaiv) - 
 - [yangchris11/samurai](https://github.com/yangchris11/samurai) - Official repository of "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory"
 - [tibbar213/team-manage](https://github.com/tibbar213/team-manage) - gpt team管理和自动邀请
 - [HG-ha/MTools](https://github.com/HG-ha/MTools) - MTools 是一个功能强大的全能桌面应用程序，集成了音视频处理、图片编辑、文本操作和编码工具，内置AI增强功能。旨在简化您的工作流程，提升生产效率
