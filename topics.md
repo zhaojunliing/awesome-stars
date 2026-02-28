@@ -218,7 +218,7 @@
 
 ## agent 
 
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw and websites in one click.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【AI低代码平台】AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications.  助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器
 
@@ -634,7 +634,7 @@
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw and websites in one click.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
 - [PaddlePaddle/Serving](https://github.com/PaddlePaddle/Serving) - A flexible, high-performance carrier for machine learning models（『飞桨』服务化部署框架）
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
 - [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
@@ -1156,7 +1156,7 @@
 - [dromara/x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到 本地、FTP、SFTP、WebDAV、谷歌云存储、阿里云OSS、华为云OBS、七牛云Kodo、腾讯云COS、百度云 BOS、又拍云USS、MinIO、 AWS S3、FastDFS、 Azure Blob Storage、金山云 KS3、美团云 MSS、京东云 OSS、天翼云 OOS、移动云 EOS、沃云 OSS、 网易数帆 NOS、Ucloud US3、青云 QingSto
 - [MooNkirA/code-learning-note](https://github.com/MooNkirA/code-learning-note) - My Programming Learning Notes
 - [houbb/sensitive-word](https://github.com/houbb/sensitive-word) - 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
-- [javastacks/spring-boot-best-practice](https://github.com/javastacks/spring-boot-best-practice) - Spring Boot 最佳实践，包括自动配置、核心原理、源码分析、国际化支持、调试、日志集成、热部署等。
+- [javastacks/spring-boot-best-practice](https://github.com/javastacks/spring-boot-best-practice) - Spring Boot 最佳实践，已适配 Spring Boot 4.x，包括自动配置、核心原理、源码分析、国际化支持、调试、日志集成、热部署等。
 - [Smith-Cruise/Spring-Boot-Shiro](https://github.com/Smith-Cruise/Spring-Boot-Shiro) - Shiro基于SpringBoot +JWT搭建简单的restful服务
 - [wujun728/jun_java_plugin](https://github.com/wujun728/jun_java_plugin) - jun_java_plugin 整合Java企业级各种开发组件、开箱即用、不写重复代码；目前已集成java_plugin50多个，spring_plugin组件100+，spring_boot组件100+，各种项目模板，涵盖开发各种场景如minio、七牛云、云短信、设计模式、多数据源、分布式Session、分布式事务、分布式锁、消息队列、并发框架、模板引擎、规则引擎、上传下载、二维码、缓存、任务调
 - [chengxy-nds/Springboot-Notebook](https://github.com/chengxy-nds/Springboot-Notebook) - Springboot-Notebook 一个以 springboot 为基础开发框架， 整合 Redis 、Mysql 、 Rabbitmq 、ES 、MongoDB、sharding-jdbc 分库分表、zookeeper 、web人脸识别 、实时消息推送 、SQL优化、注册中心 、数据脱敏 等互联网主流技术， 文章图解理论配合实战案例，实现开发中常见功能点的综合项目。 本着拿来即用的原则，助力
@@ -1309,7 +1309,7 @@
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw and websites in one click.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
 - [energye/energy](https://github.com/energye/energy) - Energy is a framework developed by Go language based on CEF (Chromium Embedded Framework) for developing cross-platform desktop applications for Windows, Mac OS X, and Linux
 - [webui-dev/go-webui](https://github.com/webui-dev/go-webui) - Use any web browser as GUI, with Go in the backend and modern web technologies in the frontend.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -1553,6 +1553,7 @@
 
 ## others 
 
+- [waoowaooAI/waoowaoo](https://github.com/waoowaooAI/waoowaoo) - 首家工业级全流程可控协作式专业AIagent影视生产平台，从短片到漫剧到真人级影视剧一站搞定，采用好莱坞专业制作团队思路，让你拥有虚拟制片场
 - [wwwonekey/stonedtaiv](https://github.com/wwwonekey/stonedtaiv) - 
 - [a1659734941/FaceRecoTrackService](https://github.com/a1659734941/FaceRecoTrackService) - FaceRecoTrackService 是一个基于 .NET 8.0 开发的高性能人脸识别与追踪服务系统。该系统集成了深度学习模型（YOLOv8 人脸检测 + ArcFace 特征提取）、向量数据库（Qdrant）和关系型数据库（PostgreSQL），实现了完整的人脸注册、识别和轨迹追踪功能。识别阶段默认采用本地余弦相似度比对（不依赖 Qdrant 相似度检索）。
 - [yangchris11/samurai](https://github.com/yangchris11/samurai) - Official repository of "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory"
@@ -1668,7 +1669,7 @@
 - [MatrixTM/FTPDumper](https://github.com/MatrixTM/FTPDumper) - ⚡ Scan World FTP Servers and get Their Data 🌍
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
 - [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
-- [pgsty/pigsty](https://github.com/pgsty/pigsty) - Free & OSS PostgreSQL RDS / DBaaS, Self-Host PG like a Pro
+- [pgsty/pigsty](https://github.com/pgsty/pigsty) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 460 PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
 - [JaveleyQAQ/WeChatOpenDevTools-Python](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python) - WeChatOpenDevTool 微信小程序强制开启开发者工具
 - [hongch911/WiresharkPlugin](https://github.com/hongch911/WiresharkPlugin) - The H265 H264 PS PCM AMR SILK plugin for Wireshark Lua
 - [fountyuan/Fountain.WinForm.AutoUpdater](https://github.com/fountyuan/Fountain.WinForm.AutoUpdater) - C# 实现在线更新
@@ -2215,7 +2216,7 @@
 - [CoderLeixiaoshuai/java-eight-part](https://github.com/CoderLeixiaoshuai/java-eight-part) - 『Java八股文』Java面试套路，Java进阶学习，打破内卷拿大厂Offer，升职加薪！
 - [dromara/x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到 本地、FTP、SFTP、WebDAV、谷歌云存储、阿里云OSS、华为云OBS、七牛云Kodo、腾讯云COS、百度云 BOS、又拍云USS、MinIO、 AWS S3、FastDFS、 Azure Blob Storage、金山云 KS3、美团云 MSS、京东云 OSS、天翼云 OOS、移动云 EOS、沃云 OSS、 网易数帆 NOS、Ucloud US3、青云 QingSto
 - [MooNkirA/code-learning-note](https://github.com/MooNkirA/code-learning-note) - My Programming Learning Notes
-- [javastacks/spring-boot-best-practice](https://github.com/javastacks/spring-boot-best-practice) - Spring Boot 最佳实践，包括自动配置、核心原理、源码分析、国际化支持、调试、日志集成、热部署等。
+- [javastacks/spring-boot-best-practice](https://github.com/javastacks/spring-boot-best-practice) - Spring Boot 最佳实践，已适配 Spring Boot 4.x，包括自动配置、核心原理、源码分析、国际化支持、调试、日志集成、热部署等。
 - [wujun728/jun_java_plugin](https://github.com/wujun728/jun_java_plugin) - jun_java_plugin 整合Java企业级各种开发组件、开箱即用、不写重复代码；目前已集成java_plugin50多个，spring_plugin组件100+，spring_boot组件100+，各种项目模板，涵盖开发各种场景如minio、七牛云、云短信、设计模式、多数据源、分布式Session、分布式事务、分布式锁、消息队列、并发框架、模板引擎、规则引擎、上传下载、二维码、缓存、任务调
 - [luxiaoxun/NettyRpc](https://github.com/luxiaoxun/NettyRpc) - A simple RPC framework based on Netty, ZooKeeper and Spring
 - [bage2014/study](https://github.com/bage2014/study) - Java全栈工程师学习笔记；Spring、shiro、CAS、oauth2单点登录；cache 、Redis; web 安全及解决思路；redis、mq、quartz、docker；Docker各种组件实践等；mybatis、spring、spring boot实践；分布式锁；基于分库分表等等；Java full-stack engineer study notes; Spring, shiro,
@@ -2275,7 +2276,7 @@
 - [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生
 - [ccmjga/zhilu-admin](https://github.com/ccmjga/zhilu-admin) - 🔥 通过 AI 驱动的新一代后台管理系统（Java21+Vue3.5）
 - [JeffLi1993/springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example) - spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
-- [javastacks/spring-boot-best-practice](https://github.com/javastacks/spring-boot-best-practice) - Spring Boot 最佳实践，包括自动配置、核心原理、源码分析、国际化支持、调试、日志集成、热部署等。
+- [javastacks/spring-boot-best-practice](https://github.com/javastacks/spring-boot-best-practice) - Spring Boot 最佳实践，已适配 Spring Boot 4.x，包括自动配置、核心原理、源码分析、国际化支持、调试、日志集成、热部署等。
 - [Smith-Cruise/Spring-Boot-Shiro](https://github.com/Smith-Cruise/Spring-Boot-Shiro) - Shiro基于SpringBoot +JWT搭建简单的restful服务
 - [wujun728/jun_java_plugin](https://github.com/wujun728/jun_java_plugin) - jun_java_plugin 整合Java企业级各种开发组件、开箱即用、不写重复代码；目前已集成java_plugin50多个，spring_plugin组件100+，spring_boot组件100+，各种项目模板，涵盖开发各种场景如minio、七牛云、云短信、设计模式、多数据源、分布式Session、分布式事务、分布式锁、消息队列、并发框架、模板引擎、规则引擎、上传下载、二维码、缓存、任务调
 - [chengxy-nds/Springboot-Notebook](https://github.com/chengxy-nds/Springboot-Notebook) - Springboot-Notebook 一个以 springboot 为基础开发框架， 整合 Redis 、Mysql 、 Rabbitmq 、ES 、MongoDB、sharding-jdbc 分库分表、zookeeper 、web人脸识别 、实时消息推送 、SQL优化、注册中心 、数据脱敏 等互联网主流技术， 文章图解理论配合实战案例，实现开发中常见功能点的综合项目。 本着拿来即用的原则，助力
