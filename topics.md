@@ -1564,6 +1564,7 @@
 
 ## others 
 
+- [yudaocode/yudao-boot-mini](https://github.com/yudaocode/yudao-boot-mini) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 - [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) - Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction.
 - [wwwonekey/stonedtaiv](https://github.com/wwwonekey/stonedtaiv) - 
 - [a1659734941/FaceRecoTrackService](https://github.com/a1659734941/FaceRecoTrackService) - FaceRecoTrackService 是一个基于 .NET 8.0 开发的高性能人脸识别与追踪服务系统。该系统集成了深度学习模型（YOLOv8 人脸检测 + ArcFace 特征提取）、向量数据库（Qdrant）和关系型数据库（PostgreSQL），实现了完整的人脸注册、识别和轨迹追踪功能。识别阶段默认采用本地余弦相似度比对（不依赖 Qdrant 相似度检索）。
