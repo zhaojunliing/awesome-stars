@@ -873,7 +873,7 @@
 - [JimmyHHua/opencv_tutorials](https://github.com/JimmyHHua/opencv_tutorials) - Opencv4.0 with python (English&中文)， and will keep the update ! 👊
 - [gouchicao/darknet](https://github.com/gouchicao/darknet) - Docker images for the neural networks framework Darknet
 - [NATSpeech/NATSpeech](https://github.com/NATSpeech/NATSpeech) - A Non-Autoregressive Text-to-Speech (NAR-TTS) framework, including official PyTorch implementation of PortaSpeech (NeurIPS 2021) and DiffSpeech (AAAI 2022)
-- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.
 - [Abeautifulsnow/navicat-premium-crack](https://github.com/Abeautifulsnow/navicat-premium-crack) - This script is used to crack navicat premium application for another 14 days trial.(14天再次重置)
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [makelove/OpenCV-Python-Tutorial](https://github.com/makelove/OpenCV-Python-Tutorial) - OpenCV问答群不再维护。有问题，自己去搜索。Google能找到大部分答案。
