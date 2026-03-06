@@ -484,7 +484,7 @@
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
-- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.
 - [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 - [amusi/AI-Job-Notes](https://github.com/amusi/AI-Job-Notes) - AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）
 
@@ -583,7 +583,7 @@
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
-- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.
 - [yeyupiaoling/PPASR](https://github.com/yeyupiaoling/PPASR) - 基于PaddlePaddle实现端到端中文语音识别，从入门到实战，超简单的入门案例，超实用的企业项目。支持当前最流行的DeepSpeech2、Conformer、Squeezeformer模型
 - [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 - [amusi/AI-Job-Notes](https://github.com/amusi/AI-Job-Notes) - AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）
@@ -2033,7 +2033,7 @@
 - [vzhd1701/gridplayer](https://github.com/vzhd1701/gridplayer) - Play videos side-by-side
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
-- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.
 - [Abeautifulsnow/navicat-premium-crack](https://github.com/Abeautifulsnow/navicat-premium-crack) - This script is used to crack navicat premium application for another 14 days trial.(14天再次重置)
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
