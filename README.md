@@ -50,7 +50,7 @@
 ## C 
 
 - [CloverHackyColor/CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) - Bootloader for macOS, Windows and Linux in UEFI and in legacy mode
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with hierarchical storage tiers.
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
 - [xuhongv/ESP32WiFiBleControlProject](https://github.com/xuhongv/ESP32WiFiBleControlProject) - 微信小程序蓝牙+WiFi控制安信可ESP32-S/C3S模块应用示范
 - [numberwolf/h265web.js](https://github.com/numberwolf/h265web.js) - 🔥 作者：常炎隆(Author: ChangYanlong):HEVC/H.265 网页直播/点播播放器 支持硬解！ 支持H.265的HttpFLV/HLS/MP4/TS/FLV/M3U8/Websocket播放。 🔥 A HEVC/H.265 Web Player, Support hard-decoding! for LIVE/VOD stream. Support H.265 Codec w
 - [hysios/hknetsdk](https://github.com/hysios/hknetsdk) - 
@@ -966,7 +966,7 @@
 
 ## TypeScript 
 
-- [waoowaooAI/waoowaoo](https://github.com/waoowaooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
+- [saturndec/waoowaoo](https://github.com/saturndec/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 - [VrianCao/Uptimer](https://github.com/VrianCao/Uptimer) - A Powerful Serverless Uptime Monitoring & Status Page on Cloudflare's Edge Network
 - [Anarkh-Lee/universal-db-mcp](https://github.com/Anarkh-Lee/universal-db-mcp) - 通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然语言查询和分析数据
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
