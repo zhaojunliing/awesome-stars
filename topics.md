@@ -134,7 +134,6 @@
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
-- [nextjs](#nextjs)
 - [nlp](#nlp)
 - [no-code](#no-code)
 - [node](#node)
@@ -1119,6 +1118,7 @@
 ## image-processing 
 
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
+- [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux.
 - [Mrooze-zeng/go-wasm-demo](https://github.com/Mrooze-zeng/go-wasm-demo) - Go wasm 学习相关demo，主要功能包括:md5处理，图像旋转，excel和csv生成,图像缩略图，gzip压缩和解压，切片上传和切片下载
 - [amusi/AI-Job-Notes](https://github.com/amusi/AI-Job-Notes) - AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）
 
@@ -1496,10 +1496,6 @@
 ## neovim 
 
 - [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
-
-## nextjs 
-
-- [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux.
 
 ## nlp 
 
@@ -2435,6 +2431,7 @@
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [caorushizi/mediago](https://github.com/caorushizi/mediago) - 跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端。Cross-platform video extraction tool: Supports streaming download, video download, m3u8 download, and Bilibili video download, with deskto
 - [byjlw/video-analyzer](https://github.com/byjlw/video-analyzer) - Analyze videos using LLMs, Computer Vision and Automatic Speech Recognition
+- [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux.
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end realtime stack for connecting humans and AI
 - [WebAV-Tech/WebAV](https://github.com/WebAV-Tech/WebAV) - A web-based Video Editing SDK built on WebCodecs. 基于 WebCodecs 构建的网页视频编辑 SDK。
