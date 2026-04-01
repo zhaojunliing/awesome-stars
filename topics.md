@@ -582,6 +582,7 @@
 - [LibCity/Bigscity-LibCity](https://github.com/LibCity/Bigscity-LibCity) - LibCity: An Open Library for Urban Spatial-temporal Data Mining
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
+- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
@@ -1376,6 +1377,7 @@
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
+- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -1571,6 +1573,7 @@
 
 ## others 
 
+- [isboyjc/GoProxy](https://github.com/isboyjc/GoProxy) - GoProxy 从多个公开代理源自动抓取 HTTP/SOCKS5 代理，通过严格验证（出口 IP + 位置 + 延迟）后加入智能代理池，对外提供 HTTP 和 SOCKS5 双协议代理服务。系统采用质量分级、智能补充、自动优化等机制，确保代理池始终保持高质量和稳定性。
 - [dromara/wgai](https://github.com/dromara/wgai) - 开箱即用的JAVA AI 图片、视频语音识别&OCR平台AI合集包含旦不仅限于(车牌识别、安全帽识别、开门关门、常用类物识别等) 图片和视频识别 可自主 融合了AI图像识别opencv、yolo、ocr、esayAI内核识别;AI智能客服、AI语言模型、 无任何第三方API接口可定制化自主离线化部署并自主化行业化使用 避免占用内存、GPU消耗训练与识别分开使用;
 - [chzane/YoloTrainingVisualizationPlatform](https://github.com/chzane/YoloTrainingVisualizationPlatform) - 一个基于 Electron + Flask 的跨平台 YOLO 模型训练可视化工具，支持数据集上传、模型训练、训练进度监控、模型测试及结果可视化，旨在降低视觉学习检测任务的入门门槛。
 - [fivif/Sam3-AN](https://github.com/fivif/Sam3-AN) - 基于Meta sam3模型的数据标注工具
@@ -2038,6 +2041,7 @@
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
+- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [PyQt5/PyQt](https://github.com/PyQt5/PyQt) - PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
 - [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
