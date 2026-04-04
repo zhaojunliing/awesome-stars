@@ -60,6 +60,7 @@
 
 ## C# # 
 
+- [Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor) - 一款轻量级、高度可定制的 Windows桌面和任务栏硬件性能监控工具，支持监测 CPU、GPU、内存、磁盘、网速、FPS 计数、插件扩展及内存清理。A lightweight, customizable hardware monitor for the Windows desktop & taskbar. Features CPU/GPU/RAM/Network monitoring, FPS c
 - [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 - [Chadwuo/HHAutoUpdate.NET](https://github.com/Chadwuo/HHAutoUpdate.NET) - 轻松地将自动更新升级功能添加到经典桌面应用程序（WinForm）项目中。
 - [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
@@ -789,6 +790,7 @@
 
 ## Python 
 
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [fivif/Sam3-AN](https://github.com/fivif/Sam3-AN) - 基于Meta sam3模型的数据标注工具
 - [zhinianboke-new/xianyu-auto-reply](https://github.com/zhinianboke-new/xianyu-auto-reply) - (作者版本)闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
 - [HJYHJYHJY/xianyu-auto-reply](https://github.com/HJYHJYHJY/xianyu-auto-reply) - 一个功能完整的闲鱼自动回复和管理系统，支持多用户、多账号管理，具备智能回复、自动发货、自动确认发货、商品管理等企业级功能。
@@ -851,7 +853,6 @@
 - [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [ohperhaps/xiaoetong](https://github.com/ohperhaps/xiaoetong) - Download tools for xiaoe-tech/小鹅通下载工具
 - [jiji262/xiaoetong-video-downloader](https://github.com/jiji262/xiaoetong-video-downloader) - 小鹅通资源下载工具
 - [chao325/MaoTai_GUIT](https://github.com/chao325/MaoTai_GUIT) - 天猫 TaoBao i茅台  iMatoTai JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境。开发在即（开源协议采用 Apache License）
