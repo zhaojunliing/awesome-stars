@@ -121,7 +121,7 @@
 
 ## CSS 
 
-- [MooNkirA/code-learning-note](https://github.com/MooNkirA/code-learning-note) - My Programming Learning Notes
+- [MooNkirA/MooNkirA.github.io](https://github.com/MooNkirA/MooNkirA.github.io) - My Programming Learning Notes
 - [drawcall/clock-shop](https://github.com/drawcall/clock-shop) - 🕙⏰🕰 Clock Shop is a website that collects beautiful clock codes
 - [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard that enables you to monitor and track the status of your server.
@@ -794,6 +794,7 @@
 
 ## Python 
 
+- [DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment) - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud r
 - [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
 - [PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify) - 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
@@ -827,7 +828,7 @@
 - [drprash/onenvr](https://github.com/drprash/onenvr) - OneNVR - One Network Video Recorder for All Your Cameras
 - [qy527145/crack](https://github.com/qy527145/crack) - 
 - [canopyai/Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human-Sounding Speech
-- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀 「大模型」2小时完全从0训练64M的小参数LLM！🌏 Train a 64M-parameter LLM from scratch in just 2h!
 - [byjlw/video-analyzer](https://github.com/byjlw/video-analyzer) - Analyze videos using LLMs, Computer Vision and Automatic Speech Recognition
 - [271374667/VideoFusion](https://github.com/271374667/VideoFusion) - 一站式短视频拼接软件  无依赖,点击即用,自动去黑边,自动帧同步,自动调整分辨率,批量变更视频为横屏/竖屏
 - [lss233/kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
