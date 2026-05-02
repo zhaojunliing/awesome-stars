@@ -597,6 +597,7 @@
 
 ## JavaScript 
 
+- [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 - [chzane/YoloTrainingVisualizationPlatform](https://github.com/chzane/YoloTrainingVisualizationPlatform) - 一个基于 Electron + Flask 的跨平台 YOLO 模型训练可视化工具，支持数据集上传、模型训练、训练进度监控、模型测试及结果可视化，旨在降低视觉学习检测任务的入门门槛。
 - [pc-study/csdn-blog](https://github.com/pc-study/csdn-blog) - Lucifer三思而后行 CSDN博客备份 - 345篇文章+图片
 - [ssfun/llm-api-key-checker](https://github.com/ssfun/llm-api-key-checker) - LLM API KEY 检测工具
@@ -639,7 +640,6 @@
 - [scjtqs2/jd_cookie](https://github.com/scjtqs2/jd_cookie) - 京东快速提取 cookie 工具 golang版本
 - [yyhsong/iDataV](https://github.com/yyhsong/iDataV) - 大屏数据可视化 Big screen data visualization demo
 - [Streamedian/html5_rtsp_player](https://github.com/Streamedian/html5_rtsp_player) - Play RTSP stream from IP camera in browser in this HTML5 player without plugins
-- [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 - [BMSVieira/moovie.js](https://github.com/BMSVieira/moovie.js) - Movie focused HTML5 Player
 - [Emily2281/echartsDemo](https://github.com/Emily2281/echartsDemo) - 各种easyui布局页面，内含js各种插件功能：echarts折线图、mask弹出框遮罩、downloadFile下载文件、BeAlter弹出框提示、clipboard复制
 - [bytedance/xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
