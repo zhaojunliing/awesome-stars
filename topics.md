@@ -1596,7 +1596,7 @@
 ## others 
 
 - [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
-- [IAMLZY2018/XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) - 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，请勿商用，仅供学习交流
+- [IAMLZY2018/XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) - 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，手机端UI，请勿商用，仅供学习交流
 - [axdlee/activation-manager](https://github.com/axdlee/activation-manager) - 一个软件激活码授权管理系统用于快速构建软件付费服务支持
 - [CryptoPyGeek/cvAlgoVis](https://github.com/CryptoPyGeek/cvAlgoVis) - Display results of common visual algorithm libraries (OpenCV, Open3D, etc.), match them with code snippets, and allow real-time preview of corresponding effects by scrolling the wheel and adjusting pa
 - [doubleShuang/ForgeAI-Vision](https://github.com/doubleShuang/ForgeAI-Vision) - 这是一个轻量化、快速上手的通用目标检测平台，实现标注、训练、推理的一站式服务，兼顾本地与边缘侧部署的视觉解决方案
