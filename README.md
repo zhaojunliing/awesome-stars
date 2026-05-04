@@ -428,7 +428,7 @@
 
 ## Java 
 
-- [IAMLZY2018/XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) - 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，请勿商用，仅供学习交流
+- [IAMLZY2018/XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) - 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，手机端UI，请勿商用，仅供学习交流
 - [dromara/wgai](https://github.com/dromara/wgai) - 开箱即用的JAVA AI 图片、视频语音识别&OCR平台AI合集包含旦不仅限于(车牌识别、安全帽识别、开门关门、常用类物识别等) 图片和视频识别 可自主 融合了AI图像识别opencv、yolo、ocr、esayAI内核识别;AI智能客服、AI语言模型、 无任何第三方API接口可定制化自主离线化部署并自主化行业化使用 避免占用内存、GPU消耗训练与识别分开使用;
 - [iteaj/iot](https://github.com/iteaj/iot) - iot是基于netty, spring boot, redis等开源项目实现的物联网框架, 支持tcp, udp底层协议和http, mqtt, modbus等上层协议.支持心跳处理、短线重连、服务端同步和异步调用设备、应用客户端同步和异步调用设备、协议实现和业务处理解耦分离、基于redis的数据生产和消费。并指定一套统一、易理解和简单的api接口
 - [undsky/RuoYi-SpringBoot3-Pro](https://github.com/undsky/RuoYi-SpringBoot3-Pro) - RuoYi-Vue 增强版本，保留了原有的所有功能，并新增了多项企业级特性
