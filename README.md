@@ -534,7 +534,7 @@
 - [CrazyBunQnQ/multimarkdown](https://github.com/CrazyBunQnQ/multimarkdown) - 破解 IntelliJ IDEA 的 Markdown Navigator 插件，觉着不错的话可以 Start 一下哟！
 - [xnx3/templatespider](https://github.com/xnx3/templatespider) - 扒网站工具，看好哪个网站，指定好URL，自动扒下来做成模版。所见网站，皆可为我所用！
 - [justauth/JustAuth](https://github.com/justauth/JustAuth) - 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - AI低代码平台，支持「低代码 + 零代码」双模式：零代码 5 分钟搭建业务系统，低代码模式一键生成前后端代码。 内置AI 应用，支持AI聊天、知识库、流程编排、MCP与插件，支持各种模型。Skills能力实现：一句话画流程图、设计表单、生成系统。 引领 AI生成→在线配置→代码生成→手工合并的开发模式，解决Java项目80%的重复工作，快速提高效率，又不失灵活性。
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - AI 低代码平台，「低代码 + 零代码」双模式驱动：低代码一键生成前后端代码，零代码 5 分钟搭建系统，AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。
 - [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) - Universal File Online Preview Project based on Spring-Boot
 - [flowable/flowable-engine](https://github.com/flowable/flowable-engine) - A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
