@@ -1596,6 +1596,7 @@
 
 ## others 
 
+- [FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate) - 
 - [jerpelhan/GECO2](https://github.com/jerpelhan/GECO2) - Official implementation of GeCo2 (AAAI 2026) -- Generalized-Scale Object Counting with Gradual Query Aggregation
 - [gtxx3600/GPTSession2CPAandSub2API](https://github.com/gtxx3600/GPTSession2CPAandSub2API) - 
 - [luohuabuxiema/LabelPaw](https://github.com/luohuabuxiema/LabelPaw) - 
