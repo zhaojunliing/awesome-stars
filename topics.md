@@ -64,7 +64,6 @@
 - [devops](#devops)
 - [discord](#discord)
 - [distributed-systems](#distributed-systems)
-- [django](#django)
 - [docker](#docker)
 - [dotnet](#dotnet)
 - [education](#education)
@@ -651,10 +650,6 @@
 
 - [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
-## django 
-
-- [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
-
 ## docker 
 
 - [databasus/databasus](https://github.com/databasus/databasus) - Database backup tool (PostgreSQL, MySQL\MariaDB and MongoDB)
@@ -985,7 +980,6 @@
 - [EndlessCheng/mahjong-helper](https://github.com/EndlessCheng/mahjong-helper) - 日本麻将助手：牌效+防守+记牌（支持雀魂、天凤）
 - [coderit666/GoGuide](https://github.com/coderit666/GoGuide) - 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。
 - [lifei6671/interview-go](https://github.com/lifei6671/interview-go) - golang面试题集合https://interview.disign.me/
-- [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
 - [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gR
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) - Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。
@@ -1507,7 +1501,6 @@
 - [rbmonster/learning-note](https://github.com/rbmonster/learning-note) - Java开发及面试（个人面试、工作总结、资料收集站）
 - [youlaitech/youlai-mall](https://github.com/youlaitech/youlai-mall) - 🚀基于 Spring Boot 3、Spring Cloud & Alibaba 2022、SAS OAuth2 、Vue3、Element-Plus、uni-app 构建的开源全栈商城。
 - [springrain/zorm](https://github.com/springrain/zorm) - Go轻量ORM,支持达梦(dm),金仓(kingbase),神通(shentong),南大通用(gbase),TDengine,mysql,postgresql,oracle,mssql,sqlite,db2,clickhouse...
-- [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
 - [Meituan-Dianping/Zebra](https://github.com/Meituan-Dianping/Zebra) - 美团点评集团统一使用的MySQL数据库访问层的中间件。主要提供对业务开发透明、读写分库、分库分表能力，并提供了端到端SQL监控的集成方案。
 - [ZongXR/SuperMarket](https://github.com/ZongXR/SuperMarket) - 设计精良的网上商城系统，包括前端、后端、数据库、负载均衡、数据库缓存、分库分表、读写分离、全文检索、消息队列等，使用SpringCloud框架，基于Java开发。该项目可部署到服务器上，不断完善中……
 - [Yin-Hongwei/music-website](https://github.com/Yin-Hongwei/music-website) - 🎧 Vue + SpringBoot + MyBatis 音乐网站
@@ -2048,7 +2041,6 @@
 ## programming 
 
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
-- [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource) - 学习计算机科学的电子书
 
@@ -2078,7 +2070,6 @@
 - [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
 - [vzhd1701/gridplayer](https://github.com/vzhd1701/gridplayer) - Play videos side-by-side
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
-- [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
 - [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.
 - [Abeautifulsnow/navicat-premium-crack](https://github.com/Abeautifulsnow/navicat-premium-crack) - This script is used to crack navicat premium application for another 14 days trial.(14天再次重置)
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
@@ -2263,7 +2254,6 @@
 
 - [XZB-1248/Spark](https://github.com/XZB-1248/Spark) - ✨Spark is a web-based, cross-platform and full-featured Remote Administration Tool (RAT) written in Go that allows you control all your devices anywhere. Spark是一个Go编写的，网页UI、跨平台以及多功能的远程控制和监控工具，你可以随时随地监
 - [bugfan/i996](https://github.com/bugfan/i996) - 免费 免搭建 免安装 内网穿透 ssl证书签发 远程办公 居家办公工具 方便调试微信小程序(客户端无需安装任何程序拿来即用) 类似于natapp ngrok
-- [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
 - [lwch/natpass](https://github.com/lwch/natpass) - 🔥居家办公，远程开发神器
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 
@@ -2361,7 +2351,6 @@
 - [godror/godror](https://github.com/godror/godror) - GO DRiver for ORacle DB
 - [ds19991999/SecBox](https://github.com/ds19991999/SecBox) - 🖤 网络安全与渗透测试工具导航
 - [springrain/zorm](https://github.com/springrain/zorm) - Go轻量ORM,支持达梦(dm),金仓(kingbase),神通(shentong),南大通用(gbase),TDengine,mysql,postgresql,oracle,mssql,sqlite,db2,clickhouse...
-- [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
 
 ## sqlite 
