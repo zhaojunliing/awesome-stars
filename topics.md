@@ -1589,6 +1589,8 @@
 
 ## others 
 
+- [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
+- [mohankumarelec/airgapped-qr-code-transfer](https://github.com/mohankumarelec/airgapped-qr-code-transfer) - A web-based tool for transferring data between devices using QR codes, enabling offline file transfer without network connectivity. Built with Vue.js, pako, qrcode.js, and zbar-wasm.
 - [FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate) - 
 - [jerpelhan/GECO2](https://github.com/jerpelhan/GECO2) - Official implementation of GeCo2 (AAAI 2026) -- Generalized-Scale Object Counting with Gradual Query Aggregation
 - [gtxx3600/GPTSession2CPAandSub2API](https://github.com/gtxx3600/GPTSession2CPAandSub2API) - 
