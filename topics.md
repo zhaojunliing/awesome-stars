@@ -158,6 +158,7 @@
 - [privacy](#privacy)
 - [programming](#programming)
 - [programming-language](#programming-language)
+- [project-management](#project-management)
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
@@ -293,6 +294,7 @@
 
 ## angular 
 
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [dotnetcore/Util](https://github.com/dotnetcore/Util) - Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。
 - [Streamedian/html5_rtsp_player](https://github.com/Streamedian/html5_rtsp_player) - Play RTSP stream from IP camera in browser in this HTML5 player without plugins
@@ -495,6 +497,7 @@
 
 ## computer-vision 
 
+- [Mengqi-Lei/count-anything](https://github.com/Mengqi-Lei/count-anything) - Code and implementation guidelines for the paper Counting Anything. Project Page: https://mengqi-lei.github.io/count-anything-projectpage/
 - [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 - [obss/sahi](https://github.com/obss/sahi) - Framework agnostic sliced/tiled inference + interactive ui + error analysis plots
 - [akshaybahadur21/Drowsiness_Detection](https://github.com/akshaybahadur21/Drowsiness_Detection) - A simple Drowsiness Detection module for humans. 😴 🚫 🚗
@@ -703,7 +706,7 @@
 ## electron 
 
 - [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Flutter搭建的远程桌面控制、游戏串流
-- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
+- [mediago-dev/mediago](https://github.com/mediago-dev/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
 - [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 - [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
 - [dromara/electron-egg](https://github.com/dromara/electron-egg) - A simple, cross platform, enterprise desktop software development framework
@@ -2047,6 +2050,10 @@
 
 - [golang/go](https://github.com/golang/go) - The Go programming language
 
+## project-management 
+
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+
 ## python 
 
 - [obss/sahi](https://github.com/obss/sahi) - Framework agnostic sliced/tiled inference + interactive ui + error analysis plots
@@ -2176,6 +2183,7 @@
 
 ## ruby 
 
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
 
 ## rust 
@@ -2463,7 +2471,7 @@
 ## video 
 
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
-- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
+- [mediago-dev/mediago](https://github.com/mediago-dev/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
 - [byjlw/video-analyzer](https://github.com/byjlw/video-analyzer) - Analyze videos using LLMs, Computer Vision and Automatic Speech Recognition
 - [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video/image into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux.
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
@@ -2608,7 +2616,7 @@
 ## youtube 
 
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
+- [mediago-dev/mediago](https://github.com/mediago-dev/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
 - [vzhd1701/gridplayer](https://github.com/vzhd1701/gridplayer) - Play videos side-by-side
 - [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
 
