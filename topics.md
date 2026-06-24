@@ -1601,6 +1601,7 @@
 
 ## others 
 
+- [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [loggerhead/json4u](https://github.com/loggerhead/json4u) - 
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [mohankumarelec/airgapped-qr-code-transfer](https://github.com/mohankumarelec/airgapped-qr-code-transfer) - A web-based tool for transferring data between devices using QR codes, enabling offline file transfer without network connectivity. Built with Vue.js, pako, qrcode.js, and zbar-wasm.
