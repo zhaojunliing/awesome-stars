@@ -1598,6 +1598,7 @@
 
 ## others 
 
+- [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [loggerhead/json4u](https://github.com/loggerhead/json4u) - 
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
