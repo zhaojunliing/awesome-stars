@@ -160,6 +160,7 @@
 
 ## Go 
 
+- [Kaiyuan/go4wol](https://github.com/Kaiyuan/go4wol) - 使用 Go 编写的远程 Wol 服务
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [isboyjc/GoProxy](https://github.com/isboyjc/GoProxy) - GoProxy 从多个公开代理源自动抓取 HTTP/SOCKS5 代理，通过严格验证（出口 IP + 位置 + 延迟）后加入智能代理池，对外提供 HTTP 和 SOCKS5 双协议代理服务。系统采用质量分级、智能补充、自动优化等机制，确保代理池始终保持高质量和稳定性。
@@ -960,6 +961,7 @@
 
 ## Shell 
 
+- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 - [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
