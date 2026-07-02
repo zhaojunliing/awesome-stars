@@ -118,6 +118,7 @@
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [latex](#latex)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -1336,6 +1337,11 @@
 
 - [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor) - A Canvas/SVG-based rich text editor
 
+## learn-to-code 
+
+- [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
+- [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
+
 ## learning 
 
 - [qiutiandefeng/yftrain](https://github.com/qiutiandefeng/yftrain) - 学习系统-在线考试系统 企业培训内训系统-企教培系统平台软件
@@ -2157,6 +2163,7 @@
 
 ## react 
 
+- [knight-L/sc-datav](https://github.com/knight-L/sc-datav) - Three.js 可视化大屏，地理轮廓精确呈现3D地图
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 - [shimberger/gohls](https://github.com/shimberger/gohls) - A server that exposes a directory for video streaming via web interface
 - [williamsjokvist/cfn-tracker](https://github.com/williamsjokvist/cfn-tracker) - Realtime tracking of ranked matches in Street Fighter 6 and Tekken 8                                   https://deepwiki.com/williamsjokvist/cfn-tracker
