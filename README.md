@@ -1043,6 +1043,7 @@
 
 ## Vue 
 
+- [yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。
 - [kamisamadasikede/FFmpegFree](https://github.com/kamisamadasikede/FFmpegFree) - 本项目实现了一个简单但功能齐全的音视频格式转换工具,为FFmpeg壳子，支持多种主流音视频格式之间的相互转换。前端采用 Vue3 + TypeScript + Element Plus 构建，后端使用 Go + Gin 框架提供服务，通过 Wails 实现桌面应用打包，前后端通过 Axios 进行通信,流媒体工具实现屏幕获取拉流推流。
 - [doubleShuang/ForgeAI-Vision](https://github.com/doubleShuang/ForgeAI-Vision) - 这是一个轻量化、快速上手的通用目标检测平台，实现标注、训练、推理的一站式服务，兼顾本地与边缘侧部署的视觉解决方案
 - [dreamlonglll/mini-mqtt-client](https://github.com/dreamlonglll/mini-mqtt-client) - 一个开源的mqtt 桌面客户端工具。支持保存命令、定时循环发送和预处理脚本
