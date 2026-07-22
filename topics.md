@@ -518,7 +518,7 @@
 ## computer-vision 
 
 - [cosmo-wander-ai/cosmo-edge](https://github.com/cosmo-wander-ai/cosmo-edge) - Production-grade C++ edge AI engine for video analytics with visual pipeline orchestration, on-device VLM, and real-time OSD.
-- [Mengqi-Lei/count-anything](https://github.com/Mengqi-Lei/count-anything) - Code and implementation guidelines for the paper Counting Anything. Project Page: https://mengqi-lei.github.io/count-anything-projectpage/
+- [Mengqi-Lei/count-anything](https://github.com/Mengqi-Lei/count-anything) - Code and implementation guidelines for the paper ✨Counting Anything. Project Page: https://mengqi-lei.github.io/count-anything-projectpage/
 - [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 - [obss/sahi](https://github.com/obss/sahi) - Framework agnostic sliced/tiled inference + interactive ui + error analysis plots
 - [akshaybahadur21/Drowsiness_Detection](https://github.com/akshaybahadur21/Drowsiness_Detection) - A simple Drowsiness Detection module for humans. 😴 🚫 🚗
