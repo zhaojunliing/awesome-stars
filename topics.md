@@ -813,7 +813,7 @@
 
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [digao-dalpiaz/DigaoDesk](https://github.com/digao-dalpiaz/DigaoDesk) - Desktop App to Run and Monitor Console Processes
-- [coderit666/GoGuide](https://github.com/coderit666/GoGuide) - 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。
+- [Weikezi-AI/GoGuide](https://github.com/Weikezi-AI/GoGuide) - 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。
 
 ## github 
 
@@ -898,7 +898,7 @@
 - [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go) - golang binding for ffmpeg
 - [springrain/zorm](https://github.com/springrain/zorm) - Go轻量ORM,支持达梦(dm),金仓(kingbase),神通(shentong),南大通用(gbase),TDengine,mysql,postgresql,oracle,mssql,sqlite,db2,clickhouse...
 - [plholx/awesome-go-info](https://github.com/plholx/awesome-go-info) - 基于avelino/awesome-go,显示GitHub上golang相关的开源项目信息
-- [coderit666/GoGuide](https://github.com/coderit666/GoGuide) - 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。
+- [Weikezi-AI/GoGuide](https://github.com/Weikezi-AI/GoGuide) - 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。
 - [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gR
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
@@ -998,7 +998,7 @@
 - [springrain/zorm](https://github.com/springrain/zorm) - Go轻量ORM,支持达梦(dm),金仓(kingbase),神通(shentong),南大通用(gbase),TDengine,mysql,postgresql,oracle,mssql,sqlite,db2,clickhouse...
 - [plholx/awesome-go-info](https://github.com/plholx/awesome-go-info) - 基于avelino/awesome-go,显示GitHub上golang相关的开源项目信息
 - [EndlessCheng/mahjong-helper](https://github.com/EndlessCheng/mahjong-helper) - 日本麻将助手：牌效+防守+记牌（支持雀魂、天凤）
-- [coderit666/GoGuide](https://github.com/coderit666/GoGuide) - 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。
+- [Weikezi-AI/GoGuide](https://github.com/Weikezi-AI/GoGuide) - 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。
 - [lifei6671/interview-go](https://github.com/lifei6671/interview-go) - golang面试题集合https://interview.disign.me/
 - [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gR
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
