@@ -989,6 +989,7 @@
 
 ## TypeScript 
 
+- [daimon3332/address](https://github.com/daimon3332/address) - A self-hosted address and synthetic test-profile generator for 27 countries and regions, built from real open-data streets, administrative areas, coordinates, and postcodes. Supports multilingual outp
 - [knight-L/sc-datav](https://github.com/knight-L/sc-datav) - Three.js 可视化大屏，地理轮廓精确呈现3D地图
 - [loggerhead/json4u](https://github.com/loggerhead/json4u) - 
 - [SubBoost/subboost](https://github.com/SubBoost/subboost) - Clash/Mihomo subscription conversion, enhancement, and management tool. Clash/Mihomo 订阅转换、增强和管理工具。通过 UI 可视化，一键实现链式代理、精确分流、防 DNS 泄露和多订阅聚合等高级功能。
