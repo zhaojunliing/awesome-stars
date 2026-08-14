@@ -424,6 +424,7 @@
 
 ## chatgpt 
 
+- [1837620622/chatgpt-specimen-toolbox](https://github.com/1837620622/chatgpt-specimen-toolbox) - ChatGPT Session ↔ 9 种主流认证格式 N×N 双向互转（auth.json / Cockpit / CPA / Sub2API / 9router / AxonHub / Codex-Manager / Codex Auth / Raw）· 11 种来源自动识别 · Plus 多区域 / Team 工作区订阅长链一站生成（v2.4.0 Stripe init 三步法长链引擎，拿 
 - [DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment) - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud r
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [lss233/kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
@@ -442,6 +443,7 @@
 
 ## chrome-extension 
 
+- [1837620622/chatgpt-specimen-toolbox](https://github.com/1837620622/chatgpt-specimen-toolbox) - ChatGPT Session ↔ 9 种主流认证格式 N×N 双向互转（auth.json / Cockpit / CPA / Sub2API / 9router / AxonHub / Codex-Manager / Codex Auth / Raw）· 11 种来源自动识别 · Plus 多区域 / Team 工作区订阅长链一站生成（v2.4.0 Stripe init 三步法长链引擎，拿 
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 - [blueagler/DeepL-Helper](https://github.com/blueagler/DeepL-Helper) - Extend character support to 5,000+, lift editing limits, integrate with DeepL (Pro or API), enable formal/informal tone selection, and provide privacy‑friendly device fingerprint rotation.
@@ -1269,6 +1271,7 @@
 
 ## javascript 
 
+- [1837620622/chatgpt-specimen-toolbox](https://github.com/1837620622/chatgpt-specimen-toolbox) - ChatGPT Session ↔ 9 种主流认证格式 N×N 双向互转（auth.json / Cockpit / CPA / Sub2API / 9router / AxonHub / Codex-Manager / Codex Auth / Raw）· 11 种来源自动识别 · Plus 多区域 / Team 工作区订阅长链一站生成（v2.4.0 Stripe init 三步法长链引擎，拿 
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 - [RKQF-JVS/jvs-knowledge-ui](https://github.com/RKQF-JVS/jvs-knowledge-ui) - 【企业级在线文档】，解决企业内部文档编辑、知识沉淀、知识协同等痛点。项目主要采用Java开发，基础框架采用JVS（spring cloud+Vue）。适用场景：适用于个人、团队、企业使用，提供云笔记、个人知识沉淀、在线产品手册、团队内部知识库、在线电子教程、全文内容搜索、CMS内容展示等功能。支持私有化部署场景。
 - [tonngw/awesome-github-repos](https://github.com/tonngw/awesome-github-repos) - 🚀 A curated collection of awesome GitHub repositories, organized by language and topic from my starred projects. Modern, elegant platform for showcasing your starred GitHub repositories.
@@ -1589,6 +1592,7 @@
 
 ## openai 
 
+- [1837620622/chatgpt-specimen-toolbox](https://github.com/1837620622/chatgpt-specimen-toolbox) - ChatGPT Session ↔ 9 种主流认证格式 N×N 双向互转（auth.json / Cockpit / CPA / Sub2API / 9router / AxonHub / Codex-Manager / Codex Auth / Raw）· 11 种来源自动识别 · Plus 多区域 / Team 工作区订阅长链一站生成（v2.4.0 Stripe init 三步法长链引擎，拿 
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
 - [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 - [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generat
@@ -2489,6 +2493,7 @@
 
 ## userscript 
 
+- [1837620622/chatgpt-specimen-toolbox](https://github.com/1837620622/chatgpt-specimen-toolbox) - ChatGPT Session ↔ 9 种主流认证格式 N×N 双向互转（auth.json / Cockpit / CPA / Sub2API / 9router / AxonHub / Codex-Manager / Codex Auth / Raw）· 11 种来源自动识别 · Plus 多区域 / Team 工作区订阅长链一站生成（v2.4.0 Stripe init 三步法长链引擎，拿 
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 
 ## v2ray 
