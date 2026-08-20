@@ -801,6 +801,7 @@
 
 ## Python 
 
+- [beixiaocai/rebucca](https://github.com/beixiaocai/rebucca) - Rebucca · 多路视频接入与智能布控分析平台。支持 GB28181 / RTSP 等协议、YOLO 等小模型检测、OpenAI 兼容大模型复核、多边形布控区域与带截图的结构化报警。
 - [Mengqi-Lei/count-anything](https://github.com/Mengqi-Lei/count-anything) - Code and implementation guidelines for the paper ✨Counting Anything. Project Page: https://mengqi-lei.github.io/count-anything-projectpage/
 - [luohuabuxiema/LabelPaw](https://github.com/luohuabuxiema/LabelPaw) - 
 - [DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment) - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud r
