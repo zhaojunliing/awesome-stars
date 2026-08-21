@@ -48,7 +48,7 @@
 
 ## C 
 
-- [cosmo-wander-ai/cosmo-edge](https://github.com/cosmo-wander-ai/cosmo-edge) - Production-grade C++ edge AI engine for video analytics with visual pipeline orchestration, on-device VLM, and real-time OSD.
+- [cosmo-wander-ai/cosmo-edge](https://github.com/cosmo-wander-ai/cosmo-edge) - Production-grade C++ edge AI engine for video analytics and on-device VLM across Sophon, Rockchip RKNN, and x86, with visual orchestration, real-time OSD, events, and reproducible benchmarks.
 - [CloverHackyColor/CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) - Bootloader for macOS, Windows and Linux in UEFI and in legacy mode
 - [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
 - [xuhongv/ESP32WiFiBleControlProject](https://github.com/xuhongv/ESP32WiFiBleControlProject) - 微信小程序蓝牙+WiFi控制安信可ESP32-S/C3S模块应用示范
@@ -1026,7 +1026,7 @@
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron 的音乐软件
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
-- [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) - 小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具
+- [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) - :traffic_light:小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具
 - [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor, open-source Web rich text editor 开源 Web 富文本编辑器
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
