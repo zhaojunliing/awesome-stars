@@ -1461,6 +1461,7 @@
 
 ## mcp 
 
+- [ranuts/document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [go-nunu/nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
@@ -1618,6 +1619,8 @@
 
 ## others 
 
+- [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine
+- [99kevindk/behaviorvision](https://github.com/99kevindk/behaviorvision) - 轻量化视觉画面分析检测客户端：纯CPU多路视频检测 + MiniCPM-V 高危行为识别（Windows 工控机）
 - [beixiaocai/rebucca](https://github.com/beixiaocai/rebucca) - Rebucca · 多路视频接入与智能布控分析平台。支持 GB28181 / RTSP 等协议、YOLO 等小模型检测、OpenAI 兼容大模型复核、多边形布控区域与带截图的结构化报警。
 - [wkt/YoloMobile](https://github.com/wkt/YoloMobile) - A Android Library for YOLOv5/YOLOv7/YOLOv8 Detection and Pose Inference Based on NCNN
 - [daimon3332/address](https://github.com/daimon3332/address) - A self-hosted address and synthetic test-profile generator for 27 countries and regions, built from real open-data streets, administrative areas, coordinates, and postcodes. Supports multilingual outp
@@ -1670,7 +1673,6 @@
 - [Vulpecula-Studio/88code_reset](https://github.com/Vulpecula-Studio/88code_reset) - 
 - [mucsbr/Screen-Translate](https://github.com/mucsbr/Screen-Translate) - 屏幕、区域实时翻译，支持openai格式
 - [googleweb/docker-jetbrains-license-server](https://github.com/googleweb/docker-jetbrains-license-server) - JetBrains License Server Docker image
-- [ranuts/document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
 - [owo12321/Yolov5_DeepSort_Traffic-counter](https://github.com/owo12321/Yolov5_DeepSort_Traffic-counter) - 基于Yolov5_DeepSort的物体计数器，可以统计车流或人流量等
 - [zbuzhi/diff-excel](https://github.com/zbuzhi/diff-excel) - Excel文件对比工具
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
