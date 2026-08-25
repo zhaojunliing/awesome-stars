@@ -630,7 +630,7 @@
 - [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 - [dromara/electron-egg](https://github.com/dromara/electron-egg) - A simple, cross platform, enterprise desktop software development framework
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [numberwolf/h265web.js](https://github.com/numberwolf/h265web.js) - 🔥 作者：常炎隆(Author: ChangYanlong):HEVC/H.265 网页直播/点播播放器 支持硬解！ 支持H.265的HttpFLV/HLS/MP4/TS/FLV/M3U8/Websocket播放。 🔥 A HEVC/H.265 Web Player, Support hard-decoding! for LIVE/VOD stream. Support H.265 Codec w
+- [numberwolf/h265web.js](https://github.com/numberwolf/h265web.js) - 🔥 作者：常炎隆(Author: ChangYanlong):HEVC/H.265 网页直播/点播播放器 支持硬解！ 支持H.265的HttpFLV/HLS/MP4/TS/FLV/M3U8/Websocket/WebRTC播放。 🔥 A HEVC/H.265 Web Player, Support hard-decoding! for LIVE/VOD stream. Support H.265 
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 - [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet upgraded to Univer
 - [RainyGao-GitHub/DocSys](https://github.com/RainyGao-GitHub/DocSys) - MxsDoc is a web based document storage and management system
@@ -802,6 +802,7 @@
 
 ## Python 
 
+- [OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1) - SenseNova-U series: Native Unified Paradigm with NEO-unify from the First Principles
 - [99kevindk/behaviorvision](https://github.com/99kevindk/behaviorvision) - 轻量化视觉画面分析检测客户端：纯CPU多路视频检测 + MiniCPM-V 高危行为识别（Windows 工控机）
 - [beixiaocai/rebucca](https://github.com/beixiaocai/rebucca) - Rebucca · 多路视频接入与智能布控分析平台。支持 GB28181 / RTSP 等协议、YOLO 等小模型检测、OpenAI 兼容大模型复核、多边形布控区域与带截图的结构化报警。
 - [Mengqi-Lei/count-anything](https://github.com/Mengqi-Lei/count-anything) - Code and implementation guidelines for the paper ✨Counting Anything. Project Page: https://mengqi-lei.github.io/count-anything-projectpage/
