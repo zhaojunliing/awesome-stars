@@ -333,7 +333,7 @@
 - [no-src/gofs](https://github.com/no-src/gofs) - A cross-platform real-time file synchronization tool out of the box based on Golang
 - [admpub/nging](https://github.com/admpub/nging) - 网站服务器管理面板，包含：计划任务 / MySQL管理 / Redis管理 / FTP管理 / SSH管理 / 服务器管理 / Caddy和Nginx配置 / DDNS / FRP可视化配置 / 云存储管理 等功能。可运行于 Windows / Linux / MacOS 等主流系统平台和 树莓派 / 路由器 等ARM设备
 - [cnotch/ipchub](https://github.com/cnotch/ipchub) - 一个即拷即用、支持摄像头集中管理、多级路由及h5播放的流媒体服务器。
-- [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - A node.js version management utility for Windows. Ironically written in Go.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [go-rod/go-rod-chinese](https://github.com/go-rod/go-rod-chinese) - go-rod API 中文文档
 - [golang/go](https://github.com/golang/go) - The Go programming language
@@ -488,6 +488,7 @@
 - [iohao/ioGame](https://github.com/iohao/ioGame) - A lock-free, asynchronous, event-driven Java Netty framework for building high-performance network applications. Lightweight and dependency-free, it supports distributed, decentralized clusters withou
 - [jetlinks/jetlinks-community](https://github.com/jetlinks/jetlinks-community) - JetLinks  基于Java,Spring Boot ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据
 - [IoT-Technology/IoT-Technical-Guide](https://github.com/IoT-Technology/IoT-Technical-Guide) - :honeybee: IoT Technical Guide --- 从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析 :sparkles: :sparkles: :sparkles: (IoT Platform, SaaS, MQTT, CoAP, HTTP, Modbus, OPC, WebSocket, 物模型，Protobuf, PostgreSQL, MongoD
+- [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - One command to deploy a more powerful, self‑hosted alternative to SurveyMonkey.
 - [IoT-Technology/Groza](https://github.com/IoT-Technology/Groza) - 开源物联网平台 - 物联网解决方案的设备管理，数据收集，处理
 - [dromara/SMS4J](https://github.com/dromara/SMS4J) - 让简单的事情回归简单的本质。 SMS4J为短信聚合框架，帮您轻松集成多家短信服务，解决接入多个短信SDK的繁琐流程。 目前已接入数家常见的短信服务商，后续将会继续集成。后续的版本中我们还将推出更多的相关功能 你的 ⭐️ ⭐️⭐️Star⭐️⭐️ ⭐️，是我的动力！如果你觉得还不错，请点上一颗小星星
 - [bage2014/study](https://github.com/bage2014/study) - Java全栈工程师学习笔记；Spring、shiro、CAS、oauth2单点登录；cache 、Redis; web 安全及解决思路；redis、mq、quartz、docker；Docker各种组件实践等；mybatis、spring、spring boot实践；分布式锁；基于分库分表等等；Java full-stack engineer study notes; Spring, shiro,
@@ -605,6 +606,7 @@
 
 ## JavaScript 
 
+- [oxiaom/adoremix-npm](https://github.com/oxiaom/adoremix-npm) - AdoreMix 广播服务器 - 基于 Qt/C++，npm 一键跨平台部署（Win/Linux x64/ARM64/ARM/macOS ARM64）
 - [1837620622/chatgpt-specimen-toolbox](https://github.com/1837620622/chatgpt-specimen-toolbox) - ChatGPT Session ↔ 9 种主流认证格式 N×N 双向互转（auth.json / Cockpit / CPA / Sub2API / 9router / AxonHub / Codex-Manager / Codex Auth / Raw）· 11 种来源自动识别 · Plus 多区域 / Team 工作区订阅长链一站生成（v2.4.0 Stripe init 三步法长链引擎，拿 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate) - 
@@ -788,7 +790,6 @@
 ## PLpgSQL 
 
 - [yudaocode/yudao-boot-mini](https://github.com/yudaocode/yudao-boot-mini) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star 
-- [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - One command to deploy a more powerful, self‑hosted alternative to SurveyMonkey.
 - [mqttsnet/thinglinks](https://github.com/mqttsnet/thinglinks) - Enterprise-grade IoT platform powered by ThingLinks Engine.  Supports MQTT / HTTP / CoAP / TCP / Modbus, rule engine,  Visual display screen & multi-tenancy. Millions of connections per node.
 
 ## Pascal 
