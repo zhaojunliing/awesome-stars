@@ -1713,7 +1713,6 @@
 - [SuPoTing/Ultralytics-GUI-PySide6](https://github.com/SuPoTing/Ultralytics-GUI-PySide6) - 
 - [ThinkDevelop/Free-SS-SSR](https://github.com/ThinkDevelop/Free-SS-SSR) - 每日分享免费的ss、vmess、vless、trojan、hysteria2等各类节点
 - [Javen205/IJPay](https://github.com/Javen205/IJPay) - IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付、PayPal 支付等常用的支付方式以及各种常用的接口。不依赖任何第三方 mvc 框架，仅仅作为工具使用简单快速完成支付模块的开发，可轻松嵌入到任何系统里。右上角点下小星星✨
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [sagoo-cloud/sagooiot-ui](https://github.com/sagoo-cloud/sagooiot-ui) - SagooIOT前端工程
 - [FaceAISDK/FaceSearch_uniapp_plugin](https://github.com/FaceAISDK/FaceSearch_uniapp_plugin) - 1:N 人脸搜索识别UTS API插件uniapp和uniapp x 都可以用，可以完全离线运行
 - [xiaoxinpro/WolGoWeb](https://github.com/xiaoxinpro/WolGoWeb) - 基于Golang的远程唤醒WebAPI
