@@ -679,6 +679,7 @@
 
 ## docker 
 
+- [fchaussin/signature-remove-bg](https://github.com/fchaussin/signature-remove-bg) - Self-hosted lightweight signature background remover. Extract dark/blue ink signatures as transparent PNG/WebP —     no ML, no cloud, no GPU. REST API + web UI, runs in Docker with ~30 MB RAM.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 - [psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot) - 🔥 Real-time NVIDIA GPU dashboard
@@ -1159,6 +1160,7 @@
 
 ## image-processing 
 
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video/image into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux.
 - [Mrooze-zeng/go-wasm-demo](https://github.com/Mrooze-zeng/go-wasm-demo) - Go wasm 学习相关demo，主要功能包括:md5处理，图像旋转，excel和csv生成,图像缩略图，gzip压缩和解压，切片上传和切片下载
@@ -1199,7 +1201,7 @@
 
 ## java 
 
-- [undsky/RuoYi-SpringBoot3-Pro](https://github.com/undsky/RuoYi-SpringBoot3-Pro) - RuoYi-Vue 增强版本，保留了原有的所有功能，并新增了多项企业级特性
+- [undsky/doudou-ai-coding](https://github.com/undsky/doudou-ai-coding) - RuoYi-Vue 增强版本，保留了原有的所有功能，并新增了多项企业级特性
 - [1024-lab/smart-admin](https://github.com/1024-lab/smart-admin) - SmartAdmin国内首个以「高质量代码」为核心，「简洁、高效、安全」快速开发平台；基于SpringBoot2/3 + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4.x (同时支持JavaScript和TypeScript双版本)；满足国家三级等保要求、支持登录限制、接口数据国产加解密、高防SQL注入等一系列安全体系。
 - [cbnbcbnb/RuoYi-Wvp](https://github.com/cbnbcbnb/RuoYi-Wvp) - ruoyi-wvp是基于ruoyi-vue和wvp框架的全部开源的GB/T 28181-2016标准流媒体平台，开箱即用、完全开源、使用MIT许可协议！
 - [RKQF-JVS/jvs-knowledge-ui](https://github.com/RKQF-JVS/jvs-knowledge-ui) - 【企业级在线文档】，解决企业内部文档编辑、知识沉淀、知识协同等痛点。项目主要采用Java开发，基础框架采用JVS（spring cloud+Vue）。适用场景：适用于个人、团队、企业使用，提供云笔记、个人知识沉淀、在线产品手册、团队内部知识库、在线电子教程、全文内容搜索、CMS内容展示等功能。支持私有化部署场景。
@@ -2101,6 +2103,7 @@
 
 ## python 
 
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [obss/sahi](https://github.com/obss/sahi) - Framework agnostic sliced/tiled inference + interactive ui + error analysis plots
 - [psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot) - 🔥 Real-time NVIDIA GPU dashboard
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
@@ -2214,6 +2217,7 @@
 
 ## rest-api 
 
+- [fchaussin/signature-remove-bg](https://github.com/fchaussin/signature-remove-bg) - Self-hosted lightweight signature background remover. Extract dark/blue ink signatures as transparent PNG/WebP —     no ML, no cloud, no GPU. REST API + web UI, runs in Docker with ~30 MB RAM.
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
 - [stylefeng/Guns](https://github.com/stylefeng/Guns) - Guns是一个现代化的Java应用开发框架，基于主流技术Spring Boot3 + Vue3 + JDK17，Guns的核心理念是提高开发人员开发效率，降低企业信息化系统的开发成本。
@@ -2282,6 +2286,7 @@
 
 ## self-hosted 
 
+- [fchaussin/signature-remove-bg](https://github.com/fchaussin/signature-remove-bg) - Self-hosted lightweight signature background remover. Extract dark/blue ink signatures as transparent PNG/WebP —     no ML, no cloud, no GPU. REST API + web UI, runs in Docker with ~30 MB RAM.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
