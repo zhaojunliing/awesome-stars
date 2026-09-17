@@ -444,7 +444,7 @@
 - [IAMLZY2018/XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) - 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，手机端UI，请勿商用，仅供学习交流
 - [dromara/wgai](https://github.com/dromara/wgai) - 开箱即用的JAVA AI 图片、视频语音识别&OCR平台AI合集包含旦不仅限于(车牌识别、安全帽识别、开门关门、常用类物识别等) 图片和视频识别 可自主 融合了AI图像识别opencv、yolo、ocr、esayAI内核识别;AI智能客服、AI语言模型、 无任何第三方API接口可定制化自主离线化部署并自主化行业化使用 避免占用内存、GPU消耗训练与识别分开使用;
 - [iteaj/iot](https://github.com/iteaj/iot) - iot是基于netty, spring boot, redis等开源项目实现的物联网框架, 支持tcp, udp底层协议和http, mqtt, modbus等上层协议.支持心跳处理、短线重连、服务端同步和异步调用设备、应用客户端同步和异步调用设备、协议实现和业务处理解耦分离、基于redis的数据生产和消费。并指定一套统一、易理解和简单的api接口
-- [undsky/RuoYi-SpringBoot3-Pro](https://github.com/undsky/RuoYi-SpringBoot3-Pro) - RuoYi-Vue 增强版本，保留了原有的所有功能，并新增了多项企业级特性
+- [undsky/doudou-ai-coding](https://github.com/undsky/doudou-ai-coding) - RuoYi-Vue 增强版本，保留了原有的所有功能，并新增了多项企业级特性
 - [geekwenjie/SmartJavaAI](https://github.com/geekwenjie/SmartJavaAI) - 🔥🔥🔥Java免费离线AI算法工具箱，支持人脸识别，活体检测，表情识别、目标检测、实例分割、行人检测、OCR文字识别、车牌识别、表格识别、ASR+TTS、机器翻译等功能，Maven引用即可使用。支持PyTorch、Tensorflow，已集成 Mtcnn、InsightFace、SeetaFace6、YOLOv8~v12、PaddleOCR(PPOCRv5)、Whisper等主流模型
 - [roncoo/roncoo-education](https://github.com/roncoo/roncoo-education) - 领课教育系统是一套基于点播、直播、考试、题库、任务等功能完善的在线教育系统，开源版是基于商业版精简实现的一个网课网校系统，致力于打造一个各行业都适用的在线培训系统、远程教学平台、学习管理系统、知识付费系统。
 - [qiutiandefeng/yftrain](https://github.com/qiutiandefeng/yftrain) - 学习系统-在线考试系统 企业培训内训系统-企教培系统平台软件
@@ -806,6 +806,8 @@
 
 ## Python 
 
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
+- [fchaussin/signature-remove-bg](https://github.com/fchaussin/signature-remove-bg) - Self-hosted lightweight signature background remover. Extract dark/blue ink signatures as transparent PNG/WebP —     no ML, no cloud, no GPU. REST API + web UI, runs in Docker with ~30 MB RAM.
 - [Zhh9126/backup-platform](https://github.com/Zhh9126/backup-platform) - 
 - [OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1) - SenseNova-U series: Native Unified Paradigm with NEO-unify from the First Principles
 - [99kevindk/behaviorvision](https://github.com/99kevindk/behaviorvision) - 轻量化视觉画面分析检测客户端：纯CPU多路视频检测 + MiniCPM-V 高危行为识别（Windows 工控机）
@@ -1010,6 +1012,7 @@
 - [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 - [Anarkh-Lee/universal-db-mcp](https://github.com/Anarkh-Lee/universal-db-mcp) - 通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然语言查询和分析数据
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
+- [dreamlonglll/mini-mqtt-client](https://github.com/dreamlonglll/mini-mqtt-client) - 一个开源的mqtt 桌面客户端工具。支持保存命令、定时循环发送和预处理脚本
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [qczone/switch2idea](https://github.com/qczone/switch2idea) - A Cursor extension enabling smooth switching between Cursor and IDEA, with automatic cursor position sync and convenient shortcuts. Supports multiple JetBrains IDEs and enhances development workflow e
 - [CameronFoxly/Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion) - A modern web application for creating and animating ASCII art
@@ -1060,7 +1063,6 @@
 - [yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。
 - [kamisamadasikede/FFmpegFree](https://github.com/kamisamadasikede/FFmpegFree) - 本项目实现了一个简单但功能齐全的音视频格式转换工具,为FFmpeg壳子，支持多种主流音视频格式之间的相互转换。前端采用 Vue3 + TypeScript + Element Plus 构建，后端使用 Go + Gin 框架提供服务，通过 Wails 实现桌面应用打包，前后端通过 Axios 进行通信,流媒体工具实现屏幕获取拉流推流。
 - [doubleShuang/ForgeAI-Vision](https://github.com/doubleShuang/ForgeAI-Vision) - 这是一个轻量化、快速上手的通用目标检测平台，实现标注、训练、推理的一站式服务，兼顾本地与边缘侧部署的视觉解决方案
-- [dreamlonglll/mini-mqtt-client](https://github.com/dreamlonglll/mini-mqtt-client) - 一个开源的mqtt 桌面客户端工具。支持保存命令、定时循环发送和预处理脚本
 - [YXJ2018/SpringBoot-Vue-OnlineExam](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam) - 在线考试系统，springboot+vue前后端分离的一个项目.
 - [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 - [roncoo/roncoo-education-web](https://github.com/roncoo/roncoo-education-web) - 领课教育系统是一套基于点播、直播、考试、题库、任务等功能完善的在线教育系统，开源版是基于商业版精简实现的一个网课网校系统，致力于打造一个各行业都适用的在线培训系统、远程教学平台、学习管理系统、知识付费系统。
