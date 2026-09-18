@@ -444,7 +444,6 @@
 - [IAMLZY2018/XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) - 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，手机端UI，请勿商用，仅供学习交流
 - [dromara/wgai](https://github.com/dromara/wgai) - 开箱即用的JAVA AI 图片、视频语音识别&OCR平台AI合集包含旦不仅限于(车牌识别、安全帽识别、开门关门、常用类物识别等) 图片和视频识别 可自主 融合了AI图像识别opencv、yolo、ocr、esayAI内核识别;AI智能客服、AI语言模型、 无任何第三方API接口可定制化自主离线化部署并自主化行业化使用 避免占用内存、GPU消耗训练与识别分开使用;
 - [iteaj/iot](https://github.com/iteaj/iot) - iot是基于netty, spring boot, redis等开源项目实现的物联网框架, 支持tcp, udp底层协议和http, mqtt, modbus等上层协议.支持心跳处理、短线重连、服务端同步和异步调用设备、应用客户端同步和异步调用设备、协议实现和业务处理解耦分离、基于redis的数据生产和消费。并指定一套统一、易理解和简单的api接口
-- [undsky/doudou-ai-coding](https://github.com/undsky/doudou-ai-coding) - RuoYi-Vue 增强版本，保留了原有的所有功能，并新增了多项企业级特性
 - [geekwenjie/SmartJavaAI](https://github.com/geekwenjie/SmartJavaAI) - 🔥🔥🔥Java免费离线AI算法工具箱，支持人脸识别，活体检测，表情识别、目标检测、实例分割、行人检测、OCR文字识别、车牌识别、表格识别、ASR+TTS、机器翻译等功能，Maven引用即可使用。支持PyTorch、Tensorflow，已集成 Mtcnn、InsightFace、SeetaFace6、YOLOv8~v12、PaddleOCR(PPOCRv5)、Whisper等主流模型
 - [roncoo/roncoo-education](https://github.com/roncoo/roncoo-education) - 领课教育系统是一套基于点播、直播、考试、题库、任务等功能完善的在线教育系统，开源版是基于商业版精简实现的一个网课网校系统，致力于打造一个各行业都适用的在线培训系统、远程教学平台、学习管理系统、知识付费系统。
 - [qiutiandefeng/yftrain](https://github.com/qiutiandefeng/yftrain) - 学习系统-在线考试系统 企业培训内训系统-企教培系统平台软件
@@ -697,6 +696,7 @@
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [rainyear/python3-in-one-pic](https://github.com/rainyear/python3-in-one-pic) - Learn python3 in one picture.
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
+- [hoochanlon/hamuleite](https://github.com/hoochanlon/hamuleite) - 🌊深度整合全球顶尖学术、金融与教育资源：学术板块汇聚 JSTOR、Taylor & Francis、剑桥大学出版社等权威平台的论文，并接入 Z-Library 影子图书馆的海量电子书；教育板块收录香港、新加坡从小学到高中以及大学学科教科书；金融板块则聚合香橼、摩根、野村等顶级机构的深度研报，只为打破信息孤岛，构建知识平权普惠知识库。
 
 ## Kotlin 
 
@@ -936,7 +936,6 @@
 - [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator (supporting animated gif) - amazing 二维码生成器（支持 gif 动态图片二维码）
 - [liubin/docker101](https://github.com/liubin/docker101) - “Docker入门与实践”课程讲义及参考
 - [Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
-- [hoochanlon/hamuleite](https://github.com/hoochanlon/hamuleite) - 🌊深度整合全球顶尖学术、金融与教育资源：学术板块汇聚 JSTOR、Taylor & Francis、剑桥大学出版社等权威平台的论文，并接入 Z-Library 影子图书馆的海量电子书；教育板块收录香港、新加坡、英国等地的原版教材与教学大纲；金融板块则聚合香橼、摩根、野村等顶级机构的深度研报，只为打破信息孤岛，构建知识平权普惠知识库。
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 
@@ -959,7 +958,7 @@
 - [pjpv/zcode-switch](https://github.com/pjpv/zcode-switch) - One-click switcher for multiple ZCode accounts · 多账号一键切换，额度展示 / 活动领取 / 加密导出
 - [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) - 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitH
 - [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [lucasjinreal/Kokoros](https://github.com/lucasjinreal/Kokoros) - 🔥🔥 Kokoro in Rust. https://huggingface.co/hexgrad/Kokoro-82M Insanely fast, realtime TTS with high quality you ever have.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
@@ -1063,6 +1062,7 @@
 - [yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。
 - [kamisamadasikede/FFmpegFree](https://github.com/kamisamadasikede/FFmpegFree) - 本项目实现了一个简单但功能齐全的音视频格式转换工具,为FFmpeg壳子，支持多种主流音视频格式之间的相互转换。前端采用 Vue3 + TypeScript + Element Plus 构建，后端使用 Go + Gin 框架提供服务，通过 Wails 实现桌面应用打包，前后端通过 Axios 进行通信,流媒体工具实现屏幕获取拉流推流。
 - [doubleShuang/ForgeAI-Vision](https://github.com/doubleShuang/ForgeAI-Vision) - 这是一个轻量化、快速上手的通用目标检测平台，实现标注、训练、推理的一站式服务，兼顾本地与边缘侧部署的视觉解决方案
+- [undsky/doudou-ai-coding](https://github.com/undsky/doudou-ai-coding) - 面向个人（编程小白）、小中型企业，覆盖后端服务、Web 前端和移动端h5、APP、小程序开发
 - [YXJ2018/SpringBoot-Vue-OnlineExam](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam) - 在线考试系统，springboot+vue前后端分离的一个项目.
 - [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 - [roncoo/roncoo-education-web](https://github.com/roncoo/roncoo-education-web) - 领课教育系统是一套基于点播、直播、考试、题库、任务等功能完善的在线教育系统，开源版是基于商业版精简实现的一个网课网校系统，致力于打造一个各行业都适用的在线培训系统、远程教学平台、学习管理系统、知识付费系统。
