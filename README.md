@@ -179,7 +179,7 @@
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [vibe-coding-labs/JG-Cursor-cracker](https://github.com/vibe-coding-labs/JG-Cursor-cracker) - 极光互联蛙无限Cursor登录器破解器
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
-- [muleiwu/dwz-server](https://github.com/muleiwu/dwz-server) - 🚀 功能完善、轻量且高性能的企业级短链接服务平台，支持多域名、AB测试、用户管理、实时统计等功能。支持SQLite、MySQL、PostgreSQL、Redis
+- [muleiwu/dwz-server](https://github.com/muleiwu/dwz-server) - Muleiwu URL Shortener (dwz-server) combines short-link management, multi-domain support, access policies, A/B testing, marketing attribution, and click analytics in one self-hosted platform.
 - [Veloera/Veloera](https://github.com/Veloera/Veloera) - 
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
