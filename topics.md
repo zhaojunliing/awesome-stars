@@ -1641,16 +1641,17 @@
 
 ## others 
 
+- [5758703/CV_PythonVue_TigerPro](https://github.com/5758703/CV_PythonVue_TigerPro) - 计算机视觉+AI大模型测试学习平台（自己搭建）
 - [cncases/cases](https://github.com/cncases/cases) - 中国裁判文书网本地搜索
 - [Liuziyu77/Valen](https://github.com/Liuziyu77/Valen) - Train a Jev-like multimodal model by yourself. System One Model, now with vision.
-- [eguid/SimpleTVCast](https://github.com/eguid/SimpleTVCast) - 自由无线投屏（FreeWirelessCast，曾用名：简单电视投屏，SimpleTVCast）是一款免费、无广告、无水印纯净的无线投屏工具。为什么自由？因为“即开即用”，无需扫码配对等复杂操作就可以直接投屏。除了支持基本的电脑桌面镜像投屏外，还支持视频文件投屏、音乐投屏、网络多媒体投屏和图片轮播等投屏方式。支持设备也非常广泛，电视、投影仪、智能盒子、智能音箱、电视机顶盒等无线显示设备都可以支持。
+- [eguid/SimpleTVCast](https://github.com/eguid/SimpleTVCast) - This is a mirror of [https://gitee.com/eguid/SimpleTVCast]. Please do not submit PRs here.
 - [LanRhyme/MicYou](https://github.com/LanRhyme/MicYou) - MicYou is a powerful tool that turns your Android device into a high-quality microphone for your PC.
 - [Zhh9126/backup-platform](https://github.com/Zhh9126/backup-platform) - 
 - [pjpv/zcode-switch](https://github.com/pjpv/zcode-switch) - One-click switcher for multiple ZCode accounts · 多账号一键切换，额度展示 / 活动领取 / 加密导出
 - [OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1) - SenseNova-U series: Native Unified Paradigm with NEO-unify from the First Principles
 - [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine
 - [99kevindk/behaviorvision](https://github.com/99kevindk/behaviorvision) - 轻量化视觉画面分析检测客户端：纯CPU多路视频检测 + MiniCPM-V 高危行为识别（Windows 工控机）
-- [beixiaocai/rebucca](https://github.com/beixiaocai/rebucca) - Rebucca · 多路视频接入与智能布控分析平台。支持 GB28181 / RTSP 等协议、YOLO 等小模型检测、OpenAI 兼容大模型复核、多边形布控区域与带截图的结构化报警。
+- [yuturuishi/rebucca](https://github.com/yuturuishi/rebucca) - Rebucca · 多路视频接入与智能布控分析平台。支持 GB28181 / RTSP 等协议、YOLO 等小模型检测、OpenAI 兼容大模型复核、多边形布控区域与带截图的结构化报警。
 - [wkt/YoloMobile](https://github.com/wkt/YoloMobile) - A Android Library for YOLOv5/YOLOv7/YOLOv8 Detection and Pose Inference Based on NCNN
 - [daimon3332/address](https://github.com/daimon3332/address) - A self-hosted address and synthetic test-profile generator for 27 countries and regions, built from real open-data streets, administrative areas, coordinates, and postcodes. Supports multilingual outp
 - [yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。
