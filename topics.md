@@ -1664,7 +1664,7 @@
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [mohankumarelec/airgapped-qr-code-transfer](https://github.com/mohankumarelec/airgapped-qr-code-transfer) - A web-based tool for transferring data between devices using QR codes, enabling offline file transfer without network connectivity. Built with Vue.js, pako, qrcode.js, and zbar-wasm.
 - [FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate) - 
-- [jerpelhan/GECO2](https://github.com/jerpelhan/GECO2) - Official implementation of GeCo2 (AAAI 2026) -- Generalized-Scale Object Counting with Gradual Query Aggregation
+- [jerpelhan/GECO2](https://github.com/jerpelhan/GECO2) - [AAAI 2026] Generalized-Scale Object Counting with Gradual Query Aggregation
 - [gtxx3600/GPTSession2CPAandSub2API](https://github.com/gtxx3600/GPTSession2CPAandSub2API) - 
 - [luohuabuxiema/LabelPaw](https://github.com/luohuabuxiema/LabelPaw) - 
 - [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。同时集成闲鱼自动发货，自动评价，自动擦亮等功能，实现闲鱼虚拟商品自动化流程。
