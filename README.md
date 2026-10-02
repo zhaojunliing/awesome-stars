@@ -882,6 +882,7 @@
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [ohperhaps/xiaoetong](https://github.com/ohperhaps/xiaoetong) - Download tools for xiaoe-tech/小鹅通下载工具
 - [jiji262/xiaoetong-video-downloader](https://github.com/jiji262/xiaoetong-video-downloader) - 小鹅通资源下载工具
@@ -961,7 +962,7 @@
 ## Rust 
 
 - [cncases/cases](https://github.com/cncases/cases) - 中国裁判文书网本地搜索
-- [LanRhyme/MicYou](https://github.com/LanRhyme/MicYou) - MicYou is a powerful tool that turns your Android device into a high-quality microphone for your PC.
+- [MicYou-Dev/MicYou](https://github.com/MicYou-Dev/MicYou) - MicYou is a powerful tool that turns your Android device into a high-quality microphone for your PC.
 - [pjpv/zcode-switch](https://github.com/pjpv/zcode-switch) - One-click switcher for multiple ZCode accounts · 多账号一键切换，额度展示 / 活动领取 / 加密导出
 - [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) - 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitH
 - [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能
@@ -1043,7 +1044,6 @@
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [RylanBot/awesome-hands-control](https://github.com/RylanBot/awesome-hands-control) - 👋 Gesture recognition for software control「手势识别操控程序」
 - [vue-zone/vue3-vant-mobile](https://github.com/vue-zone/vue3-vant-mobile) - An mobile web apps template based on the Vue 3 ecosystem。一个基于 Vue 3 生态系统的移动 web 应用模板，帮助你快速完成业务开发。
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron 的音乐软件
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
