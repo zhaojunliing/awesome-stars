@@ -1647,7 +1647,7 @@
 - [cncases/cases](https://github.com/cncases/cases) - 中国裁判文书网本地搜索
 - [Liuziyu77/Valen](https://github.com/Liuziyu77/Valen) - Train a Jev-like multimodal model by yourself. System One Model, now with vision.
 - [eguid/SimpleTVCast](https://github.com/eguid/SimpleTVCast) - This is a mirror of [https://gitee.com/eguid/SimpleTVCast]. Please do not submit PRs here.
-- [LanRhyme/MicYou](https://github.com/LanRhyme/MicYou) - MicYou is a powerful tool that turns your Android device into a high-quality microphone for your PC.
+- [MicYou-Dev/MicYou](https://github.com/MicYou-Dev/MicYou) - MicYou is a powerful tool that turns your Android device into a high-quality microphone for your PC.
 - [Zhh9126/backup-platform](https://github.com/Zhh9126/backup-platform) - 
 - [pjpv/zcode-switch](https://github.com/pjpv/zcode-switch) - One-click switcher for multiple ZCode accounts · 多账号一键切换，额度展示 / 活动领取 / 加密导出
 - [OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1) - SenseNova-U series: Native Unified Paradigm with NEO-unify from the First Principles
