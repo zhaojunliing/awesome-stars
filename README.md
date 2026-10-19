@@ -688,7 +688,7 @@
 ## Jupyter Notebook 
 
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
-- [Liuziyu77/Valen](https://github.com/Liuziyu77/Valen) - Train a Jev-like multimodal model by yourself. System One Model, now with vision.
+- [Valen-Team/Valen](https://github.com/Valen-Team/Valen) - Train a Jev-like multimodal model by yourself. System One Model, now with vision.
 - [jerpelhan/GECO2](https://github.com/jerpelhan/GECO2) - [AAAI 2026] Generalized-Scale Object Counting with Gradual Query Aggregation
 - [akshaybahadur21/Drowsiness_Detection](https://github.com/akshaybahadur21/Drowsiness_Detection) - A simple Drowsiness Detection module for humans. 😴 🚫 🚗
 - [MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking) - YOLOv8 Object Tracking using PyTorch, OpenCV and DeepSORT
