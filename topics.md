@@ -262,6 +262,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
+- [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, point cloud and multimodal data, combining versatile built-in tools with stat
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
@@ -353,7 +354,6 @@
 
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠 Train a 64M-parameter LLM from scratch in just 2h!
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
-- [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, and multimodal data, combining versatile built-in tools with state-of-the-art
 - [amusi/AI-Job-Notes](https://github.com/amusi/AI-Job-Notes) - AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）
 
 ## automation 
@@ -560,7 +560,7 @@
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-- [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, and multimodal data, combining versatile built-in tools with state-of-the-art
+- [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, point cloud and multimodal data, combining versatile built-in tools with stat
 - [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.
 - [amusi/AI-Job-Notes](https://github.com/amusi/AI-Job-Notes) - AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）
 
@@ -661,7 +661,7 @@
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-- [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, and multimodal data, combining versatile built-in tools with state-of-the-art
+- [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, point cloud and multimodal data, combining versatile built-in tools with stat
 - [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.
 - [yeyupiaoling/PPASR](https://github.com/yeyupiaoling/PPASR) - 基于PaddlePaddle实现端到端中文语音识别，从入门到实战，超简单的入门案例，超实用的企业项目。支持当前最流行的DeepSpeech2、Conformer、Squeezeformer模型
 - [amusi/AI-Job-Notes](https://github.com/amusi/AI-Job-Notes) - AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）
@@ -1465,7 +1465,7 @@
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-- [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, and multimodal data, combining versatile built-in tools with state-of-the-art
+- [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, point cloud and multimodal data, combining versatile built-in tools with stat
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [amusi/AI-Job-Notes](https://github.com/amusi/AI-Job-Notes) - AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）
 - [aleju/imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.
@@ -1671,7 +1671,7 @@
 - [mryqr-com/mry-backend](https://github.com/mryqr-com/mry-backend) - 本代码库为码如云后端代码。码如云是一个基于二维码的一物一码管理平台，可以为每一件“物品”生成一个二维码，手机扫码即可查看物品信息并发起相关业务操作，操作内容可由你自己定义，典型的应用场景包括固定资产管理、设备巡检以及物品标签等。在技术上，码如云是一个无代码平台，全程采用DDD、整洁架构和事件驱动架构思想完成开发。
 - [5758703/CV_PythonVue_TigerPro](https://github.com/5758703/CV_PythonVue_TigerPro) - 计算机视觉+AI大模型测试学习平台（自己搭建）
 - [cncases/cases](https://github.com/cncases/cases) - 中国裁判文书网本地搜索
-- [Liuziyu77/Valen](https://github.com/Liuziyu77/Valen) - Train a Jev-like multimodal model by yourself. System One Model, now with vision.
+- [Valen-Team/Valen](https://github.com/Valen-Team/Valen) - Train a Jev-like multimodal model by yourself. System One Model, now with vision.
 - [eguid/SimpleTVCast](https://github.com/eguid/SimpleTVCast) - This is a mirror of [https://gitee.com/eguid/SimpleTVCast]. Please do not submit PRs here.
 - [MicYou-Dev/MicYou](https://github.com/MicYou-Dev/MicYou) - MicYou is a powerful tool that turns your mobile device into a high-quality microphone for your PC.
 - [Zhh9126/backup-platform](https://github.com/Zhh9126/backup-platform) - 
@@ -1755,7 +1755,6 @@
 - [muleiwu/dwz-admin-webui](https://github.com/muleiwu/dwz-admin-webui) - 🚀 一个功能完善、高性能的企业级短链接服务平台，支持多域名、AB测试、用户管理、实时统计等功能。
 - [zarawu/dwz-server](https://github.com/zarawu/dwz-server) - 提供一个短链接服务
 - [muleiwu/dwz-server](https://github.com/muleiwu/dwz-server) - Muleiwu URL Shortener (dwz-server) combines short-link management, multi-domain support, access policies, A/B testing, marketing attribution, and click analytics in one self-hosted platform.
-- [Veloera/Veloera](https://github.com/Veloera/Veloera) - 
 - [aoguai/LiYing](https://github.com/aoguai/LiYing) - LiYing is an automated photo processing program designed for automating the post-processing workflow of ID photos in general photo studios. | LiYing 是一套适用于自动化 完成一般照相馆后期证件照处理流程的照片自动处理的程序。
 - [johnson7788/MultiAgentPPT](https://github.com/johnson7788/MultiAgentPPT) - MultiAgentPPT 是一个集成了 A2A（Agent2Agent）+ MCP（Model Context Protocol）+ ADK（Agent Development Kit） 架构的智能化演示文稿生成系统，支持通过多智能体协作和流式并发机制
 - [linux-do/cdk](https://github.com/linux-do/cdk) - LINUX DO CD key
