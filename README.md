@@ -176,7 +176,7 @@
 - [PandaXGO/PandaX](https://github.com/PandaXGO/PandaX) - 🎉🔥PandaX是Go语言开源的企业级物联网平台低代码开发基座，基于go-restful+Vue3.0+TypeScript+vite3+element-Plus的前后端分离开发。支持设备管控，规则链，云组态，可视化大屏，报表设计器，表单设计器，代码生成器等功能。能帮助你快速建立IOT物联网平台等相关业务系统。
 - [Akarin-Akari/go-mall](https://github.com/Akarin-Akari/go-mall) - 一个自用的学习用golang商城系统
 - [derror-ai/goworkflow](https://github.com/derror-ai/goworkflow) - 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Clients (for humans and agents)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Platform (for humans and agents)
 - [vibe-coding-labs/JG-Cursor-cracker](https://github.com/vibe-coding-labs/JG-Cursor-cracker) - 极光互联蛙无限Cursor登录器破解器
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [muleiwu/dwz-server](https://github.com/muleiwu/dwz-server) - Muleiwu URL Shortener (dwz-server) combines short-link management, multi-domain support, access policies, A/B testing, marketing attribution, and click analytics in one self-hosted platform.
