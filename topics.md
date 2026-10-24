@@ -71,6 +71,7 @@
 - [distributed-systems](#distributed-systems)
 - [docker](#docker)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [education](#education)
 - [electron](#electron)
 - [embedded](#embedded)
@@ -753,6 +754,12 @@
 - [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 - [digao-dalpiaz/DigaoDesk](https://github.com/digao-dalpiaz/DigaoDesk) - Desktop App to Run and Monitor Console Processes
 - [oybab/TradingSystem](https://github.com/oybab/TradingSystem) - A multi-language cross-platform open source free software: Oybab Trading System.
+
+## downloader 
+
+- [mediago-dev/mediago](https://github.com/mediago-dev/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
+- [lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader) - 超方便的微信视频号下载器
+- [nilaoda/N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
 
 ## education 
 
@@ -1859,7 +1866,6 @@
 - [yapingcat/gomedia](https://github.com/yapingcat/gomedia) - golang library for rtmp, mpeg-ts,mpeg-ps,flv,mp4,ogg,rtsp
 - [sharpbrowser/SharpBrowser](https://github.com/sharpbrowser/SharpBrowser) - A full featured web-browser built using C# and CefSharp
 - [duzhi5368/FKGoTrojan](https://github.com/duzhi5368/FKGoTrojan) - A C/S trojan tools to control romate Windows machine.
-- [lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader) - 超方便的微信视频号下载器
 - [jankotek/mapdb](https://github.com/jankotek/mapdb) - MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.
 - [ohperhaps/xiaoetong](https://github.com/ohperhaps/xiaoetong) - Download tools for xiaoe-tech/小鹅通下载工具
 - [nemoTyrant/goose](https://github.com/nemoTyrant/goose) - 下载小鹅通视频
