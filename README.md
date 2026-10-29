@@ -182,7 +182,7 @@
 - [vibe-coding-labs/JG-Cursor-cracker](https://github.com/vibe-coding-labs/JG-Cursor-cracker) - 极光互联蛙无限Cursor登录器破解器
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [muleiwu/dwz-server](https://github.com/muleiwu/dwz-server) - Muleiwu URL Shortener (dwz-server) combines short-link management, multi-domain support, access policies, A/B testing, marketing attribution, and click analytics in one self-hosted platform.
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
 - [WJQSERVER-STUDIO/ghproxy](https://github.com/WJQSERVER-STUDIO/ghproxy) - 基于Go的高性能,多功能,可扩展的Github代理加速项目
@@ -607,6 +607,7 @@
 
 ## JavaScript 
 
+- [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
 - [oxiaom/adoremix-npm](https://github.com/oxiaom/adoremix-npm) - AdoreMix 广播服务器 - 基于 Qt/C++，npm 一键跨平台部署（Win/Linux x64/ARM64/ARM/macOS ARM64）
 - [1837620622/chatgpt-specimen-toolbox](https://github.com/1837620622/chatgpt-specimen-toolbox) - ChatGPT Session ↔ 9 种主流认证格式 N×N 双向互转（auth.json / Cockpit / CPA / Sub2API / 9router / AxonHub / Codex-Manager / Codex Auth / Raw）· 11 种来源自动识别 · Plus 多区域 / Team 工作区订阅长链一站生成（v2.4.0 Stripe init 三步法长链引擎，拿 
 - [daimon3332/address](https://github.com/daimon3332/address) - A self-hosted address and synthetic test-profile generator for 27 countries and regions, built from real open-data streets, administrative areas, coordinates, and postcodes. Supports multilingual outp
