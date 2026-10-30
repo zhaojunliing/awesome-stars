@@ -16,6 +16,7 @@
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
+- [animation](#animation)
 - [api](#api)
 - [archlinux](#archlinux)
 - [arduino](#arduino)
@@ -337,6 +338,11 @@
 - [Streamedian/html5_rtsp_player](https://github.com/Streamedian/html5_rtsp_player) - Play RTSP stream from IP camera in browser in this HTML5 player without plugins
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [Devon3818/57mh](https://github.com/Devon3818/57mh) - ionic3.3.0-example 「57漫画」📖 🈵️ 一款能看&lt;惊爆游戏&gt;&lt;零度战姬&gt;&lt;进击的巨人&gt;&lt;东京食尸鬼re &gt;......de漫画app
+
+## animation 
+
+- [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
+- [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM!
 
 ## api 
 
