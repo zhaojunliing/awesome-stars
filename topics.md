@@ -1691,6 +1691,7 @@
 
 ## others 
 
+- [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
 - [looplj/reveric](https://github.com/looplj/reveric) - Agent Native 一站式 AI 小说，短剧桌面创作工作台
 - [Benny66/morrow](https://github.com/Benny66/morrow) - 本地优先的桌面提醒与习惯应用。提醒由一只叫「小满」的桌面宠物承载：一滴水，头顶一株芽，芽随今日完成率生长。
 - [zhongjidalao/whitelist-manager](https://github.com/zhongjidalao/whitelist-manager) - 根据当前环境ip，自动更新安全组某个端口的ip
