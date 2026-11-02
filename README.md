@@ -725,7 +725,7 @@
 
 ## Others 
 
-- [eguid/SimpleTVCast](https://github.com/eguid/SimpleTVCast) - This is a mirror of [https://gitee.com/eguid/SimpleTVCast]. Please do not submit PRs here.
+- [eguid/SimpleTVCast](https://github.com/eguid/SimpleTVCast) - This is a mirror of [https://gitee.com/eguid/SimpleTVCast]. 这是一个镜像仓库，免费电视投屏（SimpleTVCast）官方仓库地址：https://gitee.com/eguid/SimpleTVCast
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [zhinianboke-new/xianyu-auto-reply](https://github.com/zhinianboke-new/xianyu-auto-reply) - (作者版本)闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
