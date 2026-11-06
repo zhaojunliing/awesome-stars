@@ -371,7 +371,7 @@
 - [wangshibiaoFlytiger/apiproject](https://github.com/wangshibiaoFlytiger/apiproject) - [https://www.sofineday.com], golang项目开发脚手架,集成最佳实践(gin+gorm+go-redis+mongo+cors+jwt+json日志库zap(支持日志收集到kafka或mongo)+消息队列kafka+微信支付宝支付gopay+api加密+api反向代理+go modules依赖管理+headless爬虫chromedp+makefile+二进制压缩+
 - [cdle/sillyGirl](https://github.com/cdle/sillyGirl) - 傻妞机器人
 - [chromedp/examples](https://github.com/chromedp/examples) - chromedp code examples.
-- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
+- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt and export passwords, cookies, history and more from 20 browsers on Windows, macOS and Linux. For authorized security research, incident response and DFIR.
 - [lazybootsafe/Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack) - Go-Learning-With-Hacker--go语言HackTools开发教程从入门到入狱
 - [Le0nsec/SecCrawler](https://github.com/Le0nsec/SecCrawler) - 一个方便安全研究人员获取每日安全日报的爬虫和推送程序，目前爬取范围包括先知社区、安全客、Seebug Paper、跳跳糖、奇安信攻防社区、棱角社区以及绿盟、腾讯玄武、天融信、360等实验室博客，持续更新中。
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
@@ -442,6 +442,8 @@
 
 ## Java 
 
+- [wxs401901420/SenHub](https://github.com/wxs401901420/SenHub) - SenHub 是一款面向智能安防场景的综合性数字视频监控网关系统，深度集成海康、大华、天地伟业等主流厂商摄像头 SDK，打破品牌壁垒，实现报警事件的统一接入、标准化处理与智能分发。系统可实时抓取图像、控制云台，并集中接收各类设备触发的报警信号（如移动侦测、越界、设备异常等），通过 MQTT、Webhook 等开放协议，将结构化报警事件毫秒级推送至 AI 分析平台、运维系统或指挥中心。 SenHub
+- [2929004360/ruoyi-qs-nvr](https://github.com/2929004360/ruoyi-qs-nvr) - 基于ruoyi-cloud开发的nvr系统，支持rtsp，rtmp，onvif，海康sdk，海康isup，大华sdk，gb28181，jt808，jt1078等协议接入，更有效管理监控视频。
 - [NexIoTPlatform/nexiot](https://github.com/NexIoTPlatform/nexiot) - ✨ 基于Java21的企业级物联网平台，支持多协议直连、云调试、配置化！支持TCP直连、MQTT直连、天翼物联(AIoT)、HTTP REST、等多种设备接入方式，满足不同场景需求 基于浏览器的实时协议开发和调试，支持在线测试、热部署，让协议开发更高效!!
 - [mryqr-com/mry-backend](https://github.com/mryqr-com/mry-backend) - 本代码库为码如云后端代码。码如云是一个基于二维码的一物一码管理平台，可以为每一件“物品”生成一个二维码，手机扫码即可查看物品信息并发起相关业务操作，操作内容可由你自己定义，典型的应用场景包括固定资产管理、设备巡检以及物品标签等。在技术上，码如云是一个无代码平台，全程采用DDD、整洁架构和事件驱动架构思想完成开发。
 - [wells2333/sg-exam](https://github.com/wells2333/sg-exam) - 基于Spring Boot搭建的新一代教学管理平台，提供权限管理、考试、问卷、练习等功能
@@ -878,7 +880,7 @@
 - [topak47/CameraNVR](https://github.com/topak47/CameraNVR) - 
 - [gaodechen/webcam_yolov3_jetson_tx_hikvision](https://github.com/gaodechen/webcam_yolov3_jetson_tx_hikvision) - 多个网络摄像头进行拉流以及对象检测。平台使用Jetson TX2 (ARM architecture)，海康摄像头，对象检测采用YOLO v3模型。
 - [xugaoxiang/yolov5-pyqt5](https://github.com/xugaoxiang/yolov5-pyqt5) - 给yolov5加个gui界面，使用pyqt5，yolov5是5.0版本
-- [Pan-will/CNN_FacesRecognition](https://github.com/Pan-will/CNN_FacesRecognition) - 自己训练识别模型；支持从照片、视频、摄像头获取人脸数据集；支持识别照片、视频、摄像头中的人脸。
+- [panvv-ai/CNN_FacesRecognition](https://github.com/panvv-ai/CNN_FacesRecognition) - 自己训练识别模型；支持从照片、视频、摄像头获取人脸数据集；支持识别照片、视频、摄像头中的人脸。
 - [coneypo/Dlib_face_recognition_from_camera](https://github.com/coneypo/Dlib_face_recognition_from_camera) - Detect and recognize the faces from camera / 调用摄像头进行人脸识别，支持多张人脸同时识别
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
 - [ThinkerWen/TicketMonitoring](https://github.com/ThinkerWen/TicketMonitoring) - 大麦、猫眼、纷玩岛，票星球，演唱会回流票监控
