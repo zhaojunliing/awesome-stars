@@ -138,6 +138,7 @@
 - [material-design](#material-design)
 - [maven](#maven)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [microservices](#microservices)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
@@ -225,6 +226,7 @@
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -289,6 +291,7 @@
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 - [slopus/happy](https://github.com/slopus/happy) - Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - high performance server toolbox app & server written in Flutter & Rust.
 - [dromara/liteflow](https://github.com/dromara/liteflow) - Lightweight, fast, stable, programmable component-based rule engine — where AI Agents orchestrate just like ordinary components. Uniquely designed DSL: component reuse, sync/async & dynamic orchestrat
 
 ## algorithm 
@@ -320,7 +323,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [ob-f/OpenBot](https://github.com/ob-f/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
-- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - high performance server toolbox app & server written in Flutter & Rust.
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -&gt; 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
 - [junixapp/XPopup](https://github.com/junixapp/XPopup) - 🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for A
@@ -571,7 +574,7 @@
 
 ## computer-vision 
 
-- [yakhyo/uniface](https://github.com/yakhyo/uniface) - UniFace: A Unified Face Analysis Library for Python | Detection, alignment, landmarks, face-mesh, recognition, parsing, gaze, attributes and anti-spoofing under one API.
+- [yakhyo/uniface](https://github.com/yakhyo/uniface) - A Unified Face Analysis Library for Python | Detection, alignment, landmarks, face-mesh, recognition, parsing, gaze, attributes and anti-spoofing under one API.
 - [cosmo-wander-ai/cosmo-edge](https://github.com/cosmo-wander-ai/cosmo-edge) - Production-grade C++ edge AI engine for video analytics and on-device VLM across Sophon, Rockchip RKNN, and x86, with visual orchestration, real-time OSD, events, and reproducible benchmarks.
 - [Mengqi-Lei/count-anything](https://github.com/Mengqi-Lei/count-anything) - Code and implementation guidelines for the paper ✨Counting Anything. Project Page: https://mengqi-lei.github.io/count-anything-projectpage/
 - [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
@@ -633,7 +636,7 @@
 - [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - high performance server toolbox app & server written in Flutter & Rust.
 
 ## data-analysis 
 
@@ -670,7 +673,7 @@
 
 ## deep-learning 
 
-- [yakhyo/uniface](https://github.com/yakhyo/uniface) - UniFace: A Unified Face Analysis Library for Python | Detection, alignment, landmarks, face-mesh, recognition, parsing, gaze, attributes and anti-spoofing under one API.
+- [yakhyo/uniface](https://github.com/yakhyo/uniface) - A Unified Face Analysis Library for Python | Detection, alignment, landmarks, face-mesh, recognition, parsing, gaze, attributes and anti-spoofing under one API.
 - [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 - [obss/sahi](https://github.com/obss/sahi) - Framework agnostic sliced/tiled inference + interactive ui + error analysis plots
 - [geekwenjie/SmartJavaAI](https://github.com/geekwenjie/SmartJavaAI) - 🔥🔥🔥Java免费离线AI算法工具箱，支持人脸识别，活体检测，表情识别、目标检测、实例分割、行人检测、OCR文字识别、车牌识别、表格识别、ASR+TTS、机器翻译等功能，Maven引用即可使用。支持PyTorch、Tensorflow，已集成 Mtcnn、InsightFace、SeetaFace6、YOLOv8~v12、PaddleOCR(PPOCRv5)、Whisper等主流模型
@@ -753,6 +756,7 @@
 - [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - high performance server toolbox app & server written in Flutter & Rust.
 - [liaozihong/SpringBoot-Learning](https://github.com/liaozihong/SpringBoot-Learning) - 基于Gradle构建，使用SpringBoot在各个场景的应用，包括集成消息中间件、前后端分离、数据库、缓存、分布式锁、分布式事务等
 - [Leif160519/centos-script](https://github.com/Leif160519/centos-script) - 🎉centos下工具安装脚本，包含基础环境配置，Gitlab、Docker、LDAP、MongoDB、MySQL、RabbitMQ、Supervisor、Node、Python、zsh、rar、zabbix、k8s、prometheus、grafana等🎉
 - [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily
@@ -836,7 +840,7 @@
 - [honmaple/maple-file](https://github.com/honmaple/maple-file) - Multi-protocol cloud file upload and management with serverless / 无服务端的多协议云盘文件上传和管理APP
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - high performance server toolbox app & server written in Flutter & Rust.
 - [fregie/pho](https://github.com/fregie/pho) - A serverless application for viewing and synchronizing photos to cloud storage
 
 ## flutter-apps 
@@ -1243,7 +1247,7 @@
 - [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - high performance server toolbox app & server written in Flutter & Rust.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [leecobaby/shortcuts](https://github.com/leecobaby/shortcuts) - 📱 自动养猫|自动淘金币|炸年兽|芭芭农场|东东农场|抢购助手|快捷指令
 - [didi/DoKit](https://github.com/didi/DoKit) - 一款面向泛前端产品研发全生命周期的效率平台。
@@ -1370,7 +1374,7 @@
 - [clearw5/Auto.js](https://github.com/clearw5/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 - [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-- [singod/jeDate](https://github.com/singod/jeDate) - jeDate V6.5.0 是一款原生JS开发的 不依赖任何第三方库 大众化的日期控件，她身兼多职，虽不是万能的，但是她却是功能强大多样的美少女，她除了包含 单双面板、区域选择、 多语言、日历固定、有效无效日期、日期时间戳转换、日期加减、限制时分秒、初始化日期加减N、日期标注点、设定年月（YYYY-MM）、日期范围限制、开始日期设定、自定义日期格式、当天的前后若干天返回、时分秒选择、智能响应、自动
+- [artscgj/jeDate](https://github.com/artscgj/jeDate) - jeDate V6.5.0 是一款原生JS开发的 不依赖任何第三方库 大众化的日期控件，她身兼多职，虽不是万能的，但是她却是功能强大多样的美少女，她除了包含 单双面板、区域选择、 多语言、日历固定、有效无效日期、日期时间戳转换、日期加减、限制时分秒、初始化日期加减N、日期标注点、设定年月（YYYY-MM）、日期范围限制、开始日期设定、自定义日期格式、当天的前后若干天返回、时分秒选择、智能响应、自动
 
 ## jenkins 
 
@@ -1550,6 +1554,13 @@
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator (supporting animated gif) - amazing 二维码生成器（支持 gif 动态图片二维码）
 - [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【AI 时代的业务系统基座】企业级 AI 低代码平台：权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型。Java + Vue3，支持单体/微服务与信创国产化。
+
+## mcp-server 
+
+- [alexgaoth/awesome-reverse-engineered](https://github.com/alexgaoth/awesome-reverse-engineered) - Don't reverse engineer it twice. 17,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill + MCP server,
+- [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
+- [go-nunu/nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
+- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server.
 
 ## microservices 
 
@@ -1866,7 +1877,7 @@
 - [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.
 - [topak47/CameraNVR](https://github.com/topak47/CameraNVR) - 
 - [gaodechen/webcam_yolov3_jetson_tx_hikvision](https://github.com/gaodechen/webcam_yolov3_jetson_tx_hikvision) - 多个网络摄像头进行拉流以及对象检测。平台使用Jetson TX2 (ARM architecture)，海康摄像头，对象检测采用YOLO v3模型。
-- [panvv-ai/CNN_FacesRecognition](https://github.com/panvv-ai/CNN_FacesRecognition) - 自己训练识别模型；支持从照片、视频、摄像头获取人脸数据集；支持识别照片、视频、摄像头中的人脸。
+- [panvv-ai/CNN_FacesRecognition](https://github.com/panvv-ai/CNN_FacesRecognition) - 本地优先的人脸采集、CNN 训练与识别工作台，支持照片/视频/摄像头数据来源、样本与模型版本管理，以及照片/视频/实时摄像头人脸识别。
 - [coneypo/Dlib_face_recognition_from_camera](https://github.com/coneypo/Dlib_face_recognition_from_camera) - Detect and recognize the faces from camera / 调用摄像头进行人脸识别，支持多张人脸同时识别
 - [Luxcis/Jetbrains-Helper-Go](https://github.com/Luxcis/Jetbrains-Helper-Go) - 一个有助于提升Jetbrains服务商相关产品易用性的工具(GO语言版) 改写自https://github.com/NotoChen/Jetbrains-Help
 - [p1d3er/RemoteWebScreen](https://github.com/p1d3er/RemoteWebScreen) - 本项目是一个远程控制应用，使用 Golang 开发，允许用户通过 Web 界面远程控制和屏幕监控其他计算机。主要功能包括屏幕共享、鼠标和键盘控制以及键盘记录。
@@ -2196,7 +2207,7 @@
 ## python 
 
 - [Jia-Ethan/zcode-keysmith](https://github.com/Jia-Ethan/zcode-keysmith) - ZCode App managed true system-role entrypoint
-- [yakhyo/uniface](https://github.com/yakhyo/uniface) - UniFace: A Unified Face Analysis Library for Python | Detection, alignment, landmarks, face-mesh, recognition, parsing, gaze, attributes and anti-spoofing under one API.
+- [yakhyo/uniface](https://github.com/yakhyo/uniface) - A Unified Face Analysis Library for Python | Detection, alignment, landmarks, face-mesh, recognition, parsing, gaze, attributes and anti-spoofing under one API.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [obss/sahi](https://github.com/obss/sahi) - Framework agnostic sliced/tiled inference + interactive ui + error analysis plots
 - [psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot) - 🔥 Real-time NVIDIA GPU dashboard
@@ -2349,6 +2360,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - high performance server toolbox app & server written in Flutter & Rust.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
 ## sass 
@@ -2408,7 +2420,7 @@
 
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
-- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - high performance server toolbox app & server written in Flutter & Rust.
 - [simonvetter/modbus](https://github.com/simonvetter/modbus) - Go modbus stack (client and server)
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard that enables you to monitor and track the status of your server.
 
@@ -2697,6 +2709,10 @@
 - [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -&gt; 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
 - [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
+
+## vscode 
+
+- [voideditor/void](https://github.com/voideditor/void) - 
 
 ## vue 
 
