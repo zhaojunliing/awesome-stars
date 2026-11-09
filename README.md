@@ -812,6 +812,7 @@
 
 ## Python 
 
+- [beixiaocai/cface](https://github.com/beixiaocai/cface) - 人脸视觉开源框架 人脸检测/人脸识别/活体检测/人脸属性
 - [alexgaoth/awesome-reverse-engineered](https://github.com/alexgaoth/awesome-reverse-engineered) - Don't reverse engineer it twice. 17,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill + MCP server,
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - Design physical products with AI
 - [Jia-Ethan/zcode-keysmith](https://github.com/Jia-Ethan/zcode-keysmith) - ZCode App managed true system-role entrypoint
