@@ -212,6 +212,7 @@
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [testing](#testing)
 - [text-to-speech](#text-to-speech)
 - [tui](#tui)
 - [typescript](#typescript)
@@ -1719,6 +1720,7 @@
 
 ## others 
 
+- [beixiaocai/cface](https://github.com/beixiaocai/cface) - 人脸视觉开源框架 人脸检测/人脸识别/活体检测/人脸属性
 - [wxs401901420/SenHub](https://github.com/wxs401901420/SenHub) - SenHub 是一款面向智能安防场景的综合性数字视频监控网关系统，深度集成海康、大华、天地伟业等主流厂商摄像头 SDK，打破品牌壁垒，实现报警事件的统一接入、标准化处理与智能分发。系统可实时抓取图像、控制云台，并集中接收各类设备触发的报警信号（如移动侦测、越界、设备异常等），通过 MQTT、Webhook 等开放协议，将结构化报警事件毫秒级推送至 AI 分析平台、运维系统或指挥中心。 SenHub
 - [2929004360/ruoyi-qs-nvr](https://github.com/2929004360/ruoyi-qs-nvr) - 基于ruoyi-cloud开发的nvr系统，支持rtsp，rtmp，onvif，海康sdk，海康isup，大华sdk，gb28181，jt808，jt1078等协议接入，更有效管理监控视频。
 - [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
@@ -1917,7 +1919,7 @@
 - [nemoTyrant/goose](https://github.com/nemoTyrant/goose) - 下载小鹅通视频
 - [jiji262/xiaoetong-video-downloader](https://github.com/jiji262/xiaoetong-video-downloader) - 小鹅通资源下载工具
 - [ToyoDAdoubi/doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
-- [loov/lensm](https://github.com/loov/lensm) - Go assembly and source viewer
+- [loov/lensm](https://github.com/loov/lensm) - Assembly and source viewer with goodies.
 - [chao325/MaoTai_GUIT](https://github.com/chao325/MaoTai_GUIT) - 天猫 TaoBao i茅台  iMatoTai JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境。开发在即（开源协议采用 Apache License）
 - [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile) - 跟我一起写Makefile重制版
 - [tobe27/SSM-Shiro-JWT](https://github.com/tobe27/SSM-Shiro-JWT) - SSM+Shiro+JWT进行无状态认证
@@ -2590,6 +2592,10 @@
 ## terminal 
 
 - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
+
+## testing 
+
+- [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
 
 ## text-to-speech 
 
