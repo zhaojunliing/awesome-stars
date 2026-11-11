@@ -1025,7 +1025,7 @@
 ## TypeScript 
 
 - [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
-- [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
+- [e2e-inc/e2e](https://github.com/e2e-inc/e2e) - Next generation e2e testing framework for web and mobile apps.
 - [knight-L/sc-datav](https://github.com/knight-L/sc-datav) - Three.js 可视化大屏，地理轮廓精确呈现3D地图
 - [loggerhead/json4u](https://github.com/loggerhead/json4u) - 
 - [SubBoost/subboost](https://github.com/SubBoost/subboost) - Clash/Mihomo subscription conversion, enhancement, and management tool. Clash/Mihomo 订阅转换、增强和管理工具。通过 UI 可视化，一键实现链式代理、精确分流、防 DNS 泄露和多订阅聚合等高级功能。
