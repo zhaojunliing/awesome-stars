@@ -816,7 +816,7 @@
 - [alexgaoth/awesome-reverse-engineered](https://github.com/alexgaoth/awesome-reverse-engineered) - Don't reverse engineer it twice. 17,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill + MCP server,
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - Design physical products with AI
 - [Jia-Ethan/zcode-keysmith](https://github.com/Jia-Ethan/zcode-keysmith) - ZCode App managed true system-role entrypoint
-- [yakhyo/uniface](https://github.com/yakhyo/uniface) - A Unified Face Analysis Library for Python | Detection, alignment, landmarks, face-mesh, recognition, parsing, gaze, attributes and anti-spoofing under one API.
+- [yakhyo/uniface](https://github.com/yakhyo/uniface) - A Unified Face Analysis Library for Python
 - [netalertx/NetAlertX](https://github.com/netalertx/NetAlertX) - Centralized network visibility and continuous asset discovery.  Monitor devices, detect change, and stay aware across distributed networks.
 - [5758703/CV_PythonVue_TigerPro](https://github.com/5758703/CV_PythonVue_TigerPro) - 计算机视觉+AI大模型测试学习平台（自己搭建）
 - [Valen-Team/Valen](https://github.com/Valen-Team/Valen) - Open, lightweight multimodal decision models for text, images, and video. Train and run them yourself.
