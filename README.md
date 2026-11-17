@@ -160,6 +160,7 @@
 
 ## Go 
 
+- [Mi-Bee-Studio/MiBeeNvr](https://github.com/Mi-Bee-Studio/MiBeeNvr) - Lightweight self-hosted NVR in Go — single static binary, zero dependencies, embedded web UI. RTSP/ONVIF/Xiaomi/GB28181/WHIP cameras, RTMP/SRT push-in, WebRTC/HLS/FLV live view, audio, timelapse, cont
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)
 - [Benny66/morrow](https://github.com/Benny66/morrow) - 本地优先的桌面提醒与习惯应用。提醒由一只叫「小满」的桌面宠物承载：一滴水，头顶一株芽，芽随今日完成率生长。
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
@@ -1024,6 +1025,7 @@
 
 ## TypeScript 
 
+- [openocta/openocta](https://github.com/openocta/openocta) - OpenOcta is an open-source AIOps Agent installed on Windows & macOS.
 - [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
 - [e2e-inc/e2e](https://github.com/e2e-inc/e2e) - Next generation e2e testing framework for web and mobile apps.
 - [knight-L/sc-datav](https://github.com/knight-L/sc-datav) - Three.js 可视化大屏，地理轮廓精确呈现3D地图
