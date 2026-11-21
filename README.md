@@ -512,7 +512,7 @@
 - [starcwang/easy_javadoc](https://github.com/starcwang/easy_javadoc) - IntelliJ IDEA 插件，自动生成javadoc文档注释
 - [dromara/liteflow](https://github.com/dromara/liteflow) - Lightweight, fast, stable, programmable component-based rule engine — where AI Agents orchestrate just like ordinary components. Uniquely designed DSL: component reuse, sync/async & dynamic orchestrat
 - [Meituan-Dianping/Zebra](https://github.com/Meituan-Dianping/Zebra) - 美团点评集团统一使用的MySQL数据库访问层的中间件。主要提供对业务开发透明、读写分库、分库分表能力，并提供了端到端SQL监控的集成方案。
-- [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ Follow for updates An RBAC permission management system based on Spring Cloud 2025, Spring Boot 4, and OAuth2.
+- [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ Follow for updates An RBAC permission management system based on Spring Cloud 2026, Spring Boot 4, and OAuth2.
 - [jamesluozhiwei/seetafaceJNI](https://github.com/jamesluozhiwei/seetafaceJNI) - 基于中科院seetaface2进行封装的JAVA人脸识别库，支持人脸识别、1:1比对、1:N比对。
 - [pingfangushi/screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器
 - [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
@@ -813,6 +813,7 @@
 
 ## Python 
 
+- [LukasRoom/SuperADD](https://github.com/LukasRoom/SuperADD) - Repository for the publication SuperADD
 - [beixiaocai/cface](https://github.com/beixiaocai/cface) - 人脸视觉开源框架 人脸检测/人脸识别/活体检测/人脸属性
 - [alexgaoth/awesome-reverse-engineered](https://github.com/alexgaoth/awesome-reverse-engineered) - Don't reverse engineer it twice. 17,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill + MCP server,
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - Design physical products with AI
@@ -978,7 +979,6 @@
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [lucasjinreal/Kokoros](https://github.com/lucasjinreal/Kokoros) - 🔥🔥 Kokoro in Rust. https://huggingface.co/hexgrad/Kokoro-82M Insanely fast, realtime TTS with high quality you ever have.
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -1047,6 +1047,7 @@
 - [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) - XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze data online.
 - [mediago-dev/mediago](https://github.com/mediago-dev/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
 - [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video/image/audio into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux.
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 好用的 Canvas 引擎，轻松构建可交互、可编辑的图形应用，AI 时代的无限画布引擎。An easy-to-use Canvas engine for building interactive and editable graphics applications — an infinite canvas engine for the AI era.
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
 - [WebAV-Tech/WebAV](https://github.com/WebAV-Tech/WebAV) - A web-based Video Editing SDK built on WebCodecs. 基于 WebCodecs 构建的网页视频编辑 SDK。
