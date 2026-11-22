@@ -775,7 +775,7 @@
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [m1k1o/go-transcode](https://github.com/m1k1o/go-transcode) - On-demand transcoding origin server for live inputs and static files in Go using ffmpeg. Also with NVIDIA GPU hardware acceleration.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
-- [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ Follow for updates An RBAC permission management system based on Spring Cloud 2025, Spring Boot 4, and OAuth2.
+- [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ Follow for updates An RBAC permission management system based on Spring Cloud 2026, Spring Boot 4, and OAuth2.
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [ZongXR/SuperMarket](https://github.com/ZongXR/SuperMarket) - 设计精良的网上商城系统，包括前端、后端、数据库、负载均衡、数据库缓存、分库分表、读写分离、全文检索、消息队列等，使用SpringCloud框架，基于Java开发。该项目可部署到服务器上，不断完善中……
 - [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image
@@ -1723,7 +1723,7 @@
 - [lss233/kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [yqchilde/wxbot](https://github.com/yqchilde/wxbot) - ☝🏻 一个好玩的个人微信机器人程序(DaenDLL、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
-- [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ Follow for updates An RBAC permission management system based on Spring Cloud 2025, Spring Boot 4, and OAuth2.
+- [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ Follow for updates An RBAC permission management system based on Spring Cloud 2026, Spring Boot 4, and OAuth2.
 
 ## opencv 
 
@@ -1740,6 +1740,7 @@
 
 ## others 
 
+- [LukasRoom/SuperADD](https://github.com/LukasRoom/SuperADD) - Repository for the publication SuperADD
 - [beixiaocai/cface](https://github.com/beixiaocai/cface) - 人脸视觉开源框架 人脸检测/人脸识别/活体检测/人脸属性
 - [wxs401901420/SenHub](https://github.com/wxs401901420/SenHub) - SenHub 是一款面向智能安防场景的综合性数字视频监控网关系统，深度集成海康、大华、天地伟业等主流厂商摄像头 SDK，打破品牌壁垒，实现报警事件的统一接入、标准化处理与智能分发。系统可实时抓取图像、控制云台，并集中接收各类设备触发的报警信号（如移动侦测、越界、设备异常等），通过 MQTT、Webhook 等开放协议，将结构化报警事件毫秒级推送至 AI 分析平台、运维系统或指挥中心。 SenHub
 - [2929004360/ruoyi-qs-nvr](https://github.com/2929004360/ruoyi-qs-nvr) - 基于ruoyi-cloud开发的nvr系统，支持rtsp，rtmp，onvif，海康sdk，海康isup，大华sdk，gb28181，jt808，jt1078等协议接入，更有效管理监控视频。
@@ -2515,7 +2516,7 @@
 - [opengoofy/crane4j](https://github.com/opengoofy/crane4j) - 一个简单易用的关联字段填充框架，通过简单的注解配置快速根据外键/编码值填充相关字段，支持字典，枚举，方法等多种数据源。   A simple and easy-to-use data mapping framework, quickly populate relevant fields according to foreign keys/encoded values through simple 
 - [lets-mica/mica](https://github.com/lets-mica/mica) - Spring Cloud 微服务开发核心工具集。工具类、验证码、http、redis、ip2region、xss 等，开箱即用。 🔝 🔝 记得右上角点个star 关注更新！
 - [youlaitech/youlai-mall](https://github.com/youlaitech/youlai-mall) - 🚀基于 Spring Boot 3、Spring Cloud & Alibaba 2022、SAS OAuth2 、Vue3、Element-Plus、uni-app 构建的开源全栈商城。
-- [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ Follow for updates An RBAC permission management system based on Spring Cloud 2025, Spring Boot 4, and OAuth2.
+- [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ Follow for updates An RBAC permission management system based on Spring Cloud 2026, Spring Boot 4, and OAuth2.
 - [smart-cloud/smart-cloud](https://github.com/smart-cloud/smart-cloud) - 一站式 Spring Cloud 微服务脚手架 —— 让微服务开发像搭积木一样简单。支持服务合并部署与拆分部署、接口加解密签名、日志数据 脱敏、接口数据mock、接口文档自动生成、请求幂等校验、接口日志&&sql日志切面打印、分表分库分布式事务、国际化语言、接口监控及服务监控等
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard that enables you to monitor and track the status of your server.
 - [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
